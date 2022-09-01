@@ -97,7 +97,7 @@
 <style>
   .group-chart-container {
     margin-bottom: 50px;
-    width: 800px;
+    width: 100%;
   }
   .multiples-chart-container {
     display: inline-block;
