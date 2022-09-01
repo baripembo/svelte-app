@@ -48,71 +48,46 @@
 </script>
 
 
+<h3>User Growth in OCHA Platforms (2018 – 2022)</h3>
+<div class='group-chart-container'>
+  {#each serviceData as service}
+    <div class='multiples-chart-container'>
+      <LayerCake
+        padding={{ top: 30, right: 20, bottom: 0, left: 20 }}
+        data={ service[1] }
+        x='#date'
+        y='#users'
+        xScale={ scaleTime() }
+        yDomain={fullExtents.y}
+      >
+        <Html>
+          <div class='chart-header'>
+            <h5>{service[0]}</h5>
+            <p>url goes here</p>
+          </div>
+        </Html>
+        <Svg>
+          <AxisX
+            baseline={true}
+            formatTick={timeFormat('%Y')}
+            gridlines={false}
+            snapTicks={true}
+            ticks={fullExtents.x}
+          />
+          <AxisY
+            formatTick={format('.2s')}
+            ticks={fullExtents.y}
+          />
+          <Line stroke='#1EBFB3' />
+        </Svg>
+      </LayerCake>
+    </div>
+  {/each}
+</div>
 
-<main>
-
-  <h3>User Growth in OCHA Platforms (2018 – 2022)</h3>
-  <div class='group-chart-container'>
-    {#each serviceData as service}
-      <div class='multiples-chart-container'>
-        <LayerCake
-          padding={{ top: 30, right: 20, bottom: 0, left: 20 }}
-          data={ service[1] }
-          x='#date'
-          y='#users'
-          xScale={ scaleTime() }
-          yDomain={fullExtents.y}
-        >
-          <Html>
-            <div class='chart-header'>
-              <h5>{service[0]}</h5>
-              <p>url goes here</p>
-            </div>
-          </Html>
-          <Svg>
-            <AxisX
-              baseline={true}
-              formatTick={timeFormat('%Y')}
-              gridlines={false}
-              snapTicks={true}
-              ticks={fullExtents.x}
-            />
-            <AxisY
-              formatTick={format('.2s')}
-              ticks={fullExtents.y}
-            />
-            <Line stroke='#1EBFB3' />
-          </Svg>
-        </LayerCake>
-      </div>
-    {/each}
-  </div>
-
-</main>
 
 <style>
-  .group-chart-container {
-    margin-bottom: 50px;
-    width: 100%;
-  }
-  .multiples-chart-container {
-    display: inline-block;
-    height: 100px;
-    padding-bottom: 45px;
-    width: 25%;
-  }
   .chart-header {
-    margin-left: -20px;
-    margin-top: -50px;
-  }
-  h5 {
-    font-size: 13px;
-    line-height: 15px;
-    margin: 0;
-  }
-  p {
-    font-size: 12px;
-    line-height: 14px;
-    margin: 0;
+    display: block;
   }
 </style>

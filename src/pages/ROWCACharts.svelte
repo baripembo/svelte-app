@@ -51,76 +51,45 @@
 
 
 
-<main>
-
-  <h3>User Growth in ROWCA Countries (2016 – 2022)</h3>
-  <div class='group-chart-container'>
-    {#each countryData as country}
-      <div class='multiples-chart-container'>
-        <LayerCake
-          padding={{ top: 30, right: 20, bottom: 0, left: 20 }}
-          data={ country[1] }
-          x='#date'
-          y='#users'
-          xScale={ scaleTime() }
-          yDomain={fullExtents.y}
-        >
-          <Html>
-            <div class='chart-header'>
-              <img class='icon-flag' src='./images/flags/{country[1][0]["#country+code"]}.png' />
-              <div class='chart-title'>
-                <h5>{country[0]}</h5>
-              </div>
+<h3>User Growth in ROWCA Countries (2016 – 2022)</h3>
+<div class='group-chart-container'>
+  {#each countryData as country}
+    <div class='multiples-chart-container'>
+      <LayerCake
+        padding={{ top: 30, right: 20, bottom: 0, left: 20 }}
+        data={ country[1] }
+        x='#date'
+        y='#users'
+        xScale={ scaleTime() }
+        yDomain={fullExtents.y}
+      >
+        <Html>
+          <div class='chart-header'>
+            <img class='icon-flag' src='./images/flags/{country[1][0]["#country+code"]}.png' />
+            <div class='chart-title'>
+              <h5>{country[0]}</h5>
             </div>
-          </Html>
-          <Svg>
-            <AxisX
-              baseline={true}
-              formatTick={timeFormat('%Y')}
-              gridlines={false}
-              snapTicks={true}
-              ticks={fullExtents.x}
-            />
-            <AxisY
-              formatTick={format('.2s')}
-              ticks={fullExtents.y}
-            />
-            <Line stroke='#1EBFB3' />
-          </Svg>
-        </LayerCake>
-      </div>
-    {/each}
-  </div>
+          </div>
+        </Html>
+        <Svg>
+          <AxisX
+            baseline={true}
+            formatTick={timeFormat('%Y')}
+            gridlines={false}
+            snapTicks={true}
+            ticks={fullExtents.x}
+          />
+          <AxisY
+            formatTick={format('.2s')}
+            ticks={fullExtents.y}
+          />
+          <Line stroke='#1EBFB3' />
+        </Svg>
+      </LayerCake>
+    </div>
+  {/each}
+</div>
 
-</main>
 
 <style>
-  .group-chart-container {
-    margin-bottom: 50px;
-    width: 100%;
-  }
-  .multiples-chart-container {
-    display: inline-block;
-    height: 100px;
-    padding-bottom: 40px;
-    width: 25%;
-  }
-  h5 {
-    font-size: 13px;
-    line-height: 15px;
-    margin: 0;
-  }
-  .chart-header {
-    align-items: center;
-    display: flex;
-    flex-flow: row;
-    margin-left: -20px;
-    margin-top: -45px;
-  }
-  .icon-flag {
-    align-self: start; 
-    border-radius: 50%;
-    margin-right: 5px;
-    width: 25px;
-  }
 </style>
