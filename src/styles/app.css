@@ -62,7 +62,7 @@ h3 {
 }
 
 #app {
-  width: 950px;
+  width: 970px;
   margin: 0 auto;
   padding: 2rem;
 }
@@ -127,7 +127,7 @@ p {
 
 
 
-  
+
 
 @media (prefers-color-scheme: light) {
   :root {
