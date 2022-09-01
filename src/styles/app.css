@@ -1,5 +1,7 @@
+@import 'variables.css';
+
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -27,14 +29,32 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
 
+nav {
+  text-align: left;
+}
+
+nav a:after {
+  content: '|';
+  padding: 0 10px;
+}
+
+nav a:last-child:after {
+  content: '';
+}
+
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+}
+
+h3 {
+  margin: 30px 0;
+  text-align: left;
 }
 
 .card {
@@ -42,10 +62,9 @@ h1 {
 }
 
 #app {
-  max-width: 1280px;
+  width: 900px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
 }
 
 button {
