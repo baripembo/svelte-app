@@ -80,7 +80,7 @@
             <img class='icon-flag' src='./images/flags/{country[1][0]["#country+code"]}.png' />
             <div class='chart-title'>
               <h5>{country[0]}</h5>
-              <p><b>{format('.0%')(country[3])}</b> Data Complete</p>
+              <!-- <p><b>{format('.0%')(country[3])}</b> Data Complete</p> -->
             </div>
           </div>
         </Html>
