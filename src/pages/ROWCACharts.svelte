@@ -49,9 +49,10 @@
 
     //find max val by country
     countryData.forEach(function(country) {
-      let c = perComplete.get(country[0]);
+      let c = perComplete.get(country[1][0]['#country+name']);
       let per = (c !== undefined) ? c[0]['#pct+complete'] : 0;
       country.push(max(country[1], d => d['#users']))
+      country.push(+per);
     });
 
     //sort by high to low val//sort by high to low val
@@ -80,7 +81,7 @@
             <img class='icon-flag' src='./images/flags/{country[1][0]["#country+code"]}.png' />
             <div class='chart-title'>
               <h5>{country[0]}</h5>
-              <!-- <p><b>{format('.0%')(country[3])}</b> Data Complete</p> -->
+              <p><b>{format('.0%')(country[3])}</b> Data Complete</p>
             </div>
           </div>
         </Html>
