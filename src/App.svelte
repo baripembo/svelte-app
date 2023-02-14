@@ -11,9 +11,9 @@
   <br>
   <br>
   <HDXHRPCharts />
-<!--   <HRPCharts />
+  <HRPCharts />
   <OCHACharts />
-  <ROWCACharts /> -->
+  <ROWCACharts />
 </main>
 
 <style>
