@@ -45,8 +45,9 @@
   onMount(async () => {
     hdxData = await csv(userData, function(data) {
       data['#month'] = data[xKey]; //save copy of original date format
-      data[xKey] = new Date(data[xKey]);
-      data[yKey] = +data[yKey];//parseFloat(data[yKey].replace(/,/g, ''));
+      let d = data[xKey].split('-');
+      data[xKey] = new Date(d[1], getMonthFromString(d[0]));
+      data[yKey] = +parseFloat(data[yKey].replace(/,/g, ''));
       return data;
     }).then((data) => {
       return data;
@@ -55,7 +56,7 @@
     origHdxData = hdxData;
 
     //get range of years in data
-    dates = [...new Set(hdxData.map(d => d['#month']))];
+    dates = [...new Set(hdxData.map(d => d[xKey]))];
 
     //set date range
     $: fromDateValue = dates[0]
@@ -69,6 +70,19 @@
   $: xDomain.set(extents.x);
   $: yDomain.set([0, userMax]);
 
+
+  function getMonthFromString(month) {
+    var d = Date.parse(month + '1, 2012');
+    if (!isNaN(d)) {
+      return new Date(d).getMonth();
+    }
+    return -1;
+  }
+
+  function getMonth(m) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return months[m];
+  }
 
   function roundUp(num) {
     let p = Math.pow(10, num.toString().length-1);
@@ -92,7 +106,6 @@
   }
 
   function checkDateRange(date) {
-    console.log(date, fromDateValue, toDateValue)
     return (date.getTime() >= new Date(fromDateValue).getTime() && date.getTime() <= new Date(toDateValue).getTime());
   }
 </script>
@@ -101,7 +114,7 @@
 <select name='from-date' id='fromDate' bind:value={fromDateValue} on:change='{handleDateSelect}'>
   {#each dates as date}
     {#if (new Date(date).getTime() < new Date(toDateValue).getTime()) }
-      <option value={date} selected>{date}</option>
+      <option value={date} selected>{getMonth(date.getMonth())} {date.getFullYear()}</option>
     {/if}
   {/each}
 </select>
@@ -110,7 +123,7 @@
 <select name='from-date' id='toDate' bind:value={toDateValue} on:change='{handleDateSelect}'>
   {#each dates as date}
     {#if (new Date(date).getTime() > new Date(fromDateValue).getTime()) }
-      <option value={date} selected>{date}</option>
+      <option value={date} selected>{getMonth(date.getMonth())} {date.getFullYear()}</option>
     {/if}
   {/each}
 </select>
