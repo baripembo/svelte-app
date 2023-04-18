@@ -7,20 +7,20 @@
 </script>
 
 <main>
+  <h2>Centre in Numbers</h2>
   <HDXCharts />
-  <br>
-  <br>
+  <hr>
   <HDXHRPCharts />
-  <br>
-  <br>
+  <hr>
   <HRPCharts />
-  <br>
-  <br>
+  <hr>
   <OCHACharts />
-  <br>
-  <br>
+  <hr>
   <ROWCACharts />
 </main>
 
 <style>
+  hr {
+    margin: 50px 0;
+  }
 </style>
