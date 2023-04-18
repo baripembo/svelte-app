@@ -159,6 +159,11 @@
   </LayerCake>
 </div>
 
+<div class='description'>
+  <p>This chart shows unique user growth in HRP countries on HDX by month over time. The available date range can be adjusted from January 2014 to present.</p>
+  <a href='https://docs.google.com/spreadsheets/d/19fWDh6UU0ErS-Ex_IvLCsJqR0voNCpxzVLALhJLSjSQ/edit?pli=1#gid=427848475' target='_blank'>DATA</a>
+</div>
+
 
 <style>
   .chart-container {
@@ -166,8 +171,14 @@
     width: 100%;
     height: 300px;
   }
+  a {
+    color: #007CE0;
+    font-weight: 700;
+    text-decoration: underline;
+  }
   p {
-    color: #1EBFB3;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
   }
   select {
     font-family: inherit;

@@ -110,13 +110,24 @@
   {/each}
 </div>
 
+<div class='description'>
+  <p>These small multiples show HDX user growth in HRP countries over time as well as each country's data grid data complete percentage.</p>
+  <a href='https://docs.google.com/spreadsheets/d/19fWDh6UU0ErS-Ex_IvLCsJqR0voNCpxzVLALhJLSjSQ/edit?pli=1#gid=0' target='_blank'>DATA</a>
+</div>
+
 
 
 <style>
   .multiples-chart-container {
     width: 20%;
   }
+  a {
+    color: #007CE0;
+    font-weight: 700;
+    text-decoration: underline;
+  }
   p {
-    color: #1EBFB3;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
   }
 </style>

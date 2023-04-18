@@ -104,9 +104,20 @@
   {/each}
 </div>
 
+<div class='description'>
+  <p>These small multiples show HDX user growth in ROWCA countries over time as well as each country's data grid data complete percentage.</p>
+  <a href='https://docs.google.com/spreadsheets/d/1ZPraPwIDh3UwqpZ2ci7Uawwv7ahcya1Y0dmW9KzF4mk/edit#gid=1204537761' target='_blank'>DATA</a>
+</div>
+
 
 <style>
+  a {
+    color: #007CE0;
+    font-weight: 700;
+    text-decoration: underline;
+  }
   p {
-    color: #1EBFB3;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
   }
 </style>
