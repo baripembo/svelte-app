@@ -78,6 +78,10 @@
     //sort by high to low val
     serviceContent.sort((a, b) => b[2] - a[2]);
   });
+
+  function stripURL(url) {
+    return url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split('/')[0]
+  }
 </script>
 
 
@@ -97,7 +101,7 @@
         <Html>
           <div class='chart-header'>
             <h5>{service[0]}</h5>
-            <p>{service[1][0]['#url']}</p>
+            <p><a href='service[1][0]["#url"]' target='_blank'>{stripURL(service[1][0]['#url'])}</a></p>
           </div>
         </Html>
         <Svg>
@@ -132,7 +136,7 @@
         <Html>
           <div class='chart-header'>
             <h5>{service[0]}</h5>
-            <p>{service[1][0]['#url']}</p>
+            <p><a href='service[1][0]["#url"]' target='_blank'>{stripURL(service[1][0]['#url'])}</a></p>
           </div>
         </Html>
         <Svg>
@@ -176,5 +180,8 @@
   p {
     font-size: 0.9rem;
     margin-bottom: 5px;
+  }
+  p > a {
+    font-weight: normal;
   }
 </style>
