@@ -6,8 +6,15 @@
   import ROWCACharts from './pages/ROWCACharts.svelte';
 </script>
 
-<main>
-  <h2>Centre in Numbers</h2>
+
+<main>  
+  <div class='header'>
+    <h2>The Centre in Numbers</h2>
+    <a href="https://centre.humdata.org">
+      <img src='images/centreforHumdata_green_TransparentBG.png' alt='Centre for Humanitarian Data logo' />  
+    </a>
+  </div>
+
   <HDXCharts />
   <hr>
   <HDXHRPCharts />
@@ -22,5 +29,13 @@
 <style>
   hr {
     margin: 50px 0;
+  }
+  .header {
+    display: flex;    
+    flex-flow: row;
+    justify-content: space-between;
+  }
+  .header img {
+    width: 200px;
   }
 </style>
