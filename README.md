@@ -5,14 +5,16 @@ An internal page of dynamic charts tracking HDX user growth across various segme
 ## Build
 
 `npm run dev` to start development
+
 Deploy will run automatically after pushing to Git
 
 ## Overview
 
 Images can be found in the `public/` directory
-Components can be found in `src/components`
-Global CSS can be found in `src/styles`
 
+Components can be found in `src/components`
+
+Global CSS can be found in `src/styles`
 
 Each chart has it's own page in `src/pages`
 
