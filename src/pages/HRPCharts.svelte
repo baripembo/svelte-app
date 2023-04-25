@@ -116,18 +116,8 @@
 </div>
 
 
-
 <style>
   .multiples-chart-container {
     width: 20%;
-  }
-  a {
-    color: #007CE0;
-    font-weight: 700;
-    text-decoration: underline;
-  }
-  p {
-    font-size: 0.9rem;
-    margin-bottom: 5px;
   }
 </style>

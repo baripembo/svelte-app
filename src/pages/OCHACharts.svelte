@@ -169,19 +169,4 @@
     display: block;
     text-align: center;
   }
-  h4 {
-    font-size: 14px;
-  }
-  a {
-    color: #007CE0;
-    font-weight: 700;
-    text-decoration: underline;
-  }
-  p {
-    font-size: 0.9rem;
-    margin-bottom: 5px;
-  }
-  p > a {
-    font-weight: normal;
-  }
 </style>

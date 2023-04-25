@@ -1,6 +1,5 @@
 <script>
   import { curveBasis, csv, format, formatPrefix, group, max, select, timeFormat } from 'd3'
-  //import * as d3 from 'd3';
   import { scaleTime } from 'd3-scale'
   import { calcExtents, LayerCake, Html, Svg } from 'layercake'
   import { onMount } from 'svelte'
@@ -33,10 +32,6 @@
   let userMax = 0;
   $: fromDateValue = '';
   $: toDateValue = '';
-
-  // $: {
-  //   console.log(`user max is ${userMax}`)
-  // }
 
   //date the centre opened
   const centreDate = new Date(2017, 7, 1);
@@ -166,28 +161,4 @@
 
 
 <style>
-  .chart-container {
-    margin-bottom: 50px;
-    width: 100%;
-    height: 300px;
-  }
-  a {
-    color: #007CE0;
-    font-weight: 700;
-    text-decoration: underline;
-  }
-  p {
-    font-size: 0.9rem;
-    margin-bottom: 5px;
-  }
-  select {
-    font-family: inherit;
-    font-size: inherit;
-    -webkit-padding: 0.4em 0;
-    padding: 0.4em;
-    margin: 0 20px 0.5em 5px;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-  }
 </style>

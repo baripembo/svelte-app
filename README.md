@@ -1,4 +1,25 @@
-# Svelte + Vite
+# The Centre in Numbers
+
+An internal page of dynamic charts tracking HDX user growth across various segments.
+
+## Build
+
+`npm run dev` to start development
+Deploy will run automatically after pushing to Git
+
+## Overview
+
+Images can be found in the `public/` directory
+Components can be found in `src/components`
+Global CSS can be found in `src/styles`
+
+
+Each chart has it's own page in `src/pages`
+
+
+
+
+## Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
 
