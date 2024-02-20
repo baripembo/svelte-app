@@ -1,5 +1,6 @@
 <script>
   import HDXCharts from './pages/HDXCharts.svelte';
+  import HDXCharts2 from './pages/HDXCharts2.svelte';
   import HDXHRPCharts from './pages/HDXHRPCharts.svelte';
   import HRPCharts from './pages/HRPCharts.svelte';
   import OCHACharts from './pages/OCHACharts.svelte';
@@ -16,6 +17,8 @@
   </div>
 
   <HDXCharts />
+  <hr>
+  <HDXCharts2 />
   <hr>
   <HDXHRPCharts />
   <hr>
