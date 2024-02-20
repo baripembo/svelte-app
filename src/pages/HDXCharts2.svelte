@@ -153,13 +153,13 @@
       <Line stroke='#1EBFB3' curve={curveBasis} />
       <!-- {#if checkDateRange(centreDate)} -->
       {#if (covidDate.getTime() > new Date(fromDateValue).getTime() && covidDate.getTime() < new Date(toDateValue).getTime()) }
-        <AnnotationLine text={'COVID-19'} myX={covidDate} height={300} stroke='#F2645A' labelPosition='left' labelClass='label-left' />
+        <AnnotationLine text={'COVID-19 Pandemic'} myX={covidDate} height={300} stroke='#F2645A' labelPosition='left' labelClass='label-left' allowWrapping={true} />
       {/if}
       {#if (ukraineDate.getTime() > new Date(fromDateValue).getTime() && ukraineDate.getTime() < new Date(toDateValue).getTime()) }
-        <AnnotationLine text={'War in Ukraine'} myX={ukraineDate} height={300} stroke='#F2645A' labelPosition='left' labelClass='label-left' />
+        <AnnotationLine text={'Ukraine War'} myX={ukraineDate} height={300} stroke='#F2645A' labelPosition='left' labelClass='label-left' allowWrapping={true} />
       {/if}
       {#if (gazaDate.getTime() > new Date(fromDateValue).getTime() && gazaDate.getTime() < new Date(toDateValue).getTime()) }
-        <AnnotationLine text={'War in Gaza'} myX={gazaDate} height={300} stroke='#F2645A' labelPosition='left' labelClass='label-left' />
+        <AnnotationLine text={'Hostilities in the Gaza Strip and Israel'} myX={gazaDate} height={300} stroke='#F2645A' labelPosition='left' labelClass='label-left' allowWrapping={true} />
       {/if}
     </Svg>
   </LayerCake>
