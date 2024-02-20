@@ -11,7 +11,6 @@
 	export let height = 250;
 	export let text = 'label me';
 	export let labelPosition = 'right';
-	export let labelClass = 'label';
 	export let allowWrapping = false;
 
 	let offset = $padding.top + $padding.bottom;
@@ -29,25 +28,22 @@
 
 {#if allowWrapping} 
 	<foreignObject
-		class={labelClass}
+		class={labelPosition=='left' ? 'label-left' : 'label'}
 		x={labelPosition=='left' ? $xScale(myX)-105 : $xScale(myX)+5} 
 		y={-(offset)} 
 		width="100" 
-		height="100"
-	>
-		<p xmlns="http://www.w3.org/1999/xhtml" 
-			class={labelClass}>
-		{text}
+		height="100">
+		<p xmlns="http://www.w3.org/1999/xhtml" class={labelPosition=='left' ? 'label-left' : 'label'}>
+			{text}
 		</p>
 	</foreignObject>
 {:else}
 	<text
-		class={labelClass}
+		class={labelPosition=='left' ? 'label-left' : 'label'}
 		x={labelPosition=='left' ? $xScale(myX)-5 : $xScale(myX)+5}
 		y={-(offset)}
 		dy={'1em'}
-		fill={stroke}
-	>
+		fill={stroke}>
 		{text}
 	</text>
 {/if}
