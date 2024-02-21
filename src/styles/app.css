@@ -129,13 +129,12 @@ select {
   width: 25%;
 }
 .chart-header {
-  margin-left: -20px;
+  margin-left: 0px;
   margin-top: -50px;
 }
 .chart-header {
   display: flex;
   flex-flow: row;
-  margin-left: -20px;
   margin-top: -45px;
 }
 .icon-flag {

@@ -8,11 +8,8 @@
   import AxisY from '$components/charts/AxisY.svelte';
   import Line from '$components/charts/Line.svelte';  
 
-  let hrpData = [];
-  let countryData = [];
-  let perComplete = [];
-  let commodities = [];
 
+  let commodities = [];
   let fullExtents;
 
   const extentGetters = {
@@ -47,12 +44,13 @@
   {#each commodities as commodity}
   <div class='multiples-chart-container'>
       <LayerCake
-        padding={{ top: 30, right: 20, bottom: 0, left: 20 }}
+        padding={{ top: 30, right: 20, bottom: 0, left: 0 }}
         data={ commodity[1] }
         x='Date'
         y='Average Price'
         xScale={ scaleTime() }
-        yDomain={fullExtents.y}
+        xDomain={fullExtents.x}
+        yDomain={(calcExtents(commodity[1], extentGetters)).y}
       >
         <Html>
           <div class='chart-header'>
@@ -62,17 +60,17 @@
           </div>
         </Html>
         <Svg>
-<!--           <AxisX
+          <AxisX
             baseline={true}
             formatTick={timeFormat('%Y')}
             gridlines={false}
             snapTicks={true}
             ticks={fullExtents.x}
-          /> -->
-          <AxisY
+          />
+<!--           <AxisY
             formatTick={format('.2s')}
             ticks={fullExtents.y}
-          />
+          /> -->
           <Line stroke='#1EBFB3' curve={curveBasis} />
         </Svg>
       </LayerCake>
@@ -89,5 +87,8 @@
 <style>
   .multiples-chart-container {
     width: 20%;
+  }
+  line.baseline {
+    stroke: #CCC !important;
   }
 </style>
