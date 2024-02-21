@@ -1,52 +1,4 @@
 Commodity,Date,Unit,Average Price
-"Beans (fava, dry)",2020-03-15,KG,1031.8461538461538
-"Beans (fava, dry)",2020-04-15,KG,992.5815384615385
-"Beans (fava, dry)",2020-05-15,KG,994.1653846153846
-"Beans (fava, dry)",2020-06-15,KG,1089.7775
-"Beans (fava, dry)",2020-07-15,KG,1130.129090909091
-"Beans (fava, dry)",2020-08-15,KG,1027.8142857142857
-"Beans (fava, dry)",2020-09-15,KG,1049.76
-"Beans (fava, dry)",2020-10-15,KG,1025.25
-"Beans (fava, dry)",2020-11-15,KG,982.7040000000001
-"Beans (fava, dry)",2020-12-15,KG,1024.7533333333333
-"Beans (fava, dry)",2021-01-15,KG,1240.0558333333333
-"Beans (fava, dry)",2021-02-15,KG,1074.7222222222222
-"Beans (fava, dry)",2021-03-15,KG,1056.3623076923077
-"Beans (fava, dry)",2021-04-15,KG,1093.8892857142857
-"Beans (fava, dry)",2021-05-15,KG,1074.7725
-"Beans (fava, dry)",2021-06-15,KG,1077.5800000000002
-"Beans (fava, dry)",2021-07-15,KG,1071.7333333333333
-"Beans (fava, dry)",2021-08-15,KG,1013.4342105263158
-"Beans (fava, dry)",2021-09-15,KG,1171.9047368421054
-"Beans (fava, dry)",2021-10-15,KG,1005.3917647058823
-"Beans (fava, dry)",2021-11-15,KG,1046.278888888889
-"Beans (fava, dry)",2021-12-15,KG,1188.111818181818
-"Beans (fava, dry)",2022-01-15,KG,1153.3644444444444
-"Beans (fava, dry)",2022-02-15,KG,1239.8905555555555
-"Beans (fava, dry)",2022-03-15,KG,1264.9925
-"Beans (fava, dry)",2022-04-15,KG,1233.802222222222
-"Beans (fava, dry)",2022-05-15,KG,1223.0055555555555
-"Beans (fava, dry)",2022-06-15,KG,1287.154375
-"Beans (fava, dry)",2022-07-15,KG,1451.545
-"Beans (fava, dry)",2022-08-15,KG,1680.2264705882353
-"Beans (fava, dry)",2022-09-15,KG,1948.055882352941
-"Beans (fava, dry)",2022-10-15,KG,1971.4117647058824
-"Beans (fava, dry)",2022-11-15,KG,1864.1750000000002
-"Beans (fava, dry)",2022-12-15,KG,1863.31
-"Beans (fava, dry)",2023-01-15,KG,1915.5875
-"Beans (fava, dry)",2023-02-15,KG,2000.5565
-"Beans (fava, dry)",2023-03-15,KG,2198.8205263157897
-"Beans (fava, dry)",2023-04-15,KG,2314.3435
-"Beans (fava, dry)",2023-05-15,KG,2604.15125
-"Beans (fava, dry)",2023-06-15,KG,2739.7270588235297
-"Beans (fava, dry)",2023-07-15,KG,3203.840476190476
-"Beans (fava, dry)",2023-08-15,KG,3105.4965
-"Beans (fava, dry)",2023-09-15,KG,2875.056111111111
-"Beans (fava, dry)",2023-10-15,KG,2966.5327777777775
-"Beans (fava, dry)",2023-11-15,KG,2853.1511764705883
-"Beans (fava, dry)",2023-12-15,KG,2815.024
-"Beans (fava, dry)",2024-01-15,KG,3245.742777777778
-"Beans (fava, dry)",2024-02-15,KG,3451.406
 Beans (red),2009-03-15,KG,6.38
 Beans (red),2009-04-15,KG,5.88
 Beans (red),2009-05-15,KG,7.05
@@ -79,16 +31,16 @@ Beans (red),2011-07-15,KG,11.166666666666666
 Beans (red),2011-08-15,KG,12.107142857142858
 Beans (red),2011-09-15,KG,13.324000000000002
 Beans (red),2011-10-15,KG,14.071428571428571
-Beans (red),2011-11-15,KG,14.318333333333333
+Beans (red),2011-11-15,KG,14.318333333333332
 Beans (red),2011-12-15,KG,13.945
 Beans (red),2012-01-15,KG,14.833333333333334
 Beans (red),2012-02-15,KG,13.285714285714286
-Beans (red),2012-03-15,KG,14.478333333333333
+Beans (red),2012-03-15,KG,14.478333333333332
 Beans (red),2012-04-15,KG,14.035714285714286
 Beans (red),2012-05-15,KG,17.357142857142858
 Beans (red),2012-06-15,KG,15.125
 Beans (red),2012-07-15,KG,11.166666666666666
-Beans (red),2012-08-15,KG,12.200000000000001
+Beans (red),2012-08-15,KG,12.2
 Beans (red),2012-09-15,KG,13.52
 Beans (red),2012-10-15,KG,17.19
 Beans (red),2012-11-15,KG,14.28125
@@ -114,8 +66,8 @@ Beans (red),2014-06-15,KG,12.666666666666666
 Beans (red),2014-07-15,KG,12.666666666666666
 Beans (red),2014-08-15,KG,11.071428571428571
 Beans (red),2014-09-15,KG,11.035714285714286
-Beans (red),2014-10-15,KG,11.564285714285715
-Beans (red),2014-11-15,KG,13.952857142857143
+Beans (red),2014-10-15,KG,11.564285714285717
+Beans (red),2014-11-15,KG,13.952857142857145
 Beans (red),2014-12-15,KG,13.6875
 Beans (red),2015-01-15,KG,10.0875
 Beans (red),2015-02-15,KG,11.642857142857142
@@ -132,7 +84,7 @@ Beans (red),2015-12-15,KG,29.042857142857144
 Beans (red),2016-01-15,KG,32.775
 Beans (red),2016-02-15,KG,37.97272727272727
 Beans (red),2016-03-15,KG,42.27272727272727
-Beans (red),2016-04-15,KG,43.666666666666664
+Beans (red),2016-04-15,KG,43.66666666666666
 Beans (red),2016-05-15,KG,49.04545454545455
 Beans (red),2016-06-15,KG,57.5
 Beans (red),2016-07-15,KG,68.46636363636364
@@ -145,17 +97,17 @@ Beans (red),2017-01-15,KG,139.05555555555554
 Beans (red),2017-02-15,KG,146.56
 Beans (red),2017-03-15,KG,160.73
 Beans (red),2017-04-15,KG,195.7
-Beans (red),2017-05-15,KG,215.61999999999998
+Beans (red),2017-05-15,KG,215.62
 Beans (red),2017-06-15,KG,269.5833333333333
 Beans (red),2017-07-15,KG,250.0
-Beans (red),2017-08-15,KG,253.86363636363637
+Beans (red),2017-08-15,KG,253.8636363636364
 Beans (red),2017-09-15,KG,214.25
 Beans (red),2017-10-15,KG,236.27272727272728
 Beans (red),2017-11-15,KG,261.6
 Beans (red),2017-12-15,KG,243.0
 Beans (red),2018-01-15,KG,270.4
 Beans (red),2018-02-15,KG,372.5
-Beans (red),2018-03-15,KG,364.72727272727275
+Beans (red),2018-03-15,KG,364.7272727272728
 Beans (red),2018-04-15,KG,386.8888888888889
 Beans (red),2018-05-15,KG,380.0
 Beans (red),2018-06-15,KG,429.8611111111111
@@ -174,7 +126,7 @@ Beans (red),2019-07-15,KG,452.3333333333333
 Beans (red),2019-08-15,KG,443.5
 Beans (red),2019-09-15,KG,458.45454545454544
 Beans (red),2019-10-15,KG,480.09090909090907
-Beans (red),2019-11-15,KG,472.85714285714283
+Beans (red),2019-11-15,KG,472.8571428571428
 Beans (red),2019-12-15,KG,493.0
 Beans (red),2020-01-15,KG,569.9583333333334
 Beans (red),2020-02-15,KG,558.0833333333334
@@ -203,19 +155,19 @@ Beans (red),2021-12-15,KG,899.3635714285714
 Beans (red),2022-01-15,KG,902.811
 Beans (red),2022-02-15,KG,921.6965
 Beans (red),2022-03-15,KG,893.0147058823529
-Beans (red),2022-04-15,KG,903.5342105263159
+Beans (red),2022-04-15,KG,903.534210526316
 Beans (red),2022-05-15,KG,916.8005263157894
 Beans (red),2022-06-15,KG,956.738
 Beans (red),2022-07-15,KG,1041.3780000000002
 Beans (red),2022-08-15,KG,1233.2677272727271
-Beans (red),2022-09-15,KG,1344.1739130434783
+Beans (red),2022-09-15,KG,1344.1739130434785
 Beans (red),2022-10-15,KG,1410.0263636363636
 Beans (red),2022-11-15,KG,1381.9065217391303
 Beans (red),2022-12-15,KG,1341.122380952381
 Beans (red),2023-01-15,KG,1417.3771428571429
 Beans (red),2023-02-15,KG,1543.6390909090908
 Beans (red),2023-03-15,KG,1778.6475
-Beans (red),2023-04-15,KG,1954.3704545454545
+Beans (red),2023-04-15,KG,1954.3704545454543
 Beans (red),2023-05-15,KG,2115.555909090909
 Beans (red),2023-06-15,KG,2248.119090909091
 Beans (red),2023-07-15,KG,2584.094
@@ -226,61 +178,7 @@ Beans (red),2023-11-15,KG,2450.615
 Beans (red),2023-12-15,KG,2537.2857894736844
 Beans (red),2024-01-15,KG,2507.271176470588
 Beans (red),2024-02-15,KG,2873.180714285714
-Cassava,2015-05-15,3.5 KG,15.95
-Cassava,2015-06-15,3.5 KG,20.0
-Cassava,2015-07-15,3.5 KG,19.0
-Cassava,2015-08-15,3.5 KG,19.0
-Cassava,2015-09-15,3.5 KG,18.5
-Cassava,2015-10-15,3.5 KG,23.766666666666666
-Cassava,2015-11-15,3.5 KG,23.233333333333334
-Cassava,2015-12-15,3.5 KG,30.9
-Cassava,2016-01-15,3.5 KG,38.333333333333336
-Cassava,2016-02-15,3.5 KG,65.0
-Cassava,2016-03-15,3.5 KG,47.25
-Cassava,2016-04-15,3.5 KG,45.875
-Cassava,2016-05-15,3.5 KG,56.56666666666666
-Cassava,2016-06-15,3.5 KG,53.75
-Cassava,2016-07-15,3.5 KG,58.333333333333336
-Cassava,2016-08-15,3.5 KG,127.44333333333334
-Cassava,2016-10-15,3.5 KG,165.5
-Cassava,2016-11-15,3.5 KG,189.5
-Cassava,2016-12-15,3.5 KG,208.0
-Cassava,2017-01-15,3.5 KG,250.0
-Cassava,2017-02-15,3.5 KG,213.9
-Cassava,2017-03-15,3.5 KG,230.33333333333334
-Cassava,2017-04-15,3.5 KG,313.35
-Cassava,2017-05-15,3.5 KG,325.0
-Cassava,2017-06-15,3.5 KG,305.0
-Cassava,2017-07-15,3.5 KG,346.0
-Cassava,2017-08-15,3.5 KG,339.3333333333333
-Cassava,2017-10-15,3.5 KG,291.0
-Cassava,2017-11-15,3.5 KG,281.0
-Cassava,2017-12-15,3.5 KG,283.3333333333333
-Cassava,2018-01-15,3.5 KG,336.25
-Cassava,2018-03-15,3.5 KG,323.6
-Cassava,2018-04-15,3.5 KG,396.0
-Cassava,2018-06-15,3.5 KG,452.6666666666667
-Cassava,2018-07-15,3.5 KG,500.0
-Cassava,2018-08-15,3.5 KG,437.6666666666667
-Cassava,2018-09-15,3.5 KG,395.8333333333333
-Cassava,2018-10-15,3.5 KG,396.6666666666667
-Cassava,2018-12-15,3.5 KG,316.6666666666667
-Cassava,2019-01-15,3.5 KG,296.4
-Cassava,2019-02-15,3.5 KG,316.6666666666667
-Cassava,2019-03-15,3.5 KG,300.75
-Cassava,2019-04-15,3.5 KG,319.0
-Cassava,2019-05-15,3.5 KG,320.0
-Cassava,2019-06-15,3.5 KG,391.6666666666667
-Cassava,2019-07-15,3.5 KG,418.1666666666667
-Cassava,2019-08-15,3.5 KG,413.3333333333333
-Cassava,2019-09-15,3.5 KG,950.0
-Cassava,2019-10-15,3.5 KG,420.0
-Cassava,2019-11-15,3.5 KG,500.0
-Cassava,2019-12-15,3.5 KG,500.0
-Cassava,2020-01-15,3.5 KG,427.6666666666667
-Cassava,2020-02-15,3.5 KG,400.0
-Cassava,2020-03-15,3.5 KG,404.3333333333333
-Cassava (dry),2009-05-15,3.5 KG,6.5649999999999995
+Cassava (dry),2009-05-15,3.5 KG,6.565
 Cassava (dry),2009-06-15,3.5 KG,7.375
 Cassava (dry),2009-07-15,3.5 KG,8.0
 Cassava (dry),2009-08-15,3.5 KG,8.5
@@ -309,7 +207,7 @@ Cassava (dry),2011-06-15,3.5 KG,8.25
 Cassava (dry),2011-07-15,3.5 KG,11.0
 Cassava (dry),2011-08-15,3.5 KG,11.25
 Cassava (dry),2011-09-15,3.5 KG,11.0
-Cassava (dry),2011-10-15,3.5 KG,12.309999999999999
+Cassava (dry),2011-10-15,3.5 KG,12.31
 Cassava (dry),2011-11-15,3.5 KG,10.335
 Cassava (dry),2011-12-15,3.5 KG,10.0
 Cassava (dry),2012-01-15,3.5 KG,10.0
@@ -343,7 +241,7 @@ Cassava (dry),2020-03-15,3.5 KG,382.8333333333333
 Cassava (dry),2020-04-15,3.5 KG,386.29833333333335
 Cassava (dry),2020-05-15,3.5 KG,382.8425
 Cassava (dry),2020-06-15,3.5 KG,380.0
-Cassava (dry),2020-07-15,3.5 KG,388.38800000000003
+Cassava (dry),2020-07-15,3.5 KG,388.388
 Cassava (dry),2020-08-15,3.5 KG,501.6671428571429
 Cassava (dry),2020-09-15,3.5 KG,668.452
 Cassava (dry),2020-10-15,3.5 KG,988.3333333333334
@@ -353,84 +251,48 @@ Cassava (dry),2021-01-15,3.5 KG,970.0
 Cassava (dry),2021-02-15,3.5 KG,975.0
 Cassava (dry),2021-03-15,3.5 KG,1014.335
 Cassava (dry),2021-04-15,3.5 KG,1050.9266666666665
-Cassava (dry),2021-05-15,3.5 KG,987.0683333333333
+Cassava (dry),2021-05-15,3.5 KG,987.0683333333332
 Cassava (dry),2021-06-15,3.5 KG,983.3333333333334
 Cassava (dry),2021-07-15,3.5 KG,1025.3333333333333
 Cassava (dry),2021-08-15,3.5 KG,1108.6957142857143
 Cassava (dry),2021-09-15,3.5 KG,1067.9483333333335
 Cassava (dry),2021-10-15,3.5 KG,1000.0
 Cassava (dry),2021-11-15,3.5 KG,990.4175
-Cassava (dry),2021-12-15,3.5 KG,972.5799999999999
-Cassava (dry),2022-01-15,3.5 KG,989.6119999999999
+Cassava (dry),2021-12-15,3.5 KG,972.58
+Cassava (dry),2022-01-15,3.5 KG,989.612
 Cassava (dry),2022-02-15,3.5 KG,953.0
 Cassava (dry),2022-03-15,3.5 KG,874.0733333333334
 Cassava (dry),2022-04-15,3.5 KG,860.0
 Cassava (dry),2022-05-15,3.5 KG,949.48
 Cassava (dry),2022-06-15,3.5 KG,1228.666
 Cassava (dry),2022-07-15,3.5 KG,1395.484
-Cassava (dry),2022-08-15,3.5 KG,1662.7939999999999
+Cassava (dry),2022-08-15,3.5 KG,1662.794
 Cassava (dry),2022-09-15,3.5 KG,1800.8
 Cassava (dry),2022-10-15,3.5 KG,1406.6666666666667
-Cassava (dry),2022-11-15,3.5 KG,1453.5714285714287
+Cassava (dry),2022-11-15,3.5 KG,1453.571428571429
 Cassava (dry),2022-12-15,3.5 KG,1432.0516666666665
 Cassava (dry),2023-01-15,3.5 KG,1338.804
-Cassava (dry),2023-02-15,3.5 KG,2018.3955555555558
+Cassava (dry),2023-02-15,3.5 KG,2018.395555555556
 Cassava (dry),2023-03-15,3.5 KG,2064.1425
 Cassava (dry),2023-04-15,3.5 KG,1851.765
 Cassava (dry),2023-05-15,3.5 KG,2344.79125
 Cassava (dry),2023-06-15,3.5 KG,2203.405714285714
-Cassava (dry),2023-07-15,3.5 KG,2502.0385714285717
-Cassava (dry),2023-08-15,3.5 KG,2281.5299999999997
+Cassava (dry),2023-07-15,3.5 KG,2502.038571428572
+Cassava (dry),2023-08-15,3.5 KG,2281.53
 Cassava (dry),2023-09-15,3.5 KG,2037.3275
 Cassava (dry),2023-10-15,3.5 KG,2196.828571428571
 Cassava (dry),2023-11-15,3.5 KG,2442.442857142857
 Cassava (dry),2023-12-15,3.5 KG,2614.63375
 Cassava (dry),2024-01-15,3.5 KG,2498.235
 Cassava (dry),2024-02-15,3.5 KG,2815.9075000000003
-Charcoal,2020-03-15,KG,100.0
-Charcoal,2020-04-15,KG,100.0
-Charcoal,2020-05-15,KG,137.22222222222223
-Charcoal,2020-06-15,KG,138.5
-Charcoal,2020-07-15,KG,130.0
-Charcoal,2020-08-15,KG,175.843125
-Charcoal,2020-09-15,KG,189.58588235294118
-Charcoal,2020-10-15,KG,178.99769230769232
-Charcoal,2020-11-15,KG,184.15888888888887
-Charcoal,2020-12-15,KG,216.66666666666666
-Charcoal,2021-01-15,KG,211.333
-Charcoal,2021-02-15,KG,212.5
-Charcoal,2021-03-15,KG,205.99384615384616
-Charcoal,2021-04-15,KG,228.2408333333333
-Charcoal,2021-05-15,KG,214.52692307692308
-Charcoal,2021-06-15,KG,214.50166666666667
-Charcoal,2021-07-15,KG,219.9
-Charcoal,2021-08-15,KG,225.89416666666668
-Charcoal,2021-09-15,KG,242.45000000000002
-Charcoal,2021-10-15,KG,222.2225
-Charcoal,2021-11-15,KG,267.7253846153846
-Charcoal,2021-12-15,KG,232.2575
-Charcoal,2022-01-15,KG,324.8015384615385
-Charcoal,2022-02-15,KG,265.38461538461536
-Charcoal,2022-03-15,KG,254.25615384615384
-Charcoal,2022-04-15,KG,250.14076923076922
-Charcoal,2022-05-15,KG,316.3614285714285
-Charcoal,2022-06-15,KG,302.3076923076923
-Charcoal,2022-07-15,KG,317.0084615384615
-Charcoal,2022-08-15,KG,348.3446666666667
-Charcoal,2022-09-15,KG,381.8073333333333
-Charcoal,2022-10-15,KG,463.55533333333335
-Charcoal,2022-11-15,KG,406.058
-Charcoal,2022-12-15,KG,377.5430769230769
-Charcoal,2023-01-15,KG,392.6485714285714
-Charcoal,2023-02-15,KG,370.65
-Chicken,2020-03-15,Head,2233.3333333333335
+Chicken,2020-03-15,Head,2233.333333333333
 Chicken,2020-04-15,Head,2416.6073333333334
 Chicken,2020-05-15,Head,3934.375625
 Chicken,2020-06-15,Head,2232.592777777778
 Chicken,2020-07-15,Head,2419.327058823529
 Chicken,2020-08-15,Head,2524.5133333333333
 Chicken,2020-09-15,Head,2859.9194117647057
-Chicken,2020-10-15,Head,3337.8885714285716
+Chicken,2020-10-15,Head,3337.888571428572
 Chicken,2020-11-15,Head,3266.828125
 Chicken,2020-12-15,Head,3214.501538461539
 Chicken,2021-01-15,Head,3500.0
@@ -442,446 +304,23 @@ Chicken,2021-06-15,Head,3267.331111111111
 Chicken,2021-07-15,Head,3402.943333333333
 Chicken,2021-08-15,Head,3254.7371428571428
 Chicken,2021-09-15,Head,3360.848571428571
-Chicken,2021-10-15,Head,3399.5834999999997
+Chicken,2021-10-15,Head,3399.5835
 Chicken,2021-11-15,Head,3581.2023809523807
 Chicken,2021-12-15,Head,3300.5133333333333
 Chicken,2022-01-15,Head,3468.920476190476
 Chicken,2022-02-15,Head,3544.8719047619047
-Chicken,2022-03-15,Head,3595.7405555555556
+Chicken,2022-03-15,Head,3595.740555555556
 Chicken,2022-04-15,Head,3587.775
 Chicken,2022-05-15,Head,4223.114090909091
-Chicken,2022-06-15,Head,3597.3504999999996
+Chicken,2022-06-15,Head,3597.3505
 Chicken,2022-07-15,Head,3732.3115
-Chicken,2022-08-15,Head,3985.2513636363637
+Chicken,2022-08-15,Head,3985.251363636364
 Chicken,2022-09-15,Head,4150.627826086957
 Chicken,2022-10-15,Head,4157.765
 Chicken,2022-11-15,Head,4146.440869565217
 Chicken,2022-12-15,Head,4384.669047619048
 Chicken,2023-01-15,Head,4188.7128571428575
 Chicken,2023-02-15,Head,6643.3625
-Cowpeas,2020-03-15,3.5 KG,841.8181818181819
-Cowpeas,2020-04-15,3.5 KG,928.8954545454545
-Cowpeas,2020-05-15,3.5 KG,914.5719999999999
-Cowpeas,2020-06-15,3.5 KG,945.3592307692307
-Cowpeas,2020-07-15,3.5 KG,1135.118
-Cowpeas,2020-08-15,3.5 KG,1230.1953333333333
-Cowpeas,2020-09-15,3.5 KG,1339.4406666666666
-Cowpeas,2020-10-15,3.5 KG,1295.923846153846
-Cowpeas,2020-11-15,3.5 KG,1620.5646666666667
-Cowpeas,2020-12-15,3.5 KG,1679.065
-Cowpeas,2021-01-15,3.5 KG,1864.5833333333333
-Cowpeas,2021-02-15,3.5 KG,1964.2358333333334
-Cowpeas,2021-03-15,3.5 KG,1991.9773333333333
-Cowpeas,2021-04-15,3.5 KG,2016.9366666666667
-Cowpeas,2021-05-15,3.5 KG,2236.852857142857
-Cowpeas,2021-06-15,3.5 KG,2203.5135714285716
-Cowpeas,2021-07-15,3.5 KG,2056.325
-Cowpeas,2021-08-15,3.5 KG,1911.7863157894737
-Cowpeas,2021-09-15,3.5 KG,1865.4177777777777
-Cowpeas,2021-10-15,3.5 KG,2010.9375
-Cowpeas,2021-11-15,3.5 KG,1801.9255555555555
-Cowpeas,2021-12-15,3.5 KG,1817.6916666666666
-Cowpeas,2022-01-15,3.5 KG,1640.2405555555556
-Cowpeas,2022-02-15,3.5 KG,1692.9916666666666
-Cowpeas,2022-03-15,3.5 KG,1839.6076470588237
-Cowpeas,2022-04-15,3.5 KG,1879.8933333333334
-Cowpeas,2022-05-15,3.5 KG,1952.9205555555554
-Cowpeas,2022-06-15,3.5 KG,2217.0188235294117
-Cowpeas,2022-07-15,3.5 KG,2412.676470588235
-Cowpeas,2022-08-15,3.5 KG,2497.520555555556
-Cowpeas,2022-09-15,3.5 KG,2875.027222222222
-Cowpeas,2022-10-15,3.5 KG,3308.125
-Cowpeas,2022-11-15,3.5 KG,3093.7688235294117
-Cowpeas,2022-12-15,3.5 KG,2819.9147058823532
-Cowpeas,2023-01-15,3.5 KG,2803.5470588235294
-Cowpeas,2023-02-15,3.5 KG,3074.86
-Cowpeas,2023-03-15,3.5 KG,3676.2384210526316
-Cowpeas,2023-04-15,3.5 KG,3292.7284210526313
-Cowpeas,2023-05-15,3.5 KG,3752.3194444444443
-Cowpeas,2023-06-15,3.5 KG,3373.353125
-Cowpeas,2023-07-15,3.5 KG,3730.554
-Cowpeas,2023-08-15,3.5 KG,3836.264117647059
-Cowpeas,2023-09-15,3.5 KG,3747.0440000000003
-Cowpeas,2023-10-15,3.5 KG,3091.4958823529414
-Cowpeas,2023-11-15,3.5 KG,3317.490588235294
-Cowpeas,2023-12-15,3.5 KG,4238.14705882353
-Cowpeas,2024-01-15,3.5 KG,4148.551111111111
-Cowpeas,2024-02-15,3.5 KG,4264.9349999999995
-Exchange rate (unofficial),2016-10-15,USD/LCU,68.35
-Exchange rate (unofficial),2016-11-15,USD/LCU,71.3
-Exchange rate (unofficial),2016-12-15,USD/LCU,77.25
-Exchange rate (unofficial),2017-01-15,USD/LCU,70.43333333333334
-Exchange rate (unofficial),2017-02-15,USD/LCU,111.15
-Exchange rate (unofficial),2017-03-15,USD/LCU,115.0
-Exchange rate (unofficial),2017-04-15,USD/LCU,155.9
-Exchange rate (unofficial),2017-05-15,USD/LCU,147.6
-Exchange rate (unofficial),2017-06-15,USD/LCU,153.0
-Exchange rate (unofficial),2017-07-15,USD/LCU,157.58
-Exchange rate (unofficial),2017-11-15,USD/LCU,182.17
-Exchange rate (unofficial),2017-12-15,USD/LCU,193.7
-Exchange rate (unofficial),2018-01-15,USD/LCU,211.19
-Exchange rate (unofficial),2018-03-15,USD/LCU,241.0
-Exchange rate (unofficial),2018-04-15,USD/LCU,273.76
-Exchange rate (unofficial),2018-06-15,USD/LCU,310.56
-Exchange rate (unofficial),2018-07-15,USD/LCU,230.32
-Exchange rate (unofficial),2018-08-15,USD/LCU,214.48
-Exchange rate (unofficial),2018-09-15,USD/LCU,215.0
-Exchange rate (unofficial),2018-10-15,USD/LCU,215.45
-Exchange rate (unofficial),2019-01-15,USD/LCU,261.3
-Exchange rate (unofficial),2019-02-15,USD/LCU,267.68
-Exchange rate (unofficial),2019-03-15,USD/LCU,274.87
-Exchange rate (unofficial),2019-04-15,USD/LCU,157.73
-Exchange rate (unofficial),2019-05-15,USD/LCU,278.06
-Exchange rate (unofficial),2019-06-15,USD/LCU,289.8
-Exchange rate (unofficial),2019-07-15,USD/LCU,293.39
-Exchange rate (unofficial),2019-08-15,USD/LCU,299.23
-Exchange rate (unofficial),2019-09-15,USD/LCU,162.35
-Exchange rate (unofficial),2019-10-15,USD/LCU,312.97
-Exchange rate (unofficial),2019-11-15,USD/LCU,315.0
-Exchange rate (unofficial),2019-12-15,USD/LCU,314.25
-Exchange rate (unofficial),2020-01-15,USD/LCU,328.0
-Exchange rate (unofficial),2020-02-15,USD/LCU,305.0
-Exchange rate (unofficial),2020-03-15,USD/LCU,278.28
-Exchange rate (unofficial),2020-10-15,USD/LCU,518.8888888888889
-Exchange rate (unofficial),2020-11-15,USD/LCU,576.0006666666667
-Exchange rate (unofficial),2020-12-15,USD/LCU,592.7272727272727
-Exchange rate (unofficial),2021-01-15,USD/LCU,601.3894444444445
-Exchange rate (unofficial),2021-02-15,USD/LCU,619.8076923076923
-Exchange rate (unofficial),2021-03-15,USD/LCU,615.0377777777778
-Exchange rate (unofficial),2021-04-15,USD/LCU,613.3706666666666
-Exchange rate (unofficial),2021-05-15,USD/LCU,459.5305263157895
-Exchange rate (unofficial),2021-06-15,USD/LCU,460.3855555555556
-Exchange rate (unofficial),2021-07-15,USD/LCU,388.90250000000003
-Exchange rate (unofficial),2021-08-15,USD/LCU,407.2465
-Exchange rate (unofficial),2021-09-15,USD/LCU,409.0775
-Exchange rate (unofficial),2021-10-15,USD/LCU,406.33299999999997
-Exchange rate (unofficial),2021-11-15,USD/LCU,412.2338095238095
-Exchange rate (unofficial),2021-12-15,USD/LCU,419.08933333333334
-Exchange rate (unofficial),2022-01-15,USD/LCU,430.49954545454545
-Exchange rate (unofficial),2022-02-15,USD/LCU,435.49047619047616
-Exchange rate (unofficial),2022-03-15,USD/LCU,436.37166666666667
-Exchange rate (unofficial),2022-04-15,USD/LCU,428.08857142857147
-Exchange rate (unofficial),2022-05-15,USD/LCU,436.1990909090909
-Exchange rate (unofficial),2022-06-15,USD/LCU,481.3785714285715
-Exchange rate (unofficial),2022-07-15,USD/LCU,550.1023809523809
-Exchange rate (unofficial),2022-08-15,USD/LCU,637.4565217391304
-Exchange rate (unofficial),2022-09-15,USD/LCU,642.7713043478261
-Exchange rate (unofficial),2022-10-15,USD/LCU,618.6559090909091
-Exchange rate (unofficial),2022-11-15,USD/LCU,624.528695652174
-Exchange rate (unofficial),2022-12-15,USD/LCU,653.0895238095238
-Exchange rate (unofficial),2023-01-15,USD/LCU,704.1947619047619
-Exchange rate (unofficial),2023-02-15,USD/LCU,770.0618181818182
-Exchange rate (unofficial),2023-03-15,USD/LCU,830.9796000000001
-Exchange rate (unofficial),2023-04-15,USD/LCU,862.3008695652173
-Exchange rate (unofficial),2023-05-15,USD/LCU,945.4513636363637
-Exchange rate (unofficial),2023-06-15,USD/LCU,992.0433333333333
-Exchange rate (unofficial),2023-07-15,USD/LCU,1013.426153846154
-Exchange rate (unofficial),2023-08-15,USD/LCU,1016.4084615384616
-Exchange rate (unofficial),2023-09-15,USD/LCU,1027.3941666666667
-Exchange rate (unofficial),2023-10-15,USD/LCU,1027.4352173913044
-Exchange rate (unofficial),2023-11-15,USD/LCU,1078.2386363636363
-Exchange rate (unofficial),2023-12-15,USD/LCU,1102.647894736842
-Exchange rate (unofficial),2024-01-15,USD/LCU,1155.733157894737
-Exchange rate (unofficial),2024-02-15,USD/LCU,1195.4117647058824
-Fish (dry),2020-03-15,Bundle,1368.125
-Fish (dry),2020-04-15,Bundle,1363.5975
-Fish (dry),2020-05-15,Bundle,1282.1575
-Fish (dry),2020-06-15,Bundle,1294.7411111111112
-Fish (dry),2020-07-15,Bundle,1512.1855555555555
-Fish (dry),2020-08-15,Bundle,1482.4655555555555
-Fish (dry),2020-09-15,Bundle,1551.998
-Fish (dry),2020-10-15,Bundle,1978.162142857143
-Fish (dry),2020-11-15,Bundle,1831.5
-Fish (dry),2020-12-15,Bundle,1512.5
-Fish (dry),2021-01-15,Bundle,1802.604375
-Fish (dry),2021-02-15,Bundle,1705.357142857143
-Fish (dry),2021-03-15,Bundle,1720.5564705882352
-Fish (dry),2021-04-15,Bundle,1779.86125
-Fish (dry),2021-05-15,Bundle,1601.8705263157894
-Fish (dry),2021-06-15,Bundle,1760.6611111111113
-Fish (dry),2021-07-15,Bundle,1763.9705263157896
-Fish (dry),2021-08-15,Bundle,1848.1604545454545
-Fish (dry),2021-09-15,Bundle,1857.692380952381
-Fish (dry),2021-10-15,Bundle,1530.5555555555557
-Fish (dry),2021-11-15,Bundle,1772.0645
-Fish (dry),2021-12-15,Bundle,1318.2423076923078
-Fish (dry),2022-01-15,Bundle,1569.695
-Fish (dry),2022-02-15,Bundle,1632.0454545454545
-Fish (dry),2022-03-15,Bundle,1784.3863157894734
-Fish (dry),2022-04-15,Bundle,1496.1799999999998
-Fish (dry),2022-05-15,Bundle,1540.9618181818184
-Fish (dry),2022-06-15,Bundle,1876.7355
-Fish (dry),2022-07-15,Bundle,1902.3404999999998
-Fish (dry),2022-08-15,Bundle,1951.9231818181818
-Fish (dry),2022-09-15,Bundle,2228.2122727272726
-Fish (dry),2022-10-15,Bundle,1420.784117647059
-Fish (dry),2022-11-15,Bundle,1630.905714285714
-Fish (dry),2022-12-15,Bundle,1933.203
-Fish (dry),2023-01-15,Bundle,2116.4928571428572
-Fish (dry),2023-02-15,Bundle,2137.3786363636364
-Fish (dry),2023-03-15,Bundle,1944.341153846154
-Fish (dry),2023-04-15,Bundle,2133.54
-Fish (dry),2023-05-15,Bundle,2396.8754166666668
-Fish (dry),2023-06-15,Bundle,2424.0304347826086
-Fish (dry),2023-07-15,Bundle,2398.745357142857
-Fish (dry),2023-08-15,Bundle,2200.317777777778
-Fish (dry),2023-09-15,Bundle,2409.4276
-Fish (dry),2023-10-15,Bundle,2477.3679166666666
-Fish (dry),2023-11-15,Bundle,2521.6004347826088
-Fish (dry),2023-12-15,Bundle,2791.2695
-Fish (dry),2024-01-15,Bundle,2569.047894736842
-Fish (dry),2024-02-15,Bundle,3430.7146666666667
-Fish (fresh),2020-03-15,Bundle,1328.75
-Fish (fresh),2020-04-15,Bundle,1358.15375
-Fish (fresh),2020-05-15,Bundle,1388.1722222222222
-Fish (fresh),2020-06-15,Bundle,1412.5
-Fish (fresh),2020-07-15,Bundle,1455.5555555555557
-Fish (fresh),2020-08-15,Bundle,1417.276
-Fish (fresh),2020-09-15,Bundle,1435.885
-Fish (fresh),2020-10-15,Bundle,1685.7142857142858
-Fish (fresh),2020-11-15,Bundle,1431.44
-Fish (fresh),2020-12-15,Bundle,1468.75
-Fish (fresh),2021-01-15,Bundle,1570.0
-Fish (fresh),2021-02-15,Bundle,1343.75
-Fish (fresh),2021-03-15,Bundle,1485.8866666666665
-Fish (fresh),2021-04-15,Bundle,1466.1100000000001
-Fish (fresh),2021-05-15,Bundle,1564.3357142857144
-Fish (fresh),2021-06-15,Bundle,1424.6383333333333
-Fish (fresh),2021-07-15,Bundle,1279.866
-Fish (fresh),2021-08-15,Bundle,1389.5639999999999
-Fish (fresh),2021-09-15,Bundle,1428.076
-Fish (fresh),2021-10-15,Bundle,1400.3220000000001
-Fish (fresh),2021-11-15,Bundle,1603.25
-Fish (fresh),2021-12-15,Bundle,1289.5175
-Fish (fresh),2022-01-15,Bundle,1450.966
-Fish (fresh),2022-02-15,Bundle,1443.0
-Fish (fresh),2022-03-15,Bundle,1340.0
-Fish (fresh),2022-04-15,Bundle,1342.555
-Fish (fresh),2022-05-15,Bundle,1268.957142857143
-Fish (fresh),2022-06-15,Bundle,1300.2783333333334
-Fish (fresh),2022-07-15,Bundle,1358.4666666666667
-Fish (fresh),2022-08-15,Bundle,1412.8025
-Fish (fresh),2022-09-15,Bundle,1504.0
-Fish (fresh),2022-10-15,Bundle,1585.0
-Fish (fresh),2022-11-15,Bundle,1377.49875
-Fish (fresh),2022-12-15,Bundle,1366.6666666666667
-Fish (fresh),2023-01-15,Bundle,1375.9354545454546
-Fish (fresh),2023-02-15,Bundle,1628.0355555555554
-Fish (fresh),2023-03-15,Bundle,1682.7209090909091
-Fish (fresh),2023-04-15,Bundle,1643.6727272727273
-Fish (fresh),2023-05-15,Bundle,2124.555714285714
-Fish (fresh),2023-06-15,Bundle,1972.41
-Fish (fresh),2023-07-15,Bundle,1859.51375
-Fish (fresh),2023-08-15,Bundle,1840.1633333333334
-Fish (fresh),2023-09-15,Bundle,2218.648
-Fish (fresh),2023-10-15,Bundle,2295.057
-Fish (fresh),2023-11-15,Bundle,2087.067222222222
-Fish (fresh),2023-12-15,Bundle,2460.132941176471
-Fish (fresh),2024-01-15,Bundle,2294.8375
-Fish (fresh),2024-02-15,Bundle,2688.0726666666665
-Fuel (diesel),2012-01-15,L,7.90625
-Fuel (diesel),2012-02-15,L,7.275
-Fuel (diesel),2012-03-15,L,7.453749999999999
-Fuel (diesel),2012-04-15,L,8.1725
-Fuel (diesel),2012-05-15,L,11.96875
-Fuel (diesel),2012-06-15,L,10.265
-Fuel (diesel),2012-07-15,L,10.34375
-Fuel (diesel),2012-08-15,L,10.8125
-Fuel (diesel),2012-09-15,L,10.125
-Fuel (diesel),2012-10-15,L,10.6875
-Fuel (diesel),2012-11-15,L,10.3125
-Fuel (diesel),2012-12-15,L,10.1875
-Fuel (diesel),2013-01-15,L,9.625
-Fuel (diesel),2013-02-15,L,9.1875
-Fuel (diesel),2013-03-15,L,9.265
-Fuel (diesel),2013-04-15,L,9.107142857142858
-Fuel (diesel),2013-05-15,L,8.75
-Fuel (diesel),2013-06-15,L,8.833333333333334
-Fuel (diesel),2013-07-15,L,8.765
-Fuel (diesel),2013-08-15,L,9.428571428571429
-Fuel (diesel),2013-09-15,L,9.071428571428571
-Fuel (diesel),2013-10-15,L,8.785714285714286
-Fuel (diesel),2013-11-15,L,8.821428571428571
-Fuel (diesel),2013-12-15,L,8.964285714285714
-Fuel (diesel),2014-01-15,L,8.666666666666666
-Fuel (diesel),2014-02-15,L,8.0
-Fuel (diesel),2014-03-15,L,8.333333333333334
-Fuel (diesel),2014-04-15,L,8.333333333333334
-Fuel (diesel),2014-05-15,L,8.333333333333334
-Fuel (diesel),2014-06-15,L,8.333333333333334
-Fuel (diesel),2014-07-15,L,7.666666666666667
-Fuel (diesel),2015-05-15,L,14.8
-Fuel (diesel),2015-06-15,L,14.2
-Fuel (diesel),2015-07-15,L,13.040000000000001
-Fuel (diesel),2015-08-15,L,14.1
-Fuel (diesel),2015-09-15,L,13.6
-Fuel (diesel),2015-10-15,L,18.25
-Fuel (diesel),2015-11-15,L,19.825
-Fuel (diesel),2015-12-15,L,24.333333333333332
-Fuel (diesel),2016-01-15,L,29.5
-Fuel (diesel),2016-02-15,L,30.916666666666668
-Fuel (diesel),2016-03-15,L,39.166666666666664
-Fuel (diesel),2016-04-15,L,30.542857142857144
-Fuel (diesel),2016-05-15,L,32.957142857142856
-Fuel (diesel),2016-06-15,L,47.36166666666667
-Fuel (diesel),2016-07-15,L,73.83285714285715
-Fuel (diesel),2016-08-15,L,103.75833333333333
-Fuel (diesel),2016-09-15,L,147.5
-Fuel (diesel),2016-10-15,L,95.0
-Fuel (diesel),2016-11-15,L,93.0
-Fuel (diesel),2016-12-15,L,99.16
-Fuel (diesel),2017-01-15,L,116.0625
-Fuel (diesel),2017-02-15,L,109.91666666666667
-Fuel (diesel),2017-03-15,L,110.0
-Fuel (diesel),2017-04-15,L,107.57142857142857
-Fuel (diesel),2017-05-15,L,114.8
-Fuel (diesel),2017-06-15,L,238.125
-Fuel (diesel),2017-07-15,L,238.875
-Fuel (diesel),2017-08-15,L,248.57142857142858
-Fuel (diesel),2017-10-15,L,259.85714285714283
-Fuel (diesel),2017-11-15,L,257.1666666666667
-Fuel (diesel),2017-12-15,L,282.57142857142856
-Fuel (diesel),2018-01-15,L,251.375
-Fuel (diesel),2018-03-15,L,266.0
-Fuel (diesel),2018-04-15,L,285.25
-Fuel (diesel),2018-06-15,L,392.0
-Fuel (diesel),2018-07-15,L,340.8333333333333
-Fuel (diesel),2018-08-15,L,282.1666666666667
-Fuel (diesel),2018-09-15,L,245.0
-Fuel (diesel),2018-10-15,L,236.25
-Fuel (diesel),2018-12-15,L,242.5
-Fuel (diesel),2019-01-15,L,241.75
-Fuel (diesel),2019-02-15,L,251.25
-Fuel (diesel),2019-03-15,L,279.1666666666667
-Fuel (diesel),2019-04-15,L,290.42857142857144
-Fuel (diesel),2019-05-15,L,277.5
-Fuel (diesel),2019-06-15,L,291.3333333333333
-Fuel (diesel),2019-07-15,L,280.5
-Fuel (diesel),2019-08-15,L,285.6666666666667
-Fuel (diesel),2019-09-15,L,278.8333333333333
-Fuel (diesel),2019-10-15,L,274.5
-Fuel (diesel),2019-11-15,L,210.0
-Fuel (diesel),2019-12-15,L,250.0
-Fuel (diesel),2020-01-15,L,293.3333333333333
-Fuel (diesel),2020-02-15,L,291.6666666666667
-Fuel (diesel),2020-03-15,L,304.6875
-Fuel (diesel),2020-04-15,L,314.52125
-Fuel (diesel),2020-05-15,L,335.91333333333336
-Fuel (diesel),2020-06-15,L,347.25
-Fuel (diesel),2020-07-15,L,342.4475
-Fuel (diesel),2020-08-15,L,416.3888888888889
-Fuel (diesel),2020-09-15,L,434.085
-Fuel (diesel),2020-10-15,L,439.38
-Fuel (diesel),2020-11-15,L,523.5045454545455
-Fuel (diesel),2020-12-15,L,446.9375
-Fuel (diesel),2021-01-15,L,468.57142857142856
-Fuel (diesel),2021-02-15,L,512.96875
-Fuel (diesel),2021-03-15,L,499.48999999999995
-Fuel (diesel),2021-04-15,L,514.2857142857143
-Fuel (diesel),2021-05-15,L,565.55
-Fuel (diesel),2021-06-15,L,554.30375
-Fuel (diesel),2021-07-15,L,574.5911111111111
-Fuel (diesel),2021-08-15,L,617.6633333333333
-Fuel (diesel),2021-09-15,L,597.5966666666667
-Fuel (diesel),2021-10-15,L,560.625
-Fuel (diesel),2021-11-15,L,533.1127272727273
-Fuel (diesel),2021-12-15,L,558.2755555555555
-Fuel (diesel),2022-01-15,L,627.7608333333334
-Fuel (diesel),2022-02-15,L,703.2083333333334
-Fuel (diesel),2022-03-15,L,596.3636363636364
-Fuel (diesel),2022-04-15,L,622.6991666666667
-Fuel (diesel),2022-05-15,L,736.2715384615385
-Fuel (diesel),2022-06-15,L,901.6036363636363
-Fuel (diesel),2022-07-15,L,1037.2936363636363
-Fuel (diesel),2022-08-15,L,1169.2875000000001
-Fuel (diesel),2022-09-15,L,1185.8690909090908
-Fuel (diesel),2022-10-15,L,1075.5754545454545
-Fuel (diesel),2022-11-15,L,1086.5125
-Fuel (diesel),2022-12-15,L,1111.22
-Fuel (diesel),2023-01-15,L,1127.7549999999999
-Fuel (diesel),2023-02-15,L,1228.966923076923
-Fuel (diesel),2023-03-15,L,1239.6617647058824
-Fuel (diesel),2023-04-15,L,1464.3357894736844
-Fuel (diesel),2023-05-15,L,1745.1958823529412
-Fuel (diesel),2023-06-15,L,1608.2475
-Fuel (diesel),2023-07-15,L,1841.039
-Fuel (diesel),2023-08-15,L,1798.8514285714284
-Fuel (diesel),2023-09-15,L,1638.1775
-Fuel (diesel),2023-10-15,L,1363.8586666666667
-Fuel (diesel),2023-11-15,L,1789.4660000000001
-Fuel (diesel),2023-12-15,L,1913.6785714285713
-Fuel (diesel),2024-01-15,L,2034.8425
-Fuel (diesel),2024-02-15,L,2430.7272727272725
-"Fuel (diesel, parallel market)",2018-03-15,L,324.72727272727275
-"Fuel (diesel, parallel market)",2018-04-15,L,321.765
-"Fuel (diesel, parallel market)",2018-06-15,L,653.2
-"Fuel (diesel, parallel market)",2018-07-15,L,587.4
-"Fuel (diesel, parallel market)",2018-08-15,L,465.0
-"Fuel (diesel, parallel market)",2018-09-15,L,357.25
-"Fuel (diesel, parallel market)",2018-10-15,L,393.3333333333333
-"Fuel (diesel, parallel market)",2018-12-15,L,320.2
-"Fuel (diesel, parallel market)",2019-01-15,L,374.85714285714283
-"Fuel (diesel, parallel market)",2019-02-15,L,397.85714285714283
-"Fuel (diesel, parallel market)",2019-03-15,L,340.3233333333333
-"Fuel (diesel, parallel market)",2019-04-15,L,354.8333333333333
-"Fuel (diesel, parallel market)",2019-05-15,L,360.8333333333333
-"Fuel (diesel, parallel market)",2019-06-15,L,370.0
-"Fuel (diesel, parallel market)",2019-07-15,L,375.42857142857144
-"Fuel (diesel, parallel market)",2019-08-15,L,372.7142857142857
-"Fuel (diesel, parallel market)",2019-09-15,L,405.4166666666667
-"Fuel (diesel, parallel market)",2019-10-15,L,418.5
-"Fuel (diesel, parallel market)",2019-11-15,L,366.1666666666667
-"Fuel (diesel, parallel market)",2019-12-15,L,396.6
-"Fuel (diesel, parallel market)",2020-01-15,L,433.85714285714283
-"Fuel (diesel, parallel market)",2020-02-15,L,398.0
-"Fuel (diesel, parallel market)",2020-03-15,L,461.11538461538464
-"Fuel (diesel, parallel market)",2020-04-15,L,534.8853846153846
-"Fuel (diesel, parallel market)",2020-05-15,L,467.5491666666667
-"Fuel (diesel, parallel market)",2020-06-15,L,471.2133333333333
-"Fuel (diesel, parallel market)",2020-07-15,L,681.0415384615385
-"Fuel (diesel, parallel market)",2020-08-15,L,613.9626666666667
-"Fuel (diesel, parallel market)",2020-09-15,L,561.1164285714286
-"Fuel (diesel, parallel market)",2020-10-15,L,638.2341666666666
-"Fuel (diesel, parallel market)",2020-11-15,L,814.6261538461538
-"Fuel (diesel, parallel market)",2020-12-15,L,727.0090909090909
-"Fuel (diesel, parallel market)",2021-01-15,L,807.4285714285714
-"Fuel (diesel, parallel market)",2021-02-15,L,686.5454545454545
-"Fuel (diesel, parallel market)",2021-03-15,L,723.1475
-"Fuel (diesel, parallel market)",2021-04-15,L,756.2227272727273
-"Fuel (diesel, parallel market)",2021-05-15,L,812.8486666666666
-"Fuel (diesel, parallel market)",2021-06-15,L,791.3646153846154
-"Fuel (diesel, parallel market)",2021-07-15,L,766.6335714285715
-"Fuel (diesel, parallel market)",2021-08-15,L,775.9741176470588
-"Fuel (diesel, parallel market)",2021-09-15,L,718.61875
-"Fuel (diesel, parallel market)",2021-10-15,L,772.760625
-"Fuel (diesel, parallel market)",2021-11-15,L,839.6605882352941
-"Fuel (diesel, parallel market)",2021-12-15,L,810.0827272727273
-"Fuel (diesel, parallel market)",2022-01-15,L,799.1633333333334
-"Fuel (diesel, parallel market)",2022-02-15,L,798.2125
-"Fuel (diesel, parallel market)",2022-03-15,L,868.0191666666666
-"Fuel (diesel, parallel market)",2022-04-15,L,839.615
-"Fuel (diesel, parallel market)",2022-05-15,L,920.9866666666666
-"Fuel (diesel, parallel market)",2022-06-15,L,1069.568
-"Fuel (diesel, parallel market)",2022-07-15,L,1260.5393333333334
-"Fuel (diesel, parallel market)",2022-08-15,L,1611.4282352941175
-"Fuel (diesel, parallel market)",2022-09-15,L,1725.8617647058825
-"Fuel (diesel, parallel market)",2022-10-15,L,1635.89625
-"Fuel (diesel, parallel market)",2022-11-15,L,1546.3211764705882
-"Fuel (diesel, parallel market)",2022-12-15,L,1396.9660000000001
-"Fuel (diesel, parallel market)",2023-01-15,L,1465.9241176470587
-"Fuel (diesel, parallel market)",2023-02-15,L,1479.801052631579
-"Fuel (diesel, parallel market)",2023-03-15,L,1654.7958333333333
-"Fuel (diesel, parallel market)",2023-04-15,L,1655.3042857142857
-"Fuel (diesel, parallel market)",2023-05-15,L,2066.9268421052634
-"Fuel (diesel, parallel market)",2023-06-15,L,2095.431052631579
-"Fuel (diesel, parallel market)",2023-07-15,L,2214.9015384615386
-"Fuel (diesel, parallel market)",2023-08-15,L,2302.5624
-"Fuel (diesel, parallel market)",2023-09-15,L,2097.105652173913
-"Fuel (diesel, parallel market)",2023-10-15,L,1982.7461904761903
-"Fuel (diesel, parallel market)",2023-11-15,L,2282.536111111111
-"Fuel (diesel, parallel market)",2023-12-15,L,2488.7813333333334
-"Fuel (diesel, parallel market)",2024-01-15,L,2536.294117647059
-"Fuel (diesel, parallel market)",2024-02-15,L,2708.559285714286
 Fuel (petrol-gasoline),2012-01-15,L,9.91875
 Fuel (petrol-gasoline),2012-02-15,L,9.14
 Fuel (petrol-gasoline),2012-03-15,L,8.675
@@ -917,15 +356,15 @@ Fuel (petrol-gasoline),2015-05-15,L,13.7
 Fuel (petrol-gasoline),2015-06-15,L,12.45
 Fuel (petrol-gasoline),2015-07-15,L,11.875
 Fuel (petrol-gasoline),2015-08-15,L,12.5
-Fuel (petrol-gasoline),2015-09-15,L,13.959999999999999
+Fuel (petrol-gasoline),2015-09-15,L,13.96
 Fuel (petrol-gasoline),2015-10-15,L,29.75
-Fuel (petrol-gasoline),2015-11-15,L,18.333333333333332
+Fuel (petrol-gasoline),2015-11-15,L,18.33333333333333
 Fuel (petrol-gasoline),2015-12-15,L,22.0
 Fuel (petrol-gasoline),2016-01-15,L,31.0
 Fuel (petrol-gasoline),2016-02-15,L,29.95
 Fuel (petrol-gasoline),2016-03-15,L,34.535714285714285
 Fuel (petrol-gasoline),2016-04-15,L,31.49285714285714
-Fuel (petrol-gasoline),2016-05-15,L,34.199999999999996
+Fuel (petrol-gasoline),2016-05-15,L,34.2
 Fuel (petrol-gasoline),2016-06-15,L,61.25
 Fuel (petrol-gasoline),2016-07-15,L,77.4
 Fuel (petrol-gasoline),2016-08-15,L,106.88333333333333
@@ -935,16 +374,16 @@ Fuel (petrol-gasoline),2016-11-15,L,93.1
 Fuel (petrol-gasoline),2016-12-15,L,100.26
 Fuel (petrol-gasoline),2017-01-15,L,131.55
 Fuel (petrol-gasoline),2017-02-15,L,118.5
-Fuel (petrol-gasoline),2017-03-15,L,114.28333333333335
-Fuel (petrol-gasoline),2017-04-15,L,114.58333333333333
+Fuel (petrol-gasoline),2017-03-15,L,114.28333333333336
+Fuel (petrol-gasoline),2017-04-15,L,114.58333333333331
 Fuel (petrol-gasoline),2017-05-15,L,117.375
 Fuel (petrol-gasoline),2017-06-15,L,257.625
 Fuel (petrol-gasoline),2017-07-15,L,266.5
-Fuel (petrol-gasoline),2017-08-15,L,242.71428571428572
+Fuel (petrol-gasoline),2017-08-15,L,242.7142857142857
 Fuel (petrol-gasoline),2017-10-15,L,342.25
 Fuel (petrol-gasoline),2017-11-15,L,272.5
 Fuel (petrol-gasoline),2017-12-15,L,269.4
-Fuel (petrol-gasoline),2018-01-15,L,254.85714285714286
+Fuel (petrol-gasoline),2018-01-15,L,254.8571428571429
 Fuel (petrol-gasoline),2018-03-15,L,281.6666666666667
 Fuel (petrol-gasoline),2018-04-15,L,358.675
 Fuel (petrol-gasoline),2018-06-15,L,359.6
@@ -959,7 +398,7 @@ Fuel (petrol-gasoline),2019-03-15,L,328.1666666666667
 Fuel (petrol-gasoline),2019-04-15,L,311.2857142857143
 Fuel (petrol-gasoline),2019-05-15,L,285.1666666666667
 Fuel (petrol-gasoline),2019-06-15,L,297.6666666666667
-Fuel (petrol-gasoline),2019-07-15,L,300.14285714285717
+Fuel (petrol-gasoline),2019-07-15,L,300.1428571428572
 Fuel (petrol-gasoline),2019-08-15,L,295.3333333333333
 Fuel (petrol-gasoline),2019-09-15,L,308.4166666666667
 Fuel (petrol-gasoline),2019-10-15,L,308.0
@@ -973,12 +412,12 @@ Fuel (petrol-gasoline),2020-05-15,L,350.30833333333334
 Fuel (petrol-gasoline),2020-06-15,L,376.29125
 Fuel (petrol-gasoline),2020-07-15,L,380.76625
 Fuel (petrol-gasoline),2020-08-15,L,361.95125
-Fuel (petrol-gasoline),2020-09-15,L,377.46999999999997
-Fuel (petrol-gasoline),2020-10-15,L,440.70000000000005
+Fuel (petrol-gasoline),2020-09-15,L,377.47
+Fuel (petrol-gasoline),2020-10-15,L,440.7000000000001
 Fuel (petrol-gasoline),2020-11-15,L,583.034
 Fuel (petrol-gasoline),2020-12-15,L,591.8125
-Fuel (petrol-gasoline),2021-01-15,L,457.14285714285717
-Fuel (petrol-gasoline),2021-02-15,L,467.67857142857144
+Fuel (petrol-gasoline),2021-01-15,L,457.1428571428572
+Fuel (petrol-gasoline),2021-02-15,L,467.6785714285714
 Fuel (petrol-gasoline),2021-03-15,L,585.9644444444444
 Fuel (petrol-gasoline),2021-04-15,L,620.7411111111111
 Fuel (petrol-gasoline),2021-05-15,L,697.5972727272728
@@ -993,7 +432,7 @@ Fuel (petrol-gasoline),2022-01-15,L,778.006923076923
 Fuel (petrol-gasoline),2022-02-15,L,844.7038461538461
 Fuel (petrol-gasoline),2022-03-15,L,803.8891666666667
 Fuel (petrol-gasoline),2022-04-15,L,784.2761538461539
-Fuel (petrol-gasoline),2022-05-15,L,904.2264285714285
+Fuel (petrol-gasoline),2022-05-15,L,904.2264285714284
 Fuel (petrol-gasoline),2022-06-15,L,1011.6315384615384
 Fuel (petrol-gasoline),2022-07-15,L,1087.1533333333334
 Fuel (petrol-gasoline),2022-08-15,L,1408.4371428571428
@@ -1004,536 +443,17 @@ Fuel (petrol-gasoline),2022-12-15,L,1256.496923076923
 Fuel (petrol-gasoline),2023-01-15,L,1221.1591666666666
 Fuel (petrol-gasoline),2023-02-15,L,1275.76
 Fuel (petrol-gasoline),2023-03-15,L,1300.5594117647058
-Fuel (petrol-gasoline),2023-04-15,L,1577.7544444444445
+Fuel (petrol-gasoline),2023-04-15,L,1577.7544444444443
 Fuel (petrol-gasoline),2023-05-15,L,1521.145625
 Fuel (petrol-gasoline),2023-06-15,L,1500.174375
 Fuel (petrol-gasoline),2023-07-15,L,2025.3722727272727
 Fuel (petrol-gasoline),2023-08-15,L,1791.986
 Fuel (petrol-gasoline),2023-09-15,L,1820.0919047619047
 Fuel (petrol-gasoline),2023-10-15,L,1582.0329411764706
-Fuel (petrol-gasoline),2023-11-15,L,2000.8159999999998
+Fuel (petrol-gasoline),2023-11-15,L,2000.816
 Fuel (petrol-gasoline),2023-12-15,L,2089.300666666667
 Fuel (petrol-gasoline),2024-01-15,L,2186.9166666666665
-Fuel (petrol-gasoline),2024-02-15,L,1937.5055555555555
-"Fuel (petrol-gasoline, parallel market)",2018-03-15,L,346.8333333333333
-"Fuel (petrol-gasoline, parallel market)",2018-04-15,L,384.1
-"Fuel (petrol-gasoline, parallel market)",2018-06-15,L,666.0
-"Fuel (petrol-gasoline, parallel market)",2018-07-15,L,663.525
-"Fuel (petrol-gasoline, parallel market)",2018-08-15,L,476.8
-"Fuel (petrol-gasoline, parallel market)",2018-09-15,L,337.75
-"Fuel (petrol-gasoline, parallel market)",2018-10-15,L,311.0
-"Fuel (petrol-gasoline, parallel market)",2018-12-15,L,438.5
-"Fuel (petrol-gasoline, parallel market)",2019-01-15,L,431.6
-"Fuel (petrol-gasoline, parallel market)",2019-02-15,L,425.0
-"Fuel (petrol-gasoline, parallel market)",2019-03-15,L,433.5
-"Fuel (petrol-gasoline, parallel market)",2019-04-15,L,503.3333333333333
-"Fuel (petrol-gasoline, parallel market)",2019-05-15,L,511.3333333333333
-"Fuel (petrol-gasoline, parallel market)",2019-06-15,L,478.3333333333333
-"Fuel (petrol-gasoline, parallel market)",2019-07-15,L,640.5714285714286
-"Fuel (petrol-gasoline, parallel market)",2019-08-15,L,505.5
-"Fuel (petrol-gasoline, parallel market)",2019-09-15,L,565.5
-"Fuel (petrol-gasoline, parallel market)",2019-10-15,L,566.6666666666666
-"Fuel (petrol-gasoline, parallel market)",2019-11-15,L,476.5
-"Fuel (petrol-gasoline, parallel market)",2019-12-15,L,509.4
-"Fuel (petrol-gasoline, parallel market)",2020-01-15,L,555.7142857142857
-"Fuel (petrol-gasoline, parallel market)",2020-02-15,L,566.1428571428571
-"Fuel (petrol-gasoline, parallel market)",2020-03-15,L,635.7083333333334
-"Fuel (petrol-gasoline, parallel market)",2020-04-15,L,668.3566666666667
-"Fuel (petrol-gasoline, parallel market)",2020-05-15,L,657.7883333333333
-"Fuel (petrol-gasoline, parallel market)",2020-06-15,L,673.0116666666667
-"Fuel (petrol-gasoline, parallel market)",2020-07-15,L,647.6053846153845
-"Fuel (petrol-gasoline, parallel market)",2020-08-15,L,701.2946666666667
-"Fuel (petrol-gasoline, parallel market)",2020-09-15,L,755.1073333333334
-"Fuel (petrol-gasoline, parallel market)",2020-10-15,L,802.1872727272727
-"Fuel (petrol-gasoline, parallel market)",2020-11-15,L,1194.2957142857142
-"Fuel (petrol-gasoline, parallel market)",2020-12-15,L,1057.6881818181819
-"Fuel (petrol-gasoline, parallel market)",2021-01-15,L,1002.3807142857142
-"Fuel (petrol-gasoline, parallel market)",2021-02-15,L,927.075
-"Fuel (petrol-gasoline, parallel market)",2021-03-15,L,1077.903076923077
-"Fuel (petrol-gasoline, parallel market)",2021-04-15,L,1079.667
-"Fuel (petrol-gasoline, parallel market)",2021-05-15,L,1079.0807692307692
-"Fuel (petrol-gasoline, parallel market)",2021-06-15,L,1113.336923076923
-"Fuel (petrol-gasoline, parallel market)",2021-07-15,L,1106.4984615384615
-"Fuel (petrol-gasoline, parallel market)",2021-08-15,L,1038.664375
-"Fuel (petrol-gasoline, parallel market)",2021-09-15,L,999.31125
-"Fuel (petrol-gasoline, parallel market)",2021-10-15,L,912.2547058823529
-"Fuel (petrol-gasoline, parallel market)",2021-11-15,L,1062.57125
-"Fuel (petrol-gasoline, parallel market)",2021-12-15,L,969.1427272727273
-"Fuel (petrol-gasoline, parallel market)",2022-01-15,L,1024.9326666666666
-"Fuel (petrol-gasoline, parallel market)",2022-02-15,L,1028.5714285714287
-"Fuel (petrol-gasoline, parallel market)",2022-03-15,L,1105.0130769230768
-"Fuel (petrol-gasoline, parallel market)",2022-04-15,L,1096.878
-"Fuel (petrol-gasoline, parallel market)",2022-05-15,L,1157.5766666666668
-"Fuel (petrol-gasoline, parallel market)",2022-06-15,L,1347.4035714285715
-"Fuel (petrol-gasoline, parallel market)",2022-07-15,L,1529.4893333333334
-"Fuel (petrol-gasoline, parallel market)",2022-08-15,L,1921.8157894736842
-"Fuel (petrol-gasoline, parallel market)",2022-09-15,L,1896.679411764706
-"Fuel (petrol-gasoline, parallel market)",2022-10-15,L,1789.85
-"Fuel (petrol-gasoline, parallel market)",2022-11-15,L,1649.0264705882353
-"Fuel (petrol-gasoline, parallel market)",2022-12-15,L,1661.488
-"Fuel (petrol-gasoline, parallel market)",2023-01-15,L,1630.6
-"Fuel (petrol-gasoline, parallel market)",2023-02-15,L,1545.4242105263156
-"Fuel (petrol-gasoline, parallel market)",2023-03-15,L,1793.3604166666667
-"Fuel (petrol-gasoline, parallel market)",2023-04-15,L,1788.3082608695652
-"Fuel (petrol-gasoline, parallel market)",2023-05-15,L,2391.1415
-"Fuel (petrol-gasoline, parallel market)",2023-06-15,L,2417.266190476191
-"Fuel (petrol-gasoline, parallel market)",2023-07-15,L,2492.396296296296
-"Fuel (petrol-gasoline, parallel market)",2023-08-15,L,2394.748
-"Fuel (petrol-gasoline, parallel market)",2023-09-15,L,2164.216
-"Fuel (petrol-gasoline, parallel market)",2023-10-15,L,2272.91
-"Fuel (petrol-gasoline, parallel market)",2023-11-15,L,2691.9915789473685
-"Fuel (petrol-gasoline, parallel market)",2023-12-15,L,2866.4888235294115
-"Fuel (petrol-gasoline, parallel market)",2024-01-15,L,2952.452222222222
-"Fuel (petrol-gasoline, parallel market)",2024-02-15,L,3304.558571428571
-Groundnuts (shelled),2007-07-15,KG,7.9
-Groundnuts (shelled),2007-08-15,KG,8.175
-Groundnuts (shelled),2007-09-15,KG,8.100000000000001
-Groundnuts (shelled),2007-10-15,KG,8.05
-Groundnuts (shelled),2007-11-15,KG,8.09
-Groundnuts (shelled),2007-12-15,KG,8.76
-Groundnuts (shelled),2008-01-15,KG,7.9
-Groundnuts (shelled),2008-02-15,KG,8.21
-Groundnuts (shelled),2008-03-15,KG,8.575
-Groundnuts (shelled),2008-04-15,KG,8.865
-Groundnuts (shelled),2008-05-15,KG,9.356666666666667
-Groundnuts (shelled),2008-06-15,KG,10.633333333333333
-Groundnuts (shelled),2008-07-15,KG,13.06
-Groundnuts (shelled),2008-08-15,KG,11.050000000000002
-Groundnuts (shelled),2008-09-15,KG,11.450000000000001
-Groundnuts (shelled),2008-10-15,KG,13.4
-Groundnuts (shelled),2008-11-15,KG,14.4
-Groundnuts (shelled),2008-12-15,KG,13.15
-Groundnuts (shelled),2009-01-15,KG,15.409999999999998
-Groundnuts (shelled),2009-02-15,KG,15.583333333333334
-Groundnuts (shelled),2009-03-15,KG,13.35
-Groundnuts (shelled),2009-04-15,KG,9.61
-Groundnuts (shelled),2009-05-15,KG,11.209999999999999
-Groundnuts (shelled),2009-06-15,KG,13.594
-Groundnuts (shelled),2009-07-15,KG,17.363999999999997
-Groundnuts (shelled),2009-08-15,KG,16.619999999999997
-Groundnuts (shelled),2009-09-15,KG,12.370000000000001
-Groundnuts (shelled),2009-10-15,KG,7.463333333333334
-Groundnuts (shelled),2009-11-15,KG,6.876666666666666
-Groundnuts (shelled),2009-12-15,KG,7.04
-Groundnuts (shelled),2010-01-15,KG,6.553333333333334
-Groundnuts (shelled),2010-02-15,KG,7.1000000000000005
-Groundnuts (shelled),2010-03-15,KG,7.508
-Groundnuts (shelled),2010-04-15,KG,7.386666666666667
-Groundnuts (shelled),2010-05-15,KG,8.524
-Groundnuts (shelled),2010-06-15,KG,7.541666666666667
-Groundnuts (shelled),2010-07-15,KG,8.799999999999999
-Groundnuts (shelled),2010-08-15,KG,8.334
-Groundnuts (shelled),2010-09-15,KG,7.428571428571429
-Groundnuts (shelled),2010-10-15,KG,7.5
-Groundnuts (shelled),2010-11-15,KG,5.761428571428572
-Groundnuts (shelled),2010-12-15,KG,6.803333333333334
-Groundnuts (shelled),2011-01-15,KG,8.278333333333334
-Groundnuts (shelled),2011-02-15,KG,8.021666666666667
-Groundnuts (shelled),2011-03-15,KG,6.825714285714286
-Groundnuts (shelled),2011-04-15,KG,5.98
-Groundnuts (shelled),2011-05-15,KG,6.964285714285714
-Groundnuts (shelled),2011-06-15,KG,10.528333333333334
-Groundnuts (shelled),2011-07-15,KG,15.058333333333332
-Groundnuts (shelled),2011-08-15,KG,20.708333333333332
-Groundnuts (shelled),2011-09-15,KG,24.346666666666664
-Groundnuts (shelled),2011-10-15,KG,15.708333333333334
-Groundnuts (shelled),2011-11-15,KG,17.62
-Groundnuts (shelled),2011-12-15,KG,21.534
-Groundnuts (shelled),2012-01-15,KG,13.666666666666666
-Groundnuts (shelled),2012-02-15,KG,10.55
-Groundnuts (shelled),2012-03-15,KG,7.958333333333333
-Groundnuts (shelled),2012-04-15,KG,9.02
-Groundnuts (shelled),2012-05-15,KG,12.392857142857142
-Groundnuts (shelled),2012-07-15,KG,13.985714285714286
-Groundnuts (shelled),2012-08-15,KG,15.957142857142857
-Groundnuts (shelled),2012-09-15,KG,16.983333333333334
-Groundnuts (shelled),2012-10-15,KG,8.832857142857142
-Groundnuts (shelled),2012-11-15,KG,9.35
-Groundnuts (shelled),2012-12-15,KG,10.041666666666666
-Groundnuts (shelled),2013-04-15,KG,10.357142857142858
-Groundnuts (shelled),2013-05-15,KG,10.557142857142859
-Groundnuts (shelled),2013-06-15,KG,11.725
-Groundnuts (shelled),2013-07-15,KG,10.5
-Groundnuts (shelled),2013-08-15,KG,10.61375
-Groundnuts (shelled),2013-09-15,KG,9.875
-Groundnuts (shelled),2013-10-15,KG,9.36875
-Groundnuts (shelled),2013-11-15,KG,9.15
-Groundnuts (shelled),2013-12-15,KG,9.625
-Groundnuts (shelled),2014-01-15,KG,10.0
-Groundnuts (shelled),2014-02-15,KG,7.666666666666667
-Groundnuts (shelled),2014-03-15,KG,7.666666666666667
-Groundnuts (shelled),2014-04-15,KG,7.666666666666667
-Groundnuts (shelled),2014-05-15,KG,7.666666666666667
-Groundnuts (shelled),2014-06-15,KG,7.666666666666667
-Groundnuts (shelled),2014-07-15,KG,8.333333333333334
-Groundnuts (shelled),2014-08-15,KG,9.5
-Groundnuts (shelled),2014-09-15,KG,9.25
-Groundnuts (shelled),2014-10-15,KG,8.857142857142858
-Groundnuts (shelled),2014-11-15,KG,8.424285714285714
-Groundnuts (shelled),2014-12-15,KG,8.1
-Groundnuts (shelled),2015-01-15,KG,9.125
-Groundnuts (shelled),2015-02-15,KG,11.05
-Groundnuts (shelled),2015-03-15,KG,10.8
-Groundnuts (shelled),2015-04-15,KG,12.7
-Groundnuts (shelled),2015-05-15,KG,19.114285714285717
-Groundnuts (shelled),2015-06-15,KG,24.285714285714285
-Groundnuts (shelled),2015-07-15,KG,24.62857142857143
-Groundnuts (shelled),2015-08-15,KG,22.75714285714286
-Groundnuts (shelled),2015-09-15,KG,16.68
-Groundnuts (shelled),2015-10-15,KG,21.17142857142857
-Groundnuts (shelled),2015-11-15,KG,23.383333333333336
-Groundnuts (shelled),2015-12-15,KG,21.5
-Groundnuts (shelled),2016-01-15,KG,26.8125
-Groundnuts (shelled),2016-02-15,KG,29.042857142857144
-Groundnuts (shelled),2016-03-15,KG,36.9125
-Groundnuts (shelled),2016-04-15,KG,34.41111111111111
-Groundnuts (shelled),2016-05-15,KG,50.25
-Groundnuts (shelled),2016-06-15,KG,46.458333333333336
-Groundnuts (shelled),2016-07-15,KG,105.42857142857143
-Groundnuts (shelled),2016-08-15,KG,94.0
-Groundnuts (shelled),2016-09-15,KG,77.74166666666666
-Groundnuts (shelled),2016-10-15,KG,92.94285714285715
-Groundnuts (shelled),2016-11-15,KG,109.42857142857143
-Groundnuts (shelled),2016-12-15,KG,122.49285714285715
-Groundnuts (shelled),2017-01-15,KG,122.46
-Groundnuts (shelled),2017-02-15,KG,132.28571428571428
-Groundnuts (shelled),2017-03-15,KG,174.71428571428572
-Groundnuts (shelled),2017-04-15,KG,222.4333333333333
-Groundnuts (shelled),2017-05-15,KG,299.4
-Groundnuts (shelled),2017-06-15,KG,235.875
-Groundnuts (shelled),2017-07-15,KG,244.5
-Groundnuts (shelled),2017-08-15,KG,250.28571428571428
-Groundnuts (shelled),2017-10-15,KG,257.6666666666667
-Groundnuts (shelled),2017-11-15,KG,243.0
-Groundnuts (shelled),2017-12-15,KG,221.5
-Groundnuts (shelled),2018-01-15,KG,247.16666666666666
-Groundnuts (shelled),2018-03-15,KG,316.9
-Groundnuts (shelled),2018-04-15,KG,401.85714285714283
-Groundnuts (shelled),2018-06-15,KG,366.14285714285717
-Groundnuts (shelled),2018-06-15,L,200.0
-Groundnuts (shelled),2018-07-15,KG,352.6875
-Groundnuts (shelled),2018-08-15,KG,333.1666666666667
-Groundnuts (shelled),2018-09-15,KG,304.6
-Groundnuts (shelled),2018-10-15,KG,254.3
-Groundnuts (shelled),2018-12-15,KG,315.8
-Groundnuts (shelled),2019-01-15,KG,291.5
-Groundnuts (shelled),2019-02-15,KG,288.625
-Groundnuts (shelled),2019-03-15,KG,317.42857142857144
-Groundnuts (shelled),2019-04-15,KG,275.0
-Groundnuts (shelled),2019-05-15,KG,399.14285714285717
-Groundnuts (shelled),2019-06-15,KG,359.1666666666667
-Groundnuts (shelled),2019-07-15,KG,323.0
-Groundnuts (shelled),2019-08-15,KG,344.8333333333333
-Groundnuts (shelled),2019-09-15,KG,283.6
-Groundnuts (shelled),2019-10-15,KG,305.2
-Groundnuts (shelled),2019-11-15,KG,700.0
-Groundnuts (shelled),2019-12-15,KG,1000.0
-Groundnuts (shelled),2020-01-15,KG,523.3
-Groundnuts (shelled),2020-02-15,KG,539.1
-Groundnuts (shelled),2020-03-15,KG,498.8636363636364
-Groundnuts (shelled),2020-04-15,KG,520.0272727272727
-Groundnuts (shelled),2020-05-15,KG,539.0
-Groundnuts (shelled),2020-06-15,KG,494.0975
-Groundnuts (shelled),2020-07-15,KG,529.4715384615384
-Groundnuts (shelled),2020-08-15,KG,577.3321428571428
-Groundnuts (shelled),2020-09-15,KG,872.6999999999999
-Groundnuts (shelled),2020-10-15,KG,941.1333333333334
-Groundnuts (shelled),2020-11-15,KG,662.1525
-Groundnuts (shelled),2020-12-15,KG,807.82
-Groundnuts (shelled),2021-01-15,KG,711.1111111111111
-Groundnuts (shelled),2021-02-15,KG,1097.2233333333334
-Groundnuts (shelled),2021-03-15,KG,731.4488888888889
-Groundnuts (shelled),2021-04-15,KG,829.515
-Groundnuts (shelled),2021-05-15,KG,907.0027272727274
-Groundnuts (shelled),2021-06-15,KG,880.4119999999999
-Groundnuts (shelled),2021-07-15,KG,971.2775
-Groundnuts (shelled),2021-08-15,KG,868.3649999999999
-Groundnuts (shelled),2021-09-15,KG,929.8241666666667
-Groundnuts (shelled),2021-10-15,KG,770.0754545454546
-Groundnuts (shelled),2021-11-15,KG,780.8690909090909
-Groundnuts (shelled),2021-12-15,KG,840.3844444444444
-Groundnuts (shelled),2022-01-15,KG,780.2318181818181
-Groundnuts (shelled),2022-02-15,KG,824.8954545454545
-Groundnuts (shelled),2022-03-15,KG,892.067
-Groundnuts (shelled),2022-04-15,KG,834.5709090909091
-Groundnuts (shelled),2022-05-15,KG,1062.0291666666667
-Groundnuts (shelled),2022-06-15,KG,1181.901
-Groundnuts (shelled),2022-07-15,KG,1033.115
-Groundnuts (shelled),2022-08-15,KG,1249.5172727272727
-Groundnuts (shelled),2022-09-15,KG,1303.533
-Groundnuts (shelled),2022-10-15,KG,1596.2966666666666
-Groundnuts (shelled),2022-11-15,KG,1454.5236363636363
-Groundnuts (shelled),2022-12-15,KG,1466.8
-Groundnuts (shelled),2023-01-15,KG,1480.083076923077
-Groundnuts (shelled),2023-02-15,KG,1542.8223076923075
-Groundnuts (shelled),2023-03-15,KG,1350.0
-Groundnuts (shelled),2023-04-15,KG,1954.6483333333333
-Groundnuts (shelled),2023-05-15,KG,2006.9313636363636
-Groundnuts (shelled),2023-06-15,KG,2097.6694736842105
-Groundnuts (shelled),2023-07-15,KG,2071.4384999999997
-Groundnuts (shelled),2023-08-15,KG,2130.21
-Groundnuts (shelled),2023-09-15,KG,2216.5633333333335
-Groundnuts (shelled),2023-10-15,KG,2620.054117647059
-Groundnuts (shelled),2023-11-15,KG,2059.151875
-Groundnuts (shelled),2023-12-15,KG,2038.665625
-Groundnuts (shelled),2024-01-15,KG,3370.530625
-Groundnuts (shelled),2024-02-15,KG,2634.776153846154
-Groundnuts (unshelled),2020-03-15,KG,327.3076923076923
-Groundnuts (unshelled),2020-04-15,KG,360.16076923076923
-Groundnuts (unshelled),2020-05-15,KG,370.0730769230769
-Groundnuts (unshelled),2020-06-15,KG,403.16125
-Groundnuts (unshelled),2020-07-15,KG,414.58
-Groundnuts (unshelled),2020-08-15,KG,474.83210526315787
-Groundnuts (unshelled),2020-09-15,KG,484.36764705882354
-Groundnuts (unshelled),2020-10-15,KG,408.4575
-Groundnuts (unshelled),2020-11-15,KG,475.02700000000004
-Groundnuts (unshelled),2020-12-15,KG,537.7257142857143
-Groundnuts (unshelled),2021-01-15,KG,497.45214285714286
-Groundnuts (unshelled),2021-02-15,KG,572.8522222222223
-Groundnuts (unshelled),2021-03-15,KG,573.3564285714285
-Groundnuts (unshelled),2021-04-15,KG,566.4523076923077
-Groundnuts (unshelled),2021-05-15,KG,704.3193333333332
-Groundnuts (unshelled),2021-06-15,KG,634.3514285714285
-Groundnuts (unshelled),2021-07-15,KG,592.9921428571428
-Groundnuts (unshelled),2021-08-15,KG,574.4247058823529
-Groundnuts (unshelled),2021-09-15,KG,638.4166666666666
-Groundnuts (unshelled),2021-10-15,KG,508.13142857142856
-Groundnuts (unshelled),2021-11-15,KG,475.32533333333333
-Groundnuts (unshelled),2021-12-15,KG,630.5319999999999
-Groundnuts (unshelled),2022-01-15,KG,524.455
-Groundnuts (unshelled),2022-02-15,KG,520.255
-Groundnuts (unshelled),2022-03-15,KG,565.0153333333333
-Groundnuts (unshelled),2022-04-15,KG,538.5023529411765
-Groundnuts (unshelled),2022-05-15,KG,576.3035294117647
-Groundnuts (unshelled),2022-06-15,KG,777.3823529411765
-Groundnuts (unshelled),2022-07-15,KG,923.9758823529412
-Groundnuts (unshelled),2022-08-15,KG,1033.1673684210527
-Groundnuts (unshelled),2022-09-15,KG,1106.75125
-Groundnuts (unshelled),2022-10-15,KG,1137.743846153846
-Groundnuts (unshelled),2022-11-15,KG,755.0670588235294
-Groundnuts (unshelled),2022-12-15,KG,736.0006666666667
-Groundnuts (unshelled),2023-01-15,KG,840.724
-Groundnuts (unshelled),2023-02-15,KG,1023.0038095238097
-Groundnuts (unshelled),2023-03-15,KG,1306.4404166666666
-Groundnuts (unshelled),2023-04-15,KG,1385.0218181818182
-Groundnuts (unshelled),2023-05-15,KG,1510.6781818181817
-Groundnuts (unshelled),2023-06-15,KG,1704.516842105263
-Groundnuts (unshelled),2023-07-15,KG,2013.582
-Groundnuts (unshelled),2023-08-15,KG,1937.9657142857143
-Groundnuts (unshelled),2023-09-15,KG,1739.844210526316
-Groundnuts (unshelled),2023-10-15,KG,1366.1438888888888
-Groundnuts (unshelled),2023-12-15,KG,1881.3335294117646
-Groundnuts (unshelled),2024-01-15,KG,1562.800588235294
-Groundnuts (unshelled),2024-02-15,KG,2024.6084615384616
-Livestock (cattle),2020-03-15,Head,73753.33333333333
-Livestock (cattle),2020-04-15,Head,83037.40333333334
-Livestock (cattle),2020-05-15,Head,82849.30066666666
-Livestock (cattle),2020-06-15,Head,82547.64705882352
-Livestock (cattle),2020-07-15,Head,97905.005
-Livestock (cattle),2020-08-15,Head,101580.41529411764
-Livestock (cattle),2020-09-15,Head,89341.85375
-Livestock (cattle),2020-10-15,Head,87643.41846153846
-Livestock (cattle),2020-11-15,Head,114897.270625
-Livestock (cattle),2020-12-15,Head,117959.65785714285
-Livestock (cattle),2021-01-15,Head,138514.70588235295
-Livestock (cattle),2021-02-15,Head,133372.222
-Livestock (cattle),2021-03-15,Head,124759.18875
-Livestock (cattle),2021-04-15,Head,126445.92599999999
-Livestock (cattle),2021-05-15,Head,134323.11470588236
-Livestock (cattle),2021-06-15,Head,131568.7882352941
-Livestock (cattle),2021-07-15,Head,130489.00470588235
-Livestock (cattle),2021-08-15,Head,126464.6155
-Livestock (cattle),2021-09-15,Head,129714.94099999999
-Livestock (cattle),2021-10-15,Head,128046.05263157895
-Livestock (cattle),2021-11-15,Head,125866.8475
-Livestock (cattle),2021-12-15,Head,127425.97133333333
-Livestock (cattle),2022-01-15,Head,130307.706
-Livestock (cattle),2022-02-15,Head,126489.6155
-Livestock (cattle),2022-03-15,Head,125855.555625
-Livestock (cattle),2022-04-15,Head,121408.3994736842
-Livestock (cattle),2022-05-15,Head,127169.42050000001
-Livestock (cattle),2022-06-15,Head,129751.8810526316
-Livestock (cattle),2022-07-15,Head,131416.59684210527
-Livestock (cattle),2022-08-15,Head,138396.14714285714
-Livestock (cattle),2022-09-15,Head,142955.32428571428
-Livestock (cattle),2022-10-15,Head,154975.4394736842
-Livestock (cattle),2022-11-15,Head,154727.12949999998
-Livestock (cattle),2022-12-15,Head,154005.73388888888
-Livestock (cattle),2023-01-15,Head,166931.59
-Livestock (cattle),2023-02-15,Head,214868.425
-"Livestock (goat, medium-sized male)",2018-03-15,Head,11011.363636363636
-"Livestock (goat, medium-sized male)",2018-04-15,Head,12430.3
-"Livestock (goat, medium-sized male)",2018-06-15,Head,15983.375
-"Livestock (goat, medium-sized male)",2018-07-15,Head,14910.375
-"Livestock (goat, medium-sized male)",2018-08-15,Head,13381.444444444445
-"Livestock (goat, medium-sized male)",2018-09-15,Head,14051.0
-"Livestock (goat, medium-sized male)",2018-10-15,Head,8638.0
-"Livestock (goat, medium-sized male)",2018-12-15,Head,12025.888888888889
-"Livestock (goat, medium-sized male)",2019-01-15,Head,11515.625
-"Livestock (goat, medium-sized male)",2019-02-15,Head,10543.75
-"Livestock (goat, medium-sized male)",2019-03-15,Head,12880.833333333334
-"Livestock (goat, medium-sized male)",2019-04-15,Head,13595.833333333334
-"Livestock (goat, medium-sized male)",2019-05-15,Head,15581.818181818182
-"Livestock (goat, medium-sized male)",2019-06-15,Head,15463.636363636364
-"Livestock (goat, medium-sized male)",2019-07-15,Head,15140.90909090909
-"Livestock (goat, medium-sized male)",2019-08-15,Head,13750.0
-"Livestock (goat, medium-sized male)",2019-09-15,Head,14242.045454545454
-"Livestock (goat, medium-sized male)",2019-10-15,Head,14764.454545454546
-"Livestock (goat, medium-sized male)",2019-11-15,Head,14576.0
-"Livestock (goat, medium-sized male)",2019-12-15,Head,17204.0
-"Livestock (goat, medium-sized male)",2020-01-15,Head,14931.333333333334
-"Livestock (goat, medium-sized male)",2020-02-15,Head,14736.333333333334
-"Livestock (goat, medium-sized male)",2020-03-15,Head,15935.921052631578
-"Livestock (goat, medium-sized male)",2020-04-15,Head,16532.387894736843
-"Livestock (goat, medium-sized male)",2020-05-15,Head,16228.865882352942
-"Livestock (goat, medium-sized male)",2020-06-15,Head,16326.245263157896
-"Livestock (goat, medium-sized male)",2020-07-15,Head,21925.297368421056
-"Livestock (goat, medium-sized male)",2020-08-15,Head,18630.47947368421
-"Livestock (goat, medium-sized male)",2020-09-15,Head,19936.602777777778
-"Livestock (goat, medium-sized male)",2020-10-15,Head,21248.768666666667
-"Livestock (goat, medium-sized male)",2020-11-15,Head,22080.29117647059
-"Livestock (goat, medium-sized male)",2020-12-15,Head,22523.29076923077
-"Livestock (goat, medium-sized male)",2021-01-15,Head,24528.70388888889
-"Livestock (goat, medium-sized male)",2021-02-15,Head,22961.11133333333
-"Livestock (goat, medium-sized male)",2021-03-15,Head,26075.639444444445
-"Livestock (goat, medium-sized male)",2021-04-15,Head,27766.013529411764
-"Livestock (goat, medium-sized male)",2021-05-15,Head,25751.864210526313
-"Livestock (goat, medium-sized male)",2021-06-15,Head,23844.392631578947
-"Livestock (goat, medium-sized male)",2021-07-15,Head,25145.22052631579
-"Livestock (goat, medium-sized male)",2021-08-15,Head,23170.421363636364
-"Livestock (goat, medium-sized male)",2021-09-15,Head,23846.908636363634
-"Livestock (goat, medium-sized male)",2021-10-15,Head,22683.30761904762
-"Livestock (goat, medium-sized male)",2021-11-15,Head,22991.814545454545
-"Livestock (goat, medium-sized male)",2021-12-15,Head,23172.373333333333
-"Livestock (goat, medium-sized male)",2022-01-15,Head,24061.546818181818
-"Livestock (goat, medium-sized male)",2022-02-15,Head,22577.272272727274
-"Livestock (goat, medium-sized male)",2022-03-15,Head,23327.017368421053
-"Livestock (goat, medium-sized male)",2022-04-15,Head,20907.98476190476
-"Livestock (goat, medium-sized male)",2022-05-15,Head,22000.62590909091
-"Livestock (goat, medium-sized male)",2022-06-15,Head,23160.88380952381
-"Livestock (goat, medium-sized male)",2022-07-15,Head,22805.45761904762
-"Livestock (goat, medium-sized male)",2022-08-15,Head,24152.83695652174
-"Livestock (goat, medium-sized male)",2022-09-15,Head,25310.96608695652
-"Livestock (goat, medium-sized male)",2022-10-15,Head,27973.48545454545
-"Livestock (goat, medium-sized male)",2022-11-15,Head,27457.487826086955
-"Livestock (goat, medium-sized male)",2022-12-15,Head,28800.918571428574
-"Livestock (goat, medium-sized male)",2023-01-15,Head,30044.59619047619
-"Livestock (goat, medium-sized male)",2023-02-15,Head,29563.13772727273
-"Livestock (goat, medium-sized male)",2023-03-15,Head,32546.012800000004
-"Livestock (goat, medium-sized male)",2023-04-15,Head,33040.51565217391
-"Livestock (goat, medium-sized male)",2023-05-15,Head,40739.004583333335
-"Livestock (goat, medium-sized male)",2023-06-15,Head,39836.919565217395
-"Livestock (goat, medium-sized male)",2023-07-15,Head,41985.51107142858
-"Livestock (goat, medium-sized male)",2023-08-15,Head,45915.025555555556
-"Livestock (goat, medium-sized male)",2023-09-15,Head,44534.4308
-"Livestock (goat, medium-sized male)",2023-10-15,Head,43642.099130434784
-"Livestock (goat, medium-sized male)",2023-11-15,Head,49275.93590909091
-"Livestock (goat, medium-sized male)",2023-12-15,Head,53968.94368421053
-"Livestock (goat, medium-sized male)",2024-01-15,Head,56979.26833333333
-"Livestock (goat, medium-sized male)",2024-02-15,Head,56329.91625
-"Livestock (sheep, medium-sized male)",2018-03-15,Head,10279.3
-"Livestock (sheep, medium-sized male)",2018-04-15,Head,11462.777777777777
-"Livestock (sheep, medium-sized male)",2018-06-15,Head,16040.625
-"Livestock (sheep, medium-sized male)",2018-07-15,Head,14834.3375
-"Livestock (sheep, medium-sized male)",2018-08-15,Head,12215.888888888889
-"Livestock (sheep, medium-sized male)",2018-09-15,Head,13734.375
-"Livestock (sheep, medium-sized male)",2018-10-15,Head,8205.0
-"Livestock (sheep, medium-sized male)",2018-12-15,Head,11449.0
-"Livestock (sheep, medium-sized male)",2019-01-15,Head,9536.5
-"Livestock (sheep, medium-sized male)",2019-02-15,Head,9351.0
-"Livestock (sheep, medium-sized male)",2019-03-15,Head,11517.90909090909
-"Livestock (sheep, medium-sized male)",2019-04-15,Head,14249.75
-"Livestock (sheep, medium-sized male)",2019-05-15,Head,13002.5
-"Livestock (sheep, medium-sized male)",2019-06-15,Head,12322.5
-"Livestock (sheep, medium-sized male)",2019-07-15,Head,13790.9
-"Livestock (sheep, medium-sized male)",2019-08-15,Head,13064.0
-"Livestock (sheep, medium-sized male)",2019-09-15,Head,13391.25
-"Livestock (sheep, medium-sized male)",2019-10-15,Head,13583.2
-"Livestock (sheep, medium-sized male)",2020-01-15,Head,13345.0
-"Livestock (sheep, medium-sized male)",2020-02-15,Head,14134.727272727272
-"Livestock (sheep, medium-sized male)",2020-03-15,Head,13715.972222222223
-"Livestock (sheep, medium-sized male)",2020-04-15,Head,14849.638333333332
-"Livestock (sheep, medium-sized male)",2020-05-15,Head,14496.259375
-"Livestock (sheep, medium-sized male)",2020-06-15,Head,14369.63
-"Livestock (sheep, medium-sized male)",2020-07-15,Head,15183.804444444444
-"Livestock (sheep, medium-sized male)",2020-08-15,Head,15429.988888888889
-"Livestock (sheep, medium-sized male)",2020-09-15,Head,16449.753125
-"Livestock (sheep, medium-sized male)",2020-10-15,Head,18263.55923076923
-"Livestock (sheep, medium-sized male)",2020-11-15,Head,20292.730666666666
-"Livestock (sheep, medium-sized male)",2020-12-15,Head,20940.384615384617
-"Livestock (sheep, medium-sized male)",2021-01-15,Head,22390.625
-"Livestock (sheep, medium-sized male)",2021-02-15,Head,22100.0
-"Livestock (sheep, medium-sized male)",2021-03-15,Head,24443.501764705885
-"Livestock (sheep, medium-sized male)",2021-04-15,Head,26659.259333333335
-"Livestock (sheep, medium-sized male)",2021-05-15,Head,26503.66375
-"Livestock (sheep, medium-sized male)",2021-06-15,Head,36365.628125
-"Livestock (sheep, medium-sized male)",2021-07-15,Head,93777.33124999999
-"Livestock (sheep, medium-sized male)",2021-08-15,Head,20705.644500000002
-"Livestock (sheep, medium-sized male)",2021-09-15,Head,20898.04842105263
-"Livestock (sheep, medium-sized male)",2021-10-15,Head,21643.518333333333
-"Livestock (sheep, medium-sized male)",2021-11-15,Head,21628.833157894736
-"Livestock (sheep, medium-sized male)",2021-12-15,Head,22555.004
-"Livestock (sheep, medium-sized male)",2022-01-15,Head,21624.6545
-"Livestock (sheep, medium-sized male)",2022-02-15,Head,21236.730499999998
-"Livestock (sheep, medium-sized male)",2022-03-15,Head,22256.25
-"Livestock (sheep, medium-sized male)",2022-04-15,Head,21337.775
-"Livestock (sheep, medium-sized male)",2022-05-15,Head,22476.734736842107
-"Livestock (sheep, medium-sized male)",2022-06-15,Head,22005.883888888886
-"Livestock (sheep, medium-sized male)",2022-07-15,Head,21063.91388888889
-"Livestock (sheep, medium-sized male)",2022-08-15,Head,23008.807500000003
-"Livestock (sheep, medium-sized male)",2022-09-15,Head,23758.947368421053
-"Livestock (sheep, medium-sized male)",2022-10-15,Head,27878.947368421053
-"Livestock (sheep, medium-sized male)",2022-11-15,Head,27602.023333333334
-"Livestock (sheep, medium-sized male)",2022-12-15,Head,28970.724736842105
-"Livestock (sheep, medium-sized male)",2023-01-15,Head,30551.470526315785
-"Livestock (sheep, medium-sized male)",2023-02-15,Head,30675.4555
-"Livestock (sheep, medium-sized male)",2023-03-15,Head,29749.608260869565
-"Livestock (sheep, medium-sized male)",2023-04-15,Head,31594.771428571425
-"Livestock (sheep, medium-sized male)",2023-05-15,Head,35827.294347826086
-"Livestock (sheep, medium-sized male)",2023-06-15,Head,39771.91181818182
-"Livestock (sheep, medium-sized male)",2023-07-15,Head,40974.559230769235
-"Livestock (sheep, medium-sized male)",2023-08-15,Head,45902.7736
-"Livestock (sheep, medium-sized male)",2023-09-15,Head,42999.99956521739
-"Livestock (sheep, medium-sized male)",2023-10-15,Head,47253.64
-"Livestock (sheep, medium-sized male)",2023-11-15,Head,49060.17588235294
-"Livestock (sheep, medium-sized male)",2023-12-15,Head,52132.09176470589
-"Livestock (sheep, medium-sized male)",2024-01-15,Head,59336.657222222224
-"Livestock (sheep, medium-sized male)",2024-02-15,Head,56164.40125
-Maize (food aid),2020-03-15,3.5 KG,395.75
-Maize (food aid),2020-04-15,3.5 KG,395.75
-Maize (food aid),2020-05-15,3.5 KG,450.0
-Maize (food aid),2020-06-15,3.5 KG,470.4675
-Maize (food aid),2020-07-15,3.5 KG,618.1475
-Maize (food aid),2020-08-15,3.5 KG,551.3883333333333
-Maize (food aid),2020-09-15,3.5 KG,616.36
-Maize (food aid),2020-10-15,3.5 KG,679.3257142857143
-Maize (food aid),2020-11-15,3.5 KG,704.3514285714285
-Maize (food aid),2020-12-15,3.5 KG,700.0
-Maize (food aid),2021-01-15,3.5 KG,983.335
-Maize (food aid),2021-02-15,3.5 KG,1150.0
-Maize (food aid),2021-03-15,3.5 KG,1103.125
-Maize (food aid),2021-04-15,3.5 KG,1225.9266666666665
-Maize (food aid),2021-05-15,3.5 KG,804.138
-Maize (food aid),2021-06-15,3.5 KG,882.2916666666666
-Maize (food aid),2021-07-15,3.5 KG,821.1428571428571
-Maize (food aid),2021-08-15,3.5 KG,707.7900000000001
-Maize (food aid),2021-09-15,3.5 KG,659.7144444444444
-Maize (food aid),2021-10-15,3.5 KG,601.1899999999999
-Maize (food aid),2021-11-15,3.5 KG,712.0814285714285
-Maize (food aid),2021-12-15,3.5 KG,687.5
-Maize (food aid),2022-01-15,3.5 KG,763.5985714285714
-Maize (food aid),2022-02-15,3.5 KG,907.8571428571429
-Maize (food aid),2022-03-15,3.5 KG,950.0
-Maize (food aid),2022-04-15,3.5 KG,973.37
-Maize (food aid),2022-05-15,3.5 KG,1106.945
-Maize (food aid),2022-06-15,3.5 KG,1062.1712499999999
-Maize (food aid),2022-07-15,3.5 KG,1477.0157142857145
-Maize (food aid),2022-08-15,3.5 KG,2058.3333333333335
-Maize (food aid),2022-09-15,3.5 KG,1841.0
-Maize (food aid),2022-10-15,3.5 KG,2110.0
-Maize (food aid),2022-11-15,3.5 KG,1894.445
-Maize (food aid),2022-12-15,3.5 KG,1933.3333333333333
-Maize (food aid),2023-01-15,3.5 KG,2250.0
+Fuel (petrol-gasoline),2024-02-15,L,1937.5055555555557
 Maize (white),2007-08-15,3.5 KG,2.7
 Maize (white),2007-09-15,3.5 KG,4.09
 Maize (white),2007-10-15,3.5 KG,3.765
@@ -1562,16 +482,16 @@ Maize (white),2009-08-15,3.5 KG,4.726666666666667
 Maize (white),2009-09-15,3.5 KG,4.8525
 Maize (white),2009-10-15,3.5 KG,5.55
 Maize (white),2009-11-15,3.5 KG,5.516
-Maize (white),2009-12-15,3.5 KG,5.9719999999999995
+Maize (white),2009-12-15,3.5 KG,5.972
 Maize (white),2010-01-15,3.5 KG,6.843999999999999
 Maize (white),2010-02-15,3.5 KG,5.720000000000001
 Maize (white),2010-03-15,3.5 KG,4.833333333333333
-Maize (white),2010-04-15,3.5 KG,7.6739999999999995
+Maize (white),2010-04-15,3.5 KG,7.673999999999999
 Maize (white),2010-05-15,3.5 KG,4.97
 Maize (white),2010-06-15,3.5 KG,7.5
 Maize (white),2010-07-15,3.5 KG,6.166666666666667
 Maize (white),2010-08-15,3.5 KG,6.5
-Maize (white),2010-09-15,3.5 KG,7.9799999999999995
+Maize (white),2010-09-15,3.5 KG,7.979999999999999
 Maize (white),2010-10-15,3.5 KG,6.833333333333333
 Maize (white),2010-11-15,3.5 KG,10.276
 Maize (white),2010-12-15,3.5 KG,9.74
@@ -1581,11 +501,11 @@ Maize (white),2011-03-15,3.5 KG,9.232
 Maize (white),2011-04-15,3.5 KG,9.724
 Maize (white),2011-05-15,3.5 KG,8.040000000000001
 Maize (white),2011-06-15,3.5 KG,11.596666666666666
-Maize (white),2011-07-15,3.5 KG,9.373333333333333
+Maize (white),2011-07-15,3.5 KG,9.373333333333331
 Maize (white),2011-08-15,3.5 KG,8.75
 Maize (white),2011-09-15,3.5 KG,12.5
 Maize (white),2011-10-15,3.5 KG,9.55
-Maize (white),2011-11-15,3.5 KG,10.342500000000001
+Maize (white),2011-11-15,3.5 KG,10.3425
 Maize (white),2011-12-15,3.5 KG,11.5
 Maize (white),2012-01-15,3.5 KG,12.22
 Maize (white),2012-02-15,3.5 KG,12.25
@@ -1601,7 +521,7 @@ Maize (white),2012-12-15,3.5 KG,11.375
 Maize (white),2013-01-15,3.5 KG,12.15625
 Maize (white),2013-02-15,3.5 KG,13.99375
 Maize (white),2013-03-15,3.5 KG,12.8375
-Maize (white),2013-04-15,3.5 KG,14.542857142857143
+Maize (white),2013-04-15,3.5 KG,14.542857142857144
 Maize (white),2013-05-15,3.5 KG,14.714285714285714
 Maize (white),2013-06-15,3.5 KG,14.4375
 Maize (white),2013-07-15,3.5 KG,14.0625
@@ -1620,17 +540,17 @@ Maize (white),2014-07-15,3.5 KG,10.0
 Maize (white),2014-08-15,3.5 KG,12.833333333333334
 Maize (white),2014-09-15,3.5 KG,12.25
 Maize (white),2014-10-15,3.5 KG,11.625
-Maize (white),2014-11-15,3.5 KG,14.479999999999999
+Maize (white),2014-11-15,3.5 KG,14.48
 Maize (white),2014-12-15,3.5 KG,12.8125
-Maize (white),2015-01-15,3.5 KG,15.712499999999999
+Maize (white),2015-01-15,3.5 KG,15.7125
 Maize (white),2015-02-15,3.5 KG,14.028571428571428
 Maize (white),2015-03-15,3.5 KG,11.28
 Maize (white),2015-04-15,3.5 KG,19.6875
-Maize (white),2015-05-15,3.5 KG,25.650000000000002
-Maize (white),2015-06-15,3.5 KG,26.333333333333332
+Maize (white),2015-05-15,3.5 KG,25.65
+Maize (white),2015-06-15,3.5 KG,26.33333333333333
 Maize (white),2015-07-15,3.5 KG,27.96666666666667
 Maize (white),2015-08-15,3.5 KG,28.416666666666668
-Maize (white),2015-09-15,3.5 KG,26.833333333333332
+Maize (white),2015-09-15,3.5 KG,26.83333333333333
 Maize (white),2015-10-15,3.5 KG,29.22
 Maize (white),2015-11-15,3.5 KG,34.2
 Maize (white),2015-12-15,3.5 KG,38.45
@@ -1642,13 +562,13 @@ Maize (white),2016-05-15,3.5 KG,62.7
 Maize (white),2016-06-15,3.5 KG,68.3
 Maize (white),2016-07-15,3.5 KG,125.0
 Maize (white),2016-08-15,3.5 KG,155.69500000000002
-Maize (white),2016-09-15,3.5 KG,120.58333333333333
+Maize (white),2016-09-15,3.5 KG,120.58333333333331
 Maize (white),2016-10-15,3.5 KG,149.79166666666666
 Maize (white),2016-11-15,3.5 KG,173.625
-Maize (white),2016-12-15,3.5 KG,202.79166666666666
+Maize (white),2016-12-15,3.5 KG,202.79166666666663
 Maize (white),2017-01-15,3.5 KG,233.5
-Maize (white),2017-02-15,3.5 KG,221.91666666666666
-Maize (white),2017-03-15,3.5 KG,240.16666666666666
+Maize (white),2017-02-15,3.5 KG,221.91666666666663
+Maize (white),2017-03-15,3.5 KG,240.16666666666663
 Maize (white),2017-04-15,3.5 KG,304.1666666666667
 Maize (white),2017-05-15,3.5 KG,391.5
 Maize (white),2017-06-15,3.5 KG,329.6666666666667
@@ -1656,226 +576,75 @@ Maize (white),2017-07-15,3.5 KG,321.0
 Maize (white),2017-08-15,3.5 KG,287.3
 Maize (white),2017-10-15,3.5 KG,257.1666666666667
 Maize (white),2017-11-15,3.5 KG,230.0
-Maize (white),2017-12-15,3.5 KG,245.42857142857142
+Maize (white),2017-12-15,3.5 KG,245.42857142857144
 Maize (white),2018-01-15,3.5 KG,285.625
 Maize (white),2018-03-15,3.5 KG,355.875
 Maize (white),2018-04-15,3.5 KG,392.125
-Maize (white),2018-06-15,3.5 KG,398.85714285714283
-Maize (white),2018-07-15,3.5 KG,417.92857142857144
+Maize (white),2018-06-15,3.5 KG,398.8571428571428
+Maize (white),2018-07-15,3.5 KG,417.9285714285714
 Maize (white),2018-08-15,3.5 KG,385.8333333333333
 Maize (white),2018-09-15,3.5 KG,370.5833333333333
 Maize (white),2018-10-15,3.5 KG,326.5
 Maize (white),2018-12-15,3.5 KG,364.7142857142857
 Maize (white),2019-01-15,3.5 KG,328.5
 Maize (white),2019-02-15,3.5 KG,327.6666666666667
-Maize (white),2019-02-15,50 KG,3923.6666666666665
-Maize (white),2019-03-15,50 KG,4059.375
 Maize (white),2019-04-15,3.5 KG,374.0
-Maize (white),2019-04-15,50 KG,4745.833333333333
 Maize (white),2019-05-15,3.5 KG,300.0
-Maize (white),2019-05-15,50 KG,5480.714285714285
-Maize (white),2019-06-15,50 KG,5350.0
-Maize (white),2019-07-15,50 KG,5945.285714285715
 Maize (white),2019-08-15,3.5 KG,150.0
-Maize (white),2019-08-15,50 KG,6871.714285714285
 Maize (white),2019-09-15,3.5 KG,269.0
-Maize (white),2019-09-15,50 KG,7066.666666666667
 Maize (white),2019-10-15,3.5 KG,300.0
-Maize (white),2019-10-15,50 KG,5182.4
 Maize (white),2019-11-15,3.5 KG,382.0
 Maize (white),2019-12-15,3.5 KG,425.6
 Maize (white),2020-01-15,3.5 KG,459.1
-Maize (white),2020-01-15,50 KG,5435.5
 Maize (white),2020-02-15,3.5 KG,224.0
-Maize (white),2020-02-15,50 KG,5750.0
 Maize (white),2020-03-15,3.5 KG,427.25
-Maize (white),2020-03-15,50 KG,5256.8125
 Maize (white),2020-04-15,3.5 KG,428.45875
-Maize (white),2020-04-15,50 KG,5374.6225
 Maize (white),2020-05-15,3.5 KG,483.3528571428571
-Maize (white),2020-05-15,50 KG,6520.161428571429
 Maize (white),2020-06-15,3.5 KG,548.8888888888889
-Maize (white),2020-06-15,50 KG,7075.763333333332
 Maize (white),2020-07-15,3.5 KG,613.0644444444445
-Maize (white),2020-07-15,50 KG,8308.962857142857
 Maize (white),2020-08-15,3.5 KG,789.8900000000001
-Maize (white),2020-08-15,50 KG,8907.211666666666
 Maize (white),2020-09-15,3.5 KG,1165.1422222222222
-Maize (white),2020-09-15,50 KG,8790.224444444444
 Maize (white),2020-10-15,3.5 KG,647.6566666666666
-Maize (white),2020-10-15,50 KG,9454.285714285714
 Maize (white),2020-11-15,3.5 KG,782.729
-Maize (white),2020-11-15,50 KG,9208.47625
 Maize (white),2020-12-15,3.5 KG,956.0057142857142
-Maize (white),2020-12-15,50 KG,10007.561666666666
 Maize (white),2021-01-15,3.5 KG,828.3340000000001
-Maize (white),2021-01-15,50 KG,9666.666666666666
 Maize (white),2021-02-15,3.5 KG,1045.41625
-Maize (white),2021-02-15,50 KG,10990.475714285714
 Maize (white),2021-03-15,3.5 KG,941.08625
-Maize (white),2021-03-15,50 KG,14719.58375
 Maize (white),2021-04-15,3.5 KG,971.18125
-Maize (white),2021-04-15,50 KG,12604.628333333334
-Maize (white),2021-05-15,3.5 KG,915.1959999999999
-Maize (white),2021-05-15,50 KG,11993.8575
-Maize (white),2021-06-15,3.5 KG,904.6959999999999
-Maize (white),2021-06-15,50 KG,11550.2975
+Maize (white),2021-05-15,3.5 KG,915.196
+Maize (white),2021-06-15,3.5 KG,904.696
 Maize (white),2021-07-15,3.5 KG,848.8688888888888
-Maize (white),2021-07-15,50 KG,11407.677142857143
 Maize (white),2021-08-15,3.5 KG,820.4708333333333
-Maize (white),2021-08-15,50 KG,10604.71
 Maize (white),2021-09-15,3.5 KG,793.835
-Maize (white),2021-09-15,50 KG,9905.374444444444
 Maize (white),2021-10-15,3.5 KG,806.25
-Maize (white),2021-10-15,50 KG,10495.0
 Maize (white),2021-11-15,3.5 KG,818.7184615384615
-Maize (white),2021-11-15,50 KG,10509.992999999999
 Maize (white),2021-12-15,3.5 KG,892.475
-Maize (white),2021-12-15,50 KG,9916.64125
 Maize (white),2022-01-15,3.5 KG,903.0284615384614
-Maize (white),2022-01-15,50 KG,8751.535
 Maize (white),2022-02-15,3.5 KG,955.8333333333334
-Maize (white),2022-02-15,50 KG,9653.75
 Maize (white),2022-03-15,3.5 KG,845.4545454545455
-Maize (white),2022-03-15,50 KG,8916.666666666666
 Maize (white),2022-04-15,3.5 KG,882.6715384615384
-Maize (white),2022-04-15,50 KG,11674.167
 Maize (white),2022-05-15,3.5 KG,908.493076923077
-Maize (white),2022-05-15,50 KG,12542.501
-Maize (white),2022-06-15,3.5 KG,964.3423076923077
-Maize (white),2022-06-15,50 KG,14659.716
+Maize (white),2022-06-15,3.5 KG,964.3423076923076
 Maize (white),2022-07-15,3.5 KG,1295.1963636363637
-Maize (white),2022-07-15,50 KG,19087.84571428571
 Maize (white),2022-08-15,3.5 KG,1719.691
-Maize (white),2022-08-15,50 KG,22666.47428571429
-Maize (white),2022-09-15,3.5 KG,1685.8880000000001
-Maize (white),2022-09-15,50 KG,20374.073333333334
+Maize (white),2022-09-15,3.5 KG,1685.888
 Maize (white),2022-10-15,3.5 KG,1508.333
-Maize (white),2022-10-15,50 KG,16686.666
 Maize (white),2022-11-15,3.5 KG,1505.0369999999998
-Maize (white),2022-11-15,50 KG,18552.778333333332
-Maize (white),2022-12-15,3.5 KG,1743.8709999999999
-Maize (white),2022-12-15,50 KG,19606.452
+Maize (white),2022-12-15,3.5 KG,1743.871
 Maize (white),2023-01-15,3.5 KG,1607.664
-Maize (white),2023-01-15,50 KG,18880.0
-Maize (white),2023-02-15,3.5 KG,1850.7849999999999
-Maize (white),2023-02-15,50 KG,28427.0825
-Maize (white),2023-03-15,3.5 KG,2010.2800000000002
-Maize (white),2023-03-15,50 KG,32944.333333333336
+Maize (white),2023-02-15,3.5 KG,1850.785
+Maize (white),2023-03-15,3.5 KG,2010.28
 Maize (white),2023-04-15,3.5 KG,2492.956
-Maize (white),2023-04-15,50 KG,31143.859999999997
 Maize (white),2023-05-15,3.5 KG,2700.02625
-Maize (white),2023-05-15,50 KG,39655.72222222222
-Maize (white),2023-06-15,3.5 KG,3071.3692857142855
-Maize (white),2023-06-15,50 KG,43241.9875
+Maize (white),2023-06-15,3.5 KG,3071.369285714285
 Maize (white),2023-07-15,3.5 KG,3481.41
-Maize (white),2023-07-15,50 KG,51736.492
 Maize (white),2023-08-15,3.5 KG,3150.3413333333333
-Maize (white),2023-08-15,50 KG,42572.16375
 Maize (white),2023-09-15,3.5 KG,2783.3686666666667
-Maize (white),2023-09-15,50 KG,46548.58666666667
 Maize (white),2023-10-15,3.5 KG,2698.07875
-Maize (white),2023-10-15,50 KG,40106.485
 Maize (white),2023-11-15,3.5 KG,2434.4664285714284
-Maize (white),2023-11-15,50 KG,43897.99428571429
 Maize (white),2023-12-15,3.5 KG,2699.148333333333
-Maize (white),2023-12-15,50 KG,43947.164000000004
-Maize (white),2024-01-15,3.5 KG,2651.2044444444446
-Maize (white),2024-01-15,50 KG,33486.11
-Maize (white),2024-02-15,3.5 KG,3135.7128571428575
-Maize (white),2024-02-15,50 KG,34900.0
-Maize meal,2014-03-15,3.5 KG,10.0
-Maize meal,2018-03-15,KG,252.57142857142858
-Maize meal,2018-04-15,KG,252.875
-Maize meal,2018-06-15,KG,243.8
-Maize meal,2018-07-15,KG,254.85
-Maize meal,2018-08-15,KG,232.75
-Maize meal,2018-09-15,KG,235.67142857142858
-Maize meal,2018-10-15,KG,282.1
-Maize meal,2018-12-15,KG,169.66666666666666
-Maize meal,2019-01-15,KG,204.71428571428572
-Maize meal,2019-02-15,KG,221.57142857142858
-Maize meal,2019-03-15,KG,269.2
-Maize meal,2019-04-15,KG,242.66666666666666
-Maize meal,2019-05-15,KG,211.5
-Maize meal,2019-06-15,KG,229.66666666666666
-Maize meal,2019-07-15,KG,258.2857142857143
-Maize meal,2019-08-15,KG,302.85714285714283
-Maize meal,2019-09-15,KG,274.35714285714283
-Maize meal,2019-10-15,KG,273.0
-Maize meal,2019-11-15,KG,296.3333333333333
-Maize meal,2019-12-15,KG,278.0
-Maize meal,2020-01-15,KG,269.0
-Maize meal,2020-02-15,KG,265.8
-Maize meal,2020-03-15,KG,348.82142857142856
-Maize meal,2020-04-15,KG,357.434
-Maize meal,2020-05-15,KG,397.2083333333333
-Maize meal,2020-06-15,KG,368.3976923076923
-Maize meal,2020-07-15,KG,381.88
-Maize meal,2020-08-15,KG,396.7735714285714
-Maize meal,2020-09-15,KG,431.84000000000003
-Maize meal,2020-10-15,KG,435.42454545454547
-Maize meal,2020-11-15,KG,444.81230769230774
-Maize meal,2020-12-15,KG,485.6666666666667
-Maize meal,2021-01-15,KG,481.1116666666667
-Maize meal,2021-02-15,KG,538.5
-Maize meal,2021-03-15,KG,546.3758333333334
-Maize meal,2021-04-15,KG,545.53
-Maize meal,2021-05-15,KG,533.3935714285715
-Maize meal,2021-06-15,KG,546.503076923077
-Maize meal,2021-07-15,KG,556.7078571428572
-Maize meal,2021-08-15,KG,545.7553846153846
-Maize meal,2021-09-15,KG,501.6284615384615
-Maize meal,2021-10-15,KG,522.0235714285715
-Maize meal,2021-11-15,KG,549.078
-Maize meal,2021-12-15,KG,612.6728571428572
-Maize meal,2022-01-15,KG,610.6007142857143
-Maize meal,2022-02-15,KG,603.585
-Maize meal,2022-03-15,KG,601.4323076923076
-Maize meal,2022-04-15,50 KG,17500.0
-Maize meal,2022-04-15,KG,610.2357142857143
-Maize meal,2022-05-15,50 KG,19281.25
-Maize meal,2022-05-15,KG,686.1728571428572
-Maize meal,2022-06-15,50 KG,23000.0
-Maize meal,2022-06-15,KG,744.1666666666666
-Maize meal,2022-07-15,50 KG,30500.0
-Maize meal,2022-07-15,KG,872.6146666666666
-Maize meal,2022-08-15,50 KG,36125.0
-Maize meal,2022-08-15,KG,1030.5946666666666
-Maize meal,2022-09-15,KG,1164.6666666666667
-Maize meal,2022-10-15,50 KG,33200.0
-Maize meal,2022-10-15,KG,1130.81
-Maize meal,2022-11-15,50 KG,31592.59
-Maize meal,2022-11-15,KG,1140.2242857142858
-Maize meal,2022-12-15,KG,1175.813076923077
-Maize meal,2023-01-15,50 KG,47500.0
-Maize meal,2023-01-15,KG,1283.4273333333333
-Maize meal,2023-02-15,50 KG,40080.768
-Maize meal,2023-02-15,KG,1307.1066666666668
-Maize meal,2023-03-15,50 KG,39666.6
-Maize meal,2023-03-15,KG,1068.8664285714287
-Maize meal,2023-04-15,50 KG,39096.475454545456
-Maize meal,2023-04-15,KG,1230.8385714285716
-Maize meal,2023-05-15,50 KG,44408.96333333333
-Maize meal,2023-05-15,KG,1143.7406666666668
-Maize meal,2023-06-15,50 KG,48669.871250000004
-Maize meal,2023-06-15,KG,1417.5026666666668
-Maize meal,2023-07-15,50 KG,58547.623076923075
-Maize meal,2023-07-15,KG,1584.486111111111
-Maize meal,2023-08-15,50 KG,55771.685
-Maize meal,2023-08-15,KG,1370.8893333333333
-Maize meal,2023-09-15,50 KG,45170.769090909096
-Maize meal,2023-09-15,KG,1584.0777777777778
-Maize meal,2023-10-15,50 KG,45842.76416666667
-Maize meal,2023-10-15,KG,1462.391111111111
-Maize meal,2023-11-15,50 KG,51082.369090909095
-Maize meal,2023-11-15,KG,1447.319375
-Maize meal,2023-12-15,50 KG,48555.2375
-Maize meal,2023-12-15,KG,1661.0813333333333
-Maize meal,2024-01-15,50 KG,47491.445555555554
-Maize meal,2024-01-15,KG,1737.1992307692308
-Maize meal,2024-02-15,50 KG,48136.72666666666
-Maize meal,2024-02-15,KG,1695.0489999999998
+Maize (white),2024-01-15,3.5 KG,2651.204444444445
+Maize (white),2024-02-15,3.5 KG,3135.712857142857
 Meat (beef),2020-03-15,KG,1063.235294117647
 Meat (beef),2020-04-15,KG,1105.4170588235295
 Meat (beef),2020-05-15,KG,1111.764705882353
@@ -1883,7 +652,7 @@ Meat (beef),2020-06-15,KG,1174.3857894736843
 Meat (beef),2020-07-15,KG,1216.8731578947368
 Meat (beef),2020-08-15,KG,1230.9157894736843
 Meat (beef),2020-09-15,KG,1293.4483333333333
-Meat (beef),2020-10-15,KG,1429.5714285714287
+Meat (beef),2020-10-15,KG,1429.571428571429
 Meat (beef),2020-11-15,KG,1408.6558823529413
 Meat (beef),2020-12-15,KG,1493.2671428571427
 Meat (beef),2021-01-15,KG,1602.3149999999998
@@ -1896,11 +665,11 @@ Meat (beef),2021-07-15,KG,1742.4515789473685
 Meat (beef),2021-08-15,KG,1672.3068181818182
 Meat (beef),2021-09-15,KG,1692.117727272727
 Meat (beef),2021-10-15,KG,1730.952380952381
-Meat (beef),2021-11-15,KG,1777.2918181818181
-Meat (beef),2021-12-15,KG,1769.8139999999999
+Meat (beef),2021-11-15,KG,1777.291818181818
+Meat (beef),2021-12-15,KG,1769.814
 Meat (beef),2022-01-15,KG,1888.2640909090908
-Meat (beef),2022-02-15,KG,1915.5245454545454
-Meat (beef),2022-03-15,KG,1865.4736842105262
+Meat (beef),2022-02-15,KG,1915.5245454545452
+Meat (beef),2022-03-15,KG,1865.4736842105265
 Meat (beef),2022-04-15,KG,1848.124761904762
 Meat (beef),2022-05-15,KG,1965.5509090909093
 Meat (beef),2022-06-15,KG,2020.9371428571428
@@ -1909,414 +678,23 @@ Meat (beef),2022-08-15,KG,2132.609130434783
 Meat (beef),2022-09-15,KG,2139.304347826087
 Meat (beef),2022-10-15,KG,2178.788181818182
 Meat (beef),2022-11-15,KG,2233.485
-Meat (beef),2022-12-15,KG,2303.2259999999997
+Meat (beef),2022-12-15,KG,2303.226
 Meat (beef),2023-01-15,KG,2286.9173684210527
 Meat (beef),2023-02-15,KG,2484.597272727273
 Meat (beef),2023-03-15,KG,2457.5468
-Meat (beef),2023-04-15,KG,2594.6124999999997
+Meat (beef),2023-04-15,KG,2594.6125
 Meat (beef),2023-05-15,KG,3030.9029166666664
 Meat (beef),2023-06-15,KG,3198.814782608696
 Meat (beef),2023-07-15,KG,3261.718571428571
 Meat (beef),2023-08-15,KG,3501.8796296296296
 Meat (beef),2023-09-15,KG,3686.7588
-Meat (beef),2023-10-15,KG,3974.1670833333333
+Meat (beef),2023-10-15,KG,3974.167083333333
 Meat (beef),2023-11-15,KG,4118.647391304347
 Meat (beef),2023-12-15,KG,4163.663500000001
 Meat (beef),2024-01-15,KG,4106.727222222222
 Meat (beef),2024-02-15,KG,4275.0075
-Meat (goat),2020-03-15,KG,2400.0
-Meat (goat),2020-04-15,KG,2400.0
-Meat (goat),2020-05-15,KG,2400.0
-Meat (goat),2020-06-15,KG,2706.67
-Meat (goat),2020-07-15,KG,2800.0
-Meat (goat),2020-08-15,KG,1581.334
-Meat (goat),2020-09-15,KG,1791.3614285714284
-Meat (goat),2020-10-15,KG,2076.4157142857143
-Meat (goat),2020-11-15,KG,2008.5059999999999
-Meat (goat),2020-12-15,KG,2375.0
-Meat (goat),2021-01-15,KG,2304.7614285714285
-Meat (goat),2021-02-15,KG,2245.0
-Meat (goat),2021-03-15,KG,2254.48
-Meat (goat),2021-04-15,KG,2377.7771428571427
-Meat (goat),2021-05-15,KG,2174.0954545454547
-Meat (goat),2021-06-15,KG,2223.068888888889
-Meat (goat),2021-07-15,KG,2491.1111111111113
-Meat (goat),2021-08-15,KG,2503.309090909091
-Meat (goat),2021-09-15,KG,2524.7554545454545
-Meat (goat),2021-10-15,KG,2591.667
-Meat (goat),2021-11-15,KG,2560.0790909090906
-Meat (goat),2021-12-15,KG,2550.4966666666664
-Meat (goat),2022-01-15,KG,2605.258181818182
-Meat (goat),2022-02-15,KG,2604.160909090909
-Meat (goat),2022-03-15,KG,2727.2
-Meat (goat),2022-04-15,KG,2725.333
-Meat (goat),2022-05-15,KG,2886.199090909091
-Meat (goat),2022-06-15,KG,2808.3333333333335
-Meat (goat),2022-07-15,KG,2760.63
-Meat (goat),2022-08-15,KG,3016.728181818182
-Meat (goat),2022-09-15,KG,3254.4845454545457
-Meat (goat),2022-10-15,KG,3357.5754545454547
-Meat (goat),2022-11-15,KG,3400.0
-Meat (goat),2022-12-15,KG,3771.667777777778
-Meat (goat),2023-01-15,KG,3709.334
-Meat (goat),2023-02-15,KG,4736.84
-Milk (fresh),2020-05-15,L,420.3125
-Milk (fresh),2020-06-15,L,388.2823076923077
-Milk (fresh),2020-07-15,L,397.4146153846154
-Milk (fresh),2020-08-15,L,419.22076923076924
-Milk (fresh),2020-09-15,L,409.09090909090907
-Milk (fresh),2020-10-15,L,432.14285714285717
-Milk (fresh),2020-11-15,L,473.235
-Milk (fresh),2020-12-15,L,531.8181818181819
-Milk (fresh),2021-01-15,L,605.0
-Milk (fresh),2021-02-15,L,688.8883333333333
-Milk (fresh),2021-03-15,L,743.5438461538462
-Milk (fresh),2021-04-15,L,693.5183333333333
-Milk (fresh),2021-05-15,L,657.5792857142858
-Milk (fresh),2021-06-15,L,590.1978571428572
-Milk (fresh),2021-07-15,L,625.7935714285715
-Milk (fresh),2021-08-15,L,687.9866666666667
-Milk (fresh),2021-09-15,L,730.9894444444444
-Milk (fresh),2021-10-15,L,764.8529411764706
-Milk (fresh),2021-11-15,L,851.9278947368421
-Milk (fresh),2021-12-15,L,805.9966666666667
-Milk (fresh),2022-01-15,L,712.4944444444444
-Milk (fresh),2022-02-15,L,698.6423529411765
-Milk (fresh),2022-03-15,L,688.8888888888889
-Milk (fresh),2022-04-15,L,701.21375
-Milk (fresh),2022-05-15,L,743.4458823529412
-Milk (fresh),2022-06-15,L,725.225
-Milk (fresh),2022-07-15,L,746.4285714285714
-Milk (fresh),2022-08-15,L,790.641052631579
-Milk (fresh),2022-09-15,L,791.018
-Milk (fresh),2022-10-15,L,930.6665
-Milk (fresh),2022-11-15,L,895.8728571428572
-Milk (fresh),2022-12-15,L,936.201111111111
-Milk (fresh),2023-01-15,L,1002.2216666666666
-Milk (fresh),2023-02-15,L,1079.165
-Millet (white),2006-01-15,3.5 KG,3.23
-Millet (white),2006-02-15,3.5 KG,4.38
-Millet (white),2006-03-15,3.5 KG,3.67
-Millet (white),2006-04-15,3.5 KG,3.48
-Millet (white),2006-05-15,3.5 KG,3.23
-Millet (white),2006-06-15,3.5 KG,3.45
-Millet (white),2006-07-15,3.5 KG,3.65
-Millet (white),2006-08-15,3.5 KG,3.77
-Millet (white),2006-09-15,3.5 KG,3.23
-Millet (white),2006-10-15,3.5 KG,3.5
-Millet (white),2006-11-15,3.5 KG,3.42
-Millet (white),2006-12-15,3.5 KG,4.35
-Millet (white),2007-01-15,3.5 KG,3.99
-Millet (white),2007-02-15,3.5 KG,3.69
-Millet (white),2007-03-15,3.5 KG,3.58
-Millet (white),2007-04-15,3.5 KG,3.9
-Millet (white),2007-06-15,3.5 KG,3.1
-Millet (white),2007-07-15,3.5 KG,4.35
-Millet (white),2007-08-15,3.5 KG,4.785
-Millet (white),2007-09-15,3.5 KG,4.366666666666667
-Millet (white),2007-10-15,3.5 KG,4.343333333333333
-Millet (white),2007-11-15,3.5 KG,4.496666666666667
-Millet (white),2007-12-15,3.5 KG,4.45
-Millet (white),2008-01-15,3.5 KG,4.62
-Millet (white),2008-02-15,3.5 KG,4.983333333333333
-Millet (white),2008-03-15,3.5 KG,4.4
-Millet (white),2008-04-15,3.5 KG,5.496666666666667
-Millet (white),2008-05-15,3.5 KG,5.306666666666667
-Millet (white),2008-06-15,3.5 KG,5.526666666666666
-Millet (white),2008-07-15,3.5 KG,5.226666666666667
-Millet (white),2008-08-15,3.5 KG,7.055
-Millet (white),2008-09-15,3.5 KG,7.6000000000000005
-Millet (white),2008-10-15,3.5 KG,7.436666666666667
-Millet (white),2008-11-15,3.5 KG,5.04
-Millet (white),2008-12-15,3.5 KG,6.0
-Millet (white),2009-01-15,3.5 KG,6.7125
-Millet (white),2009-02-15,3.5 KG,7.233333333333333
-Millet (white),2009-03-15,3.5 KG,9.243333333333334
-Millet (white),2009-04-15,3.5 KG,8.43
-Millet (white),2009-05-15,3.5 KG,8.89
-Millet (white),2009-06-15,3.5 KG,7.233333333333334
-Millet (white),2009-07-15,3.5 KG,10.843333333333334
-Millet (white),2009-08-15,3.5 KG,12.543333333333335
-Millet (white),2009-09-15,3.5 KG,15.47
-Millet (white),2009-10-15,3.5 KG,15.8875
-Millet (white),2009-11-15,3.5 KG,10.6
-Millet (white),2009-12-15,3.5 KG,8.932500000000001
-Millet (white),2010-01-15,3.5 KG,7.733333333333333
-Millet (white),2010-02-15,3.5 KG,9.375
-Millet (white),2010-03-15,3.5 KG,9.2925
-Millet (white),2010-04-15,3.5 KG,9.65
-Millet (white),2010-05-15,3.5 KG,10.46
-Millet (white),2010-06-15,3.5 KG,11.75
-Millet (white),2010-07-15,3.5 KG,13.05
-Millet (white),2010-08-15,3.5 KG,13.75
-Millet (white),2010-09-15,3.5 KG,11.146666666666667
-Millet (white),2010-10-15,3.5 KG,10.916666666666666
-Millet (white),2010-11-15,3.5 KG,10.95
-Millet (white),2010-12-15,3.5 KG,9.875
-Millet (white),2011-01-15,3.5 KG,10.358
-Millet (white),2011-02-15,3.5 KG,9.85
-Millet (white),2011-03-15,3.5 KG,9.826
-Millet (white),2011-04-15,3.5 KG,10.655
-Millet (white),2011-05-15,3.5 KG,11.79
-Millet (white),2011-06-15,3.5 KG,12.335
-Millet (white),2011-07-15,3.5 KG,17.25
-Millet (white),2011-08-15,3.5 KG,18.75
-Millet (white),2011-09-15,3.5 KG,23.5
-Millet (white),2011-10-15,3.5 KG,18.25
-Millet (white),2011-11-15,3.5 KG,12.975000000000001
-Millet (white),2011-12-15,3.5 KG,26.835
-Millet (white),2012-01-15,3.5 KG,25.0
-Millet (white),2012-02-15,3.5 KG,22.375
-Millet (white),2012-03-15,3.5 KG,27.183333333333334
-Millet (white),2012-04-15,3.5 KG,29.666666666666668
-Millet (white),2012-05-15,3.5 KG,30.0
-Millet (white),2012-07-15,3.5 KG,17.25
-Millet (white),2012-08-15,3.5 KG,18.75
-Millet (white),2012-09-15,3.5 KG,23.5
-Millet (white),2012-10-15,3.5 KG,36.25
-Millet (white),2012-11-15,3.5 KG,27.5
-Millet (white),2013-04-15,3.5 KG,22.64
-Millet (white),2013-05-15,3.5 KG,21.4
-Millet (white),2013-06-15,3.5 KG,25.54
-Millet (white),2013-07-15,3.5 KG,24.7
-Millet (white),2013-08-15,3.5 KG,25.0
-Millet (white),2013-09-15,3.5 KG,20.75
-Millet (white),2013-10-15,3.5 KG,19.8
-Millet (white),2013-11-15,3.5 KG,20.5
-Millet (white),2013-12-15,3.5 KG,20.0
-Millet (white),2014-01-15,3.5 KG,26.666666666666668
-Millet (white),2014-02-15,3.5 KG,22.666666666666668
-Millet (white),2014-03-15,3.5 KG,22.0
-Millet (white),2014-04-15,3.5 KG,21.666666666666668
-Millet (white),2014-05-15,3.5 KG,22.0
-Millet (white),2014-06-15,3.5 KG,23.0
-Millet (white),2014-07-15,3.5 KG,22.0
-Millet (white),2014-08-15,3.5 KG,20.416666666666668
-Millet (white),2014-09-15,3.5 KG,19.333333333333332
-Millet (white),2014-10-15,3.5 KG,21.583333333333332
-Millet (white),2014-11-15,3.5 KG,30.665
-Millet (white),2014-12-15,3.5 KG,19.1
-Millet (white),2015-01-15,3.5 KG,28.2
-Millet (white),2015-02-15,3.5 KG,28.5
-Millet (white),2015-03-15,3.5 KG,30.25
-Millet (white),2015-04-15,3.5 KG,42.0
-Millet (white),2015-10-15,3.5 KG,48.0
-Millet (white),2015-11-15,3.5 KG,59.4
-Millet (white),2015-12-15,3.5 KG,65.4
-Millet (white),2016-01-15,3.5 KG,75.0
-Millet (white),2016-02-15,3.5 KG,85.83333333333333
-Millet (white),2016-03-15,3.5 KG,99.83333333333333
-Millet (white),2016-04-15,3.5 KG,126.1
-Millet (white),2016-05-15,3.5 KG,120.0
-Millet (white),2016-06-15,3.5 KG,130.0
-Millet (white),2016-07-15,3.5 KG,161.16666666666666
-Millet (white),2016-08-15,3.5 KG,283.3333333333333
-Millet (white),2016-10-15,3.5 KG,207.5
-Millet (white),2016-11-15,3.5 KG,228.2
-Millet (white),2016-12-15,3.5 KG,264.0
-Millet (white),2017-01-15,3.5 KG,270.0
-Millet (white),2017-02-15,3.5 KG,304.85
-Millet (white),2017-03-15,3.5 KG,315.25
-Millet (white),2017-04-15,3.5 KG,446.65
-Millet (white),2017-05-15,3.5 KG,489.0
-Millet (white),2017-06-15,3.5 KG,410.3333333333333
-Millet (white),2017-07-15,3.5 KG,424.0
-Millet (white),2017-08-15,3.5 KG,424.0
-Millet (white),2017-10-15,3.5 KG,441.0
-Millet (white),2017-11-15,3.5 KG,391.0
-Millet (white),2017-12-15,3.5 KG,413.25
-Millet (white),2018-01-15,3.5 KG,384.6
-Millet (white),2018-03-15,3.5 KG,449.8
-Millet (white),2018-04-15,3.5 KG,483.7
-Millet (white),2018-06-15,3.5 KG,554.5
-Millet (white),2018-06-15,KG,600.0
-Millet (white),2018-07-15,3.5 KG,565.1
-Millet (white),2018-08-15,3.5 KG,553.25
-Millet (white),2018-09-15,3.5 KG,612.75
-Millet (white),2018-10-15,3.5 KG,487.8333333333333
-Millet (white),2018-12-15,3.5 KG,505.3333333333333
-Millet (white),2019-01-15,3.5 KG,461.25
-Millet (white),2019-02-15,3.5 KG,433.75
-Millet (white),2019-03-15,3.5 KG,560.0
-Millet (white),2019-04-15,3.5 KG,620.0
-Millet (white),2019-04-15,50 KG,5050.0
-Millet (white),2019-05-15,3.5 KG,746.6666666666666
-Millet (white),2019-06-15,3.5 KG,620.0
-Millet (white),2019-07-15,3.5 KG,567.5
-Millet (white),2019-08-15,3.5 KG,800.0
-Millet (white),2019-09-15,3.5 KG,1042.5
-Millet (white),2019-10-15,3.5 KG,1043.0
-Millet (white),2020-01-15,3.5 KG,1091.5
-Millet (white),2020-02-15,3.5 KG,1070.0
-Millet (white),2020-03-15,3.5 KG,975.0
-Millet (white),2020-04-15,3.5 KG,1034.2625
-Millet (white),2020-05-15,3.5 KG,868.2800000000001
-Millet (white),2020-06-15,3.5 KG,801.4285714285714
-Millet (white),2020-07-15,3.5 KG,1092.6625
-Millet (white),2020-08-15,3.5 KG,914.1914285714286
-Millet (white),2020-09-15,3.5 KG,1031.8633333333335
-Millet (white),2020-10-15,3.5 KG,1372.0
-Millet (white),2020-11-15,3.5 KG,1052.52875
-Millet (white),2020-12-15,3.5 KG,1119.7533333333333
-Millet (white),2021-01-15,3.5 KG,1587.5
-Millet (white),2021-02-15,3.5 KG,1925.0
-Millet (white),2021-03-15,3.5 KG,2362.9025
-Millet (white),2021-04-15,3.5 KG,2376.3875
-Millet (white),2021-05-15,3.5 KG,1993.39
-Millet (white),2021-06-15,3.5 KG,1973.12625
-Millet (white),2021-07-15,3.5 KG,1958.5714285714287
-Millet (white),2021-08-15,3.5 KG,1549.305
-Millet (white),2021-09-15,3.5 KG,1442.857142857143
-Millet (white),2021-10-15,3.5 KG,1505.357142857143
-Millet (white),2021-11-15,3.5 KG,1329.7700000000002
-Millet (white),2021-12-15,3.5 KG,846.7860000000001
-Millet (white),2022-01-15,3.5 KG,1184.68
-Millet (white),2022-02-15,3.5 KG,1329.2857142857142
-Millet (white),2022-03-15,3.5 KG,1187.0366666666666
-Millet (white),2022-04-15,3.5 KG,1539.8619999999999
-Millet (white),2022-05-15,3.5 KG,1718.23
-Millet (white),2022-06-15,3.5 KG,1871.55
-Millet (white),2022-07-15,3.5 KG,1998.118333333333
-Millet (white),2022-08-15,3.5 KG,2284.792857142857
-Millet (white),2022-09-15,3.5 KG,2653.3333333333335
-Millet (white),2022-10-15,3.5 KG,2660.0
-Millet (white),2022-11-15,3.5 KG,2687.7833333333333
-Millet (white),2022-12-15,3.5 KG,2458.85375
-Millet (white),2023-01-15,3.5 KG,2609.8688888888887
-Millet (white),2023-02-15,3.5 KG,2604.913
-Millet (white),2023-03-15,3.5 KG,2466.6666666666665
-Millet (white),2023-04-15,3.5 KG,2969.7088888888884
-Millet (white),2023-05-15,3.5 KG,3196.9908333333333
-Millet (white),2023-06-15,3.5 KG,2941.065
-Millet (white),2023-07-15,3.5 KG,3025.4211111111113
-Millet (white),2023-08-15,3.5 KG,3712.443333333333
-Millet (white),2023-09-15,3.5 KG,3351.263
-Millet (white),2023-10-15,3.5 KG,2959.7491666666665
-Millet (white),2023-11-15,3.5 KG,3292.906
-Millet (white),2023-12-15,3.5 KG,3608.8855555555556
-Millet (white),2024-01-15,3.5 KG,3806.0722222222225
-Millet (white),2024-02-15,3.5 KG,3790.2585714285715
-Milling cost (maize),2020-03-15,LCU/3.5kg,103.33333333333333
-Milling cost (maize),2020-04-15,LCU/3.5kg,103.33333333333333
-Milling cost (maize),2020-05-15,LCU/3.5kg,80.0
-Milling cost (maize),2020-06-15,LCU/3.5kg,80.0
-Milling cost (maize),2020-07-15,LCU/3.5kg,103.33333333333333
-Milling cost (maize),2020-08-15,LCU/3.5kg,106.75
-Milling cost (maize),2020-09-15,LCU/3.5kg,98.5
-Milling cost (maize),2020-10-15,LCU/3.5kg,124.25
-Milling cost (maize),2020-11-15,LCU/3.5kg,171.10399999999998
-Milling cost (maize),2020-12-15,LCU/3.5kg,173.33333333333334
-Milling cost (maize),2021-01-15,LCU/3.5kg,187.66799999999998
-Milling cost (maize),2021-02-15,LCU/3.5kg,175.0
-Milling cost (maize),2021-03-15,LCU/3.5kg,243.592
-Milling cost (maize),2021-04-15,LCU/3.5kg,297.9166666666667
-Milling cost (maize),2021-05-15,LCU/3.5kg,265.0
-Milling cost (maize),2021-06-15,LCU/3.5kg,280.35714285714283
-Milling cost (maize),2021-07-15,LCU/3.5kg,363.3333333333333
-Milling cost (maize),2021-08-15,LCU/3.5kg,288.9188888888889
-Milling cost (maize),2021-09-15,LCU/3.5kg,270.395
-Milling cost (maize),2021-10-15,LCU/3.5kg,273.4375
-Milling cost (maize),2021-11-15,LCU/3.5kg,287.9222222222222
-Milling cost (maize),2021-12-15,LCU/3.5kg,202.295
-Milling cost (maize),2022-01-15,LCU/3.5kg,311.802
-Milling cost (maize),2022-02-15,LCU/3.5kg,327.058
-Milling cost (maize),2022-03-15,LCU/3.5kg,300.0
-Milling cost (maize),2022-04-15,LCU/3.5kg,301.111
-Milling cost (maize),2022-05-15,LCU/3.5kg,320.83454545454543
-Milling cost (maize),2022-06-15,LCU/3.5kg,352.59222222222223
-Milling cost (maize),2022-07-15,LCU/3.5kg,353.511
-Milling cost (maize),2022-08-15,LCU/3.5kg,435.10999999999996
-Milling cost (maize),2022-09-15,LCU/3.5kg,450.0988888888889
-Milling cost (maize),2022-10-15,LCU/3.5kg,456.2966666666667
-Milling cost (maize),2022-11-15,LCU/3.5kg,463.7855555555555
-Milling cost (maize),2022-12-15,LCU/3.5kg,462.5
-Milling cost (maize),2023-01-15,LCU/3.5kg,421.0783333333333
-Milling cost (maize),2023-02-15,LCU/3.5kg,520.6805882352941
-Milling cost (maize),2023-03-15,LCU/3.5kg,485.224
-Milling cost (maize),2023-04-15,LCU/3.5kg,518.7952941176471
-Milling cost (maize),2023-05-15,LCU/3.5kg,557.7085
-Milling cost (maize),2023-06-15,LCU/3.5kg,636.7105555555556
-Milling cost (maize),2023-07-15,LCU/3.5kg,690.0215789473684
-Milling cost (maize),2023-08-15,LCU/3.5kg,817.4825
-Milling cost (maize),2023-09-15,LCU/3.5kg,651.8225
-Milling cost (maize),2023-10-15,LCU/3.5kg,635.61
-Milling cost (maize),2023-11-15,LCU/3.5kg,688.600588235294
-Milling cost (maize),2023-12-15,LCU/3.5kg,718.5533333333333
-Milling cost (maize),2024-01-15,LCU/3.5kg,743.5361538461538
-Milling cost (maize),2024-02-15,LCU/3.5kg,994.4053846153846
-Milling cost (sorghum),2018-06-15,3.5 KG,75.0
-Milling cost (sorghum),2018-07-15,3.5 KG,71.5
-Milling cost (sorghum),2018-08-15,LCU/3.5kg,85.0
-Milling cost (sorghum),2018-09-15,3.5 KG,60.0
-Milling cost (sorghum),2018-09-15,LCU/3.5kg,100.0
-Milling cost (sorghum),2018-10-15,LCU/3.5kg,100.0
-Milling cost (sorghum),2018-12-15,LCU/3.5kg,100.0
-Milling cost (sorghum),2019-01-15,LCU/3.5kg,100.0
-Milling cost (sorghum),2019-02-15,LCU/3.5kg,100.0
-Milling cost (sorghum),2019-03-15,3.5 KG,106.66666666666667
-Milling cost (sorghum),2019-03-15,LCU/3.5kg,95.0
-Milling cost (sorghum),2019-04-15,3.5 KG,106.66666666666667
-Milling cost (sorghum),2019-04-15,LCU/3.5kg,87.5
-Milling cost (sorghum),2019-05-15,3.5 KG,110.0
-Milling cost (sorghum),2019-05-15,LCU/3.5kg,87.5
-Milling cost (sorghum),2019-06-15,LCU/3.5kg,99.0
-Milling cost (sorghum),2019-07-15,3.5 KG,100.0
-Milling cost (sorghum),2019-07-15,LCU/3.5kg,99.6
-Milling cost (sorghum),2019-08-15,LCU/3.5kg,104.0
-Milling cost (sorghum),2019-09-15,LCU/3.5kg,105.0
-Milling cost (sorghum),2019-10-15,LCU/3.5kg,106.25
-Milling cost (sorghum),2020-01-15,LCU/3.5kg,112.5
-Milling cost (sorghum),2020-02-15,LCU/3.5kg,117.5
-Milling cost (sorghum),2020-03-15,LCU/3.5kg,114.11111111111111
-Milling cost (sorghum),2020-04-15,LCU/3.5kg,115.85222222222222
-Milling cost (sorghum),2020-05-15,LCU/3.5kg,112.125
-Milling cost (sorghum),2020-06-15,LCU/3.5kg,116.66666666666667
-Milling cost (sorghum),2020-07-15,LCU/3.5kg,117.44444444444444
-Milling cost (sorghum),2020-08-15,LCU/3.5kg,113.7
-Milling cost (sorghum),2020-09-15,LCU/3.5kg,114.367
-Milling cost (sorghum),2020-10-15,LCU/3.5kg,223.185
-Milling cost (sorghum),2020-11-15,LCU/3.5kg,166.30083333333332
-Milling cost (sorghum),2020-12-15,LCU/3.5kg,167.6
-Milling cost (sorghum),2021-01-15,LCU/3.5kg,204.71428571428572
-Milling cost (sorghum),2021-02-15,LCU/3.5kg,200.9090909090909
-Milling cost (sorghum),2021-03-15,LCU/3.5kg,217.58588235294118
-Milling cost (sorghum),2021-04-15,LCU/3.5kg,246.956875
-Milling cost (sorghum),2021-05-15,LCU/3.5kg,220.80411764705883
-Milling cost (sorghum),2021-06-15,LCU/3.5kg,257.12882352941176
-Milling cost (sorghum),2021-07-15,LCU/3.5kg,232.63941176470587
-Milling cost (sorghum),2021-08-15,LCU/3.5kg,218.9475
-Milling cost (sorghum),2021-09-15,LCU/3.5kg,211.05263157894737
-Milling cost (sorghum),2021-10-15,LCU/3.5kg,208.46473684210525
-Milling cost (sorghum),2021-11-15,LCU/3.5kg,212.1904761904762
-Milling cost (sorghum),2021-12-15,LCU/3.5kg,198.24142857142857
-Milling cost (sorghum),2022-01-15,LCU/3.5kg,214.43714285714287
-Milling cost (sorghum),2022-02-15,LCU/3.5kg,227.38095238095238
-Milling cost (sorghum),2022-03-15,LCU/3.5kg,236.36363636363637
-Milling cost (sorghum),2022-04-15,LCU/3.5kg,226.23190476190476
-Milling cost (sorghum),2022-05-15,LCU/3.5kg,241.47818181818184
-Milling cost (sorghum),2022-06-15,LCU/3.5kg,298.5705
-Milling cost (sorghum),2022-07-15,LCU/3.5kg,314.7090476190476
-Milling cost (sorghum),2022-08-15,LCU/3.5kg,399.615652173913
-Milling cost (sorghum),2022-09-15,LCU/3.5kg,389.0347826086956
-Milling cost (sorghum),2022-10-15,LCU/3.5kg,350.45454545454544
-Milling cost (sorghum),2022-11-15,LCU/3.5kg,375.54739130434785
-Milling cost (sorghum),2022-12-15,LCU/3.5kg,379.9538095238095
-Milling cost (sorghum),2023-01-15,LCU/3.5kg,346.49857142857144
-Milling cost (sorghum),2023-02-15,LCU/3.5kg,438.32954545454544
-Milling cost (sorghum),2023-03-15,LCU/3.5kg,407.16576923076923
-Milling cost (sorghum),2023-04-15,LCU/3.5kg,470.4195833333333
-Milling cost (sorghum),2023-05-15,LCU/3.5kg,507.9713043478261
-Milling cost (sorghum),2023-06-15,LCU/3.5kg,576.3030434782609
-Milling cost (sorghum),2023-07-15,LCU/3.5kg,658.3303571428571
-Milling cost (sorghum),2023-08-15,LCU/3.5kg,806.3038461538462
-Milling cost (sorghum),2023-09-15,LCU/3.5kg,578.6788
-Milling cost (sorghum),2023-10-15,LCU/3.5kg,556.0104347826087
-Milling cost (sorghum),2023-11-15,LCU/3.5kg,567.8427272727273
-Milling cost (sorghum),2023-12-15,LCU/3.5kg,552.5536842105263
-Milling cost (sorghum),2024-01-15,LCU/3.5kg,602.0583333333333
-Milling cost (sorghum),2024-02-15,LCU/3.5kg,705.443125
-Oil (vegetable),2013-04-15,L,12.314285714285715
-Oil (vegetable),2013-05-15,L,12.557142857142859
+Oil (vegetable),2013-04-15,L,12.314285714285717
+Oil (vegetable),2013-05-15,L,12.55714285714286
 Oil (vegetable),2013-06-15,L,13.2125
 Oil (vegetable),2013-07-15,L,11.5
 Oil (vegetable),2013-08-15,L,13.2375
@@ -2334,7 +712,7 @@ Oil (vegetable),2014-07-15,L,9.333333333333334
 Oil (vegetable),2014-08-15,L,11.875
 Oil (vegetable),2014-09-15,L,12.25
 Oil (vegetable),2014-10-15,L,12.59375
-Oil (vegetable),2014-11-15,L,15.370000000000001
+Oil (vegetable),2014-11-15,L,15.37
 Oil (vegetable),2014-12-15,L,12.6625
 Oil (vegetable),2015-01-15,L,13.125
 Oil (vegetable),2015-02-15,L,15.75
@@ -2342,10 +720,10 @@ Oil (vegetable),2015-03-15,L,14.575
 Oil (vegetable),2015-04-15,L,17.0
 Oil (vegetable),2015-05-15,L,18.345454545454547
 Oil (vegetable),2015-06-15,L,20.78181818181818
-Oil (vegetable),2015-07-15,L,24.136363636363637
-Oil (vegetable),2015-08-15,L,25.022727272727273
+Oil (vegetable),2015-07-15,L,24.13636363636364
+Oil (vegetable),2015-08-15,L,25.022727272727277
 Oil (vegetable),2015-09-15,L,27.163636363636364
-Oil (vegetable),2015-10-15,L,25.005555555555556
+Oil (vegetable),2015-10-15,L,25.00555555555556
 Oil (vegetable),2015-11-15,L,29.481818181818184
 Oil (vegetable),2015-12-15,L,31.345454545454547
 Oil (vegetable),2016-01-15,L,38.020833333333336
@@ -2378,7 +756,7 @@ Oil (vegetable),2018-03-15,L,372.09090909090907
 Oil (vegetable),2018-04-15,L,445.45
 Oil (vegetable),2018-05-15,L,378.0
 Oil (vegetable),2018-06-15,L,482.1388888888889
-Oil (vegetable),2018-07-15,L,467.40000000000003
+Oil (vegetable),2018-07-15,L,467.4
 Oil (vegetable),2018-08-15,L,404.1111111111111
 Oil (vegetable),2018-09-15,L,474.73333333333335
 Oil (vegetable),2018-10-15,L,390.5
@@ -2406,11 +784,11 @@ Oil (vegetable),2020-07-15,L,686.9215789473684
 Oil (vegetable),2020-08-15,L,725.8542105263158
 Oil (vegetable),2020-09-15,L,853.6322222222223
 Oil (vegetable),2020-10-15,L,889.76
-Oil (vegetable),2020-11-15,L,922.1441176470589
+Oil (vegetable),2020-11-15,L,922.1441176470588
 Oil (vegetable),2020-12-15,L,1040.8021428571428
-Oil (vegetable),2021-01-15,L,1087.4993749999999
+Oil (vegetable),2021-01-15,L,1087.499375
 Oil (vegetable),2021-02-15,L,1087.5
-Oil (vegetable),2021-03-15,L,1253.3816666666667
+Oil (vegetable),2021-03-15,L,1253.381666666667
 Oil (vegetable),2021-04-15,L,1407.189411764706
 Oil (vegetable),2021-05-15,L,1428.6752631578947
 Oil (vegetable),2021-06-15,L,1423.341052631579
@@ -2420,20 +798,20 @@ Oil (vegetable),2021-09-15,L,1318.641818181818
 Oil (vegetable),2021-10-15,L,1292.857142857143
 Oil (vegetable),2021-11-15,L,1395.9854545454546
 Oil (vegetable),2021-12-15,L,1263.4986666666666
-Oil (vegetable),2022-01-15,L,1385.1618181818183
-Oil (vegetable),2022-02-15,L,1388.3863636363637
+Oil (vegetable),2022-01-15,L,1385.1618181818185
+Oil (vegetable),2022-02-15,L,1388.3863636363635
 Oil (vegetable),2022-03-15,L,1441.9294736842105
 Oil (vegetable),2022-04-15,L,1447.8719047619047
 Oil (vegetable),2022-05-15,L,1540.6872727272728
 Oil (vegetable),2022-06-15,L,1666.2009523809525
 Oil (vegetable),2022-07-15,L,1898.88
 Oil (vegetable),2022-08-15,L,2142.7130434782607
-Oil (vegetable),2022-09-15,L,2231.8260869565215
+Oil (vegetable),2022-09-15,L,2231.826086956521
 Oil (vegetable),2022-10-15,L,2196.817727272727
 Oil (vegetable),2022-11-15,L,2005.9582608695653
 Oil (vegetable),2022-12-15,L,1918.0157142857145
 Oil (vegetable),2023-01-15,L,2036.7461904761903
-Oil (vegetable),2023-02-15,L,2039.2972727272727
+Oil (vegetable),2023-02-15,L,2039.297272727273
 Oil (vegetable),2023-03-15,L,2268.4234615384617
 Oil (vegetable),2023-04-15,L,2422.8145833333333
 Oil (vegetable),2023-05-15,L,2429.278333333333
@@ -2445,159 +823,7 @@ Oil (vegetable),2023-10-15,L,2657.18625
 Oil (vegetable),2023-11-15,L,2694.2721739130434
 Oil (vegetable),2023-12-15,L,2612.2490000000003
 Oil (vegetable),2024-01-15,L,2677.7433333333333
-Oil (vegetable),2024-02-15,L,2975.1370588235295
-"Oil (vegetable, fortified, food aid)",2020-03-15,L,651.875
-"Oil (vegetable, fortified, food aid)",2020-04-15,L,1418.30625
-"Oil (vegetable, fortified, food aid)",2020-05-15,L,714.98875
-"Oil (vegetable, fortified, food aid)",2020-06-15,L,712.5188888888889
-"Oil (vegetable, fortified, food aid)",2020-07-15,L,757.5385714285715
-"Oil (vegetable, fortified, food aid)",2020-08-15,L,772.25
-"Oil (vegetable, fortified, food aid)",2020-09-15,L,726.8314285714285
-"Oil (vegetable, fortified, food aid)",2020-10-15,L,775.2
-"Oil (vegetable, fortified, food aid)",2020-11-15,L,1032.76
-"Oil (vegetable, fortified, food aid)",2020-12-15,L,1100.0
-"Oil (vegetable, fortified, food aid)",2021-01-15,L,1025.0
-"Oil (vegetable, fortified, food aid)",2021-02-15,L,1112.5
-"Oil (vegetable, fortified, food aid)",2021-03-15,L,1111.4575
-"Oil (vegetable, fortified, food aid)",2021-04-15,L,1075.0
-"Oil (vegetable, fortified, food aid)",2021-05-15,L,1164.3666666666666
-"Oil (vegetable, fortified, food aid)",2021-06-15,L,1075.3633333333335
-"Oil (vegetable, fortified, food aid)",2021-07-15,L,1048.0
-"Oil (vegetable, fortified, food aid)",2021-08-15,L,1041.6675
-"Oil (vegetable, fortified, food aid)",2021-09-15,L,1038.4625
-"Oil (vegetable, fortified, food aid)",2021-10-15,L,1015.625
-"Oil (vegetable, fortified, food aid)",2021-11-15,L,1035.4575
-"Oil (vegetable, fortified, food aid)",2021-12-15,L,1300.0
-"Oil (vegetable, fortified, food aid)",2022-01-15,L,1311.15
-"Oil (vegetable, fortified, food aid)",2022-02-15,L,1241.54
-"Oil (vegetable, fortified, food aid)",2022-03-15,L,1200.0
-"Oil (vegetable, fortified, food aid)",2022-04-15,L,1200.0
-"Oil (vegetable, fortified, food aid)",2022-05-15,L,1200.0
-"Oil (vegetable, fortified, food aid)",2022-06-15,L,1200.0
-"Oil (vegetable, fortified, food aid)",2022-07-15,L,1325.0
-"Oil (vegetable, fortified, food aid)",2022-08-15,L,1700.0
-"Oil (vegetable, fortified, food aid)",2022-09-15,L,1728.0
-"Oil (vegetable, fortified, food aid)",2022-10-15,L,2200.0
-"Oil (vegetable, fortified, food aid)",2022-11-15,L,2141.175
-"Oil (vegetable, fortified, food aid)",2022-12-15,L,1891.665
-"Oil (vegetable, fortified, food aid)",2023-01-15,L,2223.335
-Okra (dry),2020-03-15,KG,666.4166666666666
-Okra (dry),2020-04-15,KG,673.9208333333333
-Okra (dry),2020-05-15,KG,817.8384615384615
-Okra (dry),2020-06-15,KG,795.0778571428572
-Okra (dry),2020-07-15,KG,865.5430769230769
-Okra (dry),2020-08-15,KG,833.5752941176471
-Okra (dry),2020-09-15,KG,894.7305882352941
-Okra (dry),2020-10-15,KG,925.0333333333333
-Okra (dry),2020-11-15,KG,686.0893333333333
-Okra (dry),2020-12-15,KG,1053.75
-Okra (dry),2021-01-15,KG,990.2857142857143
-Okra (dry),2021-02-15,KG,1037.4164285714285
-Okra (dry),2021-03-15,KG,1064.232142857143
-Okra (dry),2021-04-15,KG,1118.77
-Okra (dry),2021-05-15,KG,1100.001875
-Okra (dry),2021-06-15,KG,965.4733333333334
-Okra (dry),2021-07-15,KG,1049.29875
-Okra (dry),2021-08-15,KG,997.5135294117647
-Okra (dry),2021-09-15,KG,935.3117647058823
-Okra (dry),2021-10-15,KG,775.1875
-Okra (dry),2021-11-15,KG,877.0717647058823
-Okra (dry),2021-12-15,KG,819.5225
-Okra (dry),2022-01-15,KG,1008.6866666666667
-Okra (dry),2022-02-15,KG,1003.2805882352941
-Okra (dry),2022-03-15,KG,1077.4413333333334
-Okra (dry),2022-04-15,KG,1031.1283333333333
-Okra (dry),2022-05-15,KG,1184.587894736842
-Okra (dry),2022-06-15,KG,1343.7622222222224
-Okra (dry),2022-07-15,KG,1783.080588235294
-Okra (dry),2022-08-15,KG,1699.3100000000002
-Okra (dry),2022-09-15,KG,1750.980588235294
-Okra (dry),2022-10-15,KG,1781.8429411764707
-Okra (dry),2022-11-15,KG,1717.502105263158
-Okra (dry),2022-12-15,KG,1684.0994444444445
-Okra (dry),2023-01-15,KG,1500.1911764705883
-Okra (dry),2023-02-15,KG,1999.407142857143
-Okra (dry),2023-03-15,KG,2019.7654545454548
-Okra (dry),2023-04-15,KG,2268.909090909091
-"Peas (yellow, split, food aid)",2020-03-15,KG,552.7777777777778
-"Peas (yellow, split, food aid)",2020-04-15,KG,573.2211111111111
-"Peas (yellow, split, food aid)",2020-05-15,KG,513.50625
-"Peas (yellow, split, food aid)",2020-06-15,KG,519.9533333333334
-"Peas (yellow, split, food aid)",2020-07-15,KG,545.3581818181818
-"Peas (yellow, split, food aid)",2020-08-15,KG,584.8736363636364
-"Peas (yellow, split, food aid)",2020-09-15,KG,666.1641666666667
-"Peas (yellow, split, food aid)",2020-10-15,KG,616.2422222222223
-"Peas (yellow, split, food aid)",2020-11-15,KG,628.6666666666666
-"Peas (yellow, split, food aid)",2020-12-15,KG,628.6666666666666
-"Peas (yellow, split, food aid)",2021-01-15,KG,648.266
-"Peas (yellow, split, food aid)",2021-02-15,KG,895.89
-"Peas (yellow, split, food aid)",2021-03-15,KG,665.065
-"Peas (yellow, split, food aid)",2021-04-15,KG,631.25
-"Peas (yellow, split, food aid)",2021-05-15,KG,738.1666666666666
-"Peas (yellow, split, food aid)",2021-06-15,KG,656.2
-"Peas (yellow, split, food aid)",2021-07-15,KG,608.7371428571429
-"Peas (yellow, split, food aid)",2021-08-15,KG,603.3571428571429
-"Peas (yellow, split, food aid)",2021-09-15,KG,619.4942857142858
-"Peas (yellow, split, food aid)",2021-10-15,KG,685.3
-"Peas (yellow, split, food aid)",2021-11-15,KG,653.842857142857
-"Peas (yellow, split, food aid)",2021-12-15,KG,636.96
-"Peas (yellow, split, food aid)",2022-01-15,KG,596.4657142857143
-"Peas (yellow, split, food aid)",2022-02-15,KG,540.34
-"Peas (yellow, split, food aid)",2022-03-15,KG,535.4283333333333
-"Peas (yellow, split, food aid)",2022-04-15,KG,537.2133333333333
-"Peas (yellow, split, food aid)",2022-05-15,KG,684.8571428571429
-"Peas (yellow, split, food aid)",2022-06-15,KG,735.6383333333333
-"Peas (yellow, split, food aid)",2022-07-15,KG,805.225
-"Peas (yellow, split, food aid)",2022-08-15,KG,1132.5714285714287
-"Peas (yellow, split, food aid)",2023-01-15,KG,1185.642857142857
-Potatoes (Irish),2020-03-15,KG,1210.0
-Potatoes (Irish),2020-04-15,KG,1208.2
-Potatoes (Irish),2020-05-15,KG,762.386
-Potatoes (Irish),2020-06-15,KG,783.75
-Potatoes (Irish),2020-07-15,KG,740.0
-Potatoes (Irish),2020-08-15,KG,999.7015384615383
-Potatoes (Irish),2020-09-15,KG,988.0691666666667
-Potatoes (Irish),2020-10-15,KG,1192.909090909091
-Potatoes (Irish),2020-11-15,KG,1304.0225
-Potatoes (Irish),2020-12-15,KG,1301.5384615384614
-Potatoes (Irish),2021-01-15,KG,1135.8976923076923
-Potatoes (Irish),2021-02-15,KG,1317.9484615384617
-Potatoes (Irish),2021-03-15,KG,1367.5242857142857
-Potatoes (Irish),2021-04-15,KG,1379.7621428571426
-Potatoes (Irish),2021-05-15,KG,1332.05
-Potatoes (Irish),2021-06-15,KG,1239.8285714285714
-Potatoes (Irish),2021-07-15,KG,1244.6792857142857
-Potatoes (Irish),2021-08-15,KG,1218.254705882353
-Potatoes (Irish),2021-09-15,KG,1225.5658823529411
-Potatoes (Irish),2021-10-15,KG,1135.0
-Potatoes (Irish),2021-11-15,KG,1232.0211111111112
-Potatoes (Irish),2021-12-15,KG,1071.0323076923078
-Potatoes (Irish),2022-01-15,KG,1178.982777777778
-Potatoes (Irish),2022-02-15,KG,1170.6622222222222
-Potatoes (Irish),2022-03-15,KG,1206.805625
-Potatoes (Irish),2022-04-15,KG,1199.0988235294117
-Potatoes (Irish),2022-05-15,KG,1176.505
-Potatoes (Irish),2022-06-15,KG,1283.2582352941176
-Potatoes (Irish),2022-07-15,KG,1355.455294117647
-Potatoes (Irish),2022-08-15,KG,1511.9126315789474
-Potatoes (Irish),2022-09-15,KG,1633.9884210526316
-Potatoes (Irish),2022-10-15,KG,1721.905
-Potatoes (Irish),2022-11-15,KG,1892.916875
-Potatoes (Irish),2022-12-15,KG,1783.995
-Potatoes (Irish),2023-01-15,KG,1714.46125
-Potatoes (Irish),2023-02-15,KG,1690.1144444444444
-Potatoes (Irish),2023-03-15,KG,1922.0884210526317
-Potatoes (Irish),2023-04-15,KG,2099.976666666667
-Potatoes (Irish),2023-05-15,KG,2214.5773333333336
-Potatoes (Irish),2023-06-15,KG,2451.900666666667
-Potatoes (Irish),2023-07-15,KG,3232.3073684210526
-Potatoes (Irish),2023-08-15,KG,2776.40625
-Potatoes (Irish),2023-09-15,KG,2557.8225
-Potatoes (Irish),2023-10-15,KG,2667.5670588235294
-Potatoes (Irish),2023-11-15,KG,2806.08
-Potatoes (Irish),2023-12-15,KG,3563.2628571428572
-Potatoes (Irish),2024-01-15,KG,3916.8611764705884
-Potatoes (Irish),2024-02-15,KG,4211.489166666667
+Oil (vegetable),2024-02-15,L,2975.137058823529
 Rice,2018-03-15,KG,320.77777777777777
 Rice,2018-04-15,KG,305.77777777777777
 Rice,2018-06-15,KG,348.25
@@ -2652,11 +878,11 @@ Rice,2022-08-15,KG,1031.0341666666666
 Rice,2022-09-15,KG,1085.305
 Rice,2022-10-15,KG,1055.75
 Rice,2022-11-15,KG,1154.4392857142857
-Rice,2022-12-15,KG,1174.8018181818181
+Rice,2022-12-15,KG,1174.801818181818
 Rice,2023-01-15,KG,1027.825
 Rice,2023-02-15,KG,1051.4835714285714
 Rice,2023-03-15,KG,1141.683076923077
-Rice,2023-04-15,KG,1445.5166666666667
+Rice,2023-04-15,KG,1445.5166666666669
 Rice,2023-05-15,KG,1516.75
 Rice,2023-06-15,KG,1627.2658333333331
 Rice,2023-07-15,KG,1813.756666666667
@@ -2664,819 +890,55 @@ Rice,2023-08-15,KG,2003.1164285714287
 Rice,2023-09-15,KG,1846.535
 Rice,2023-10-15,KG,1923.5364285714284
 Rice,2023-11-15,KG,1992.41
-Rice,2023-12-15,KG,1805.7818181818182
-Rice,2024-01-15,KG,1836.3739999999998
+Rice,2023-12-15,KG,1805.7818181818184
+Rice,2024-01-15,KG,1836.374
 Rice,2024-02-15,KG,1933.209
-Salt,2018-12-15,Day,100.0
-Salt,2018-12-15,KG,199.28571428571428
-Salt,2019-02-15,KG,192.33333333333334
-Salt,2019-03-15,KG,263.3
-Salt,2019-04-15,KG,172.27272727272728
-Salt,2019-05-15,KG,190.9
-Salt,2019-06-15,KG,228.5
-Salt,2019-07-15,KG,248.1818181818182
-Salt,2019-08-15,KG,249.27272727272728
-Salt,2019-09-15,KG,234.0
-Salt,2019-10-15,KG,251.36363636363637
-Salt,2019-11-15,KG,223.28571428571428
-Salt,2019-12-15,KG,223.75
-Salt,2020-01-15,KG,257.75
-Salt,2020-02-15,KG,254.83333333333334
-Salt,2020-03-15,KG,317.6842105263158
-Salt,2020-04-15,KG,325.0836842105263
-Salt,2020-05-15,KG,342.04470588235296
-Salt,2020-06-15,KG,354.80105263157895
-Salt,2020-07-15,KG,368.1015789473684
-Salt,2020-08-15,KG,360.58210526315787
-Salt,2020-09-15,KG,398.36777777777775
-Salt,2020-10-15,KG,402.4653333333333
-Salt,2020-11-15,KG,394.2594117647059
-Salt,2020-12-15,KG,404.68285714285713
-Salt,2021-01-15,KG,484.72222222222223
-Salt,2021-02-15,KG,398.8333333333333
-Salt,2021-03-15,KG,448.98555555555555
-Salt,2021-04-15,KG,450.6205882352941
-Salt,2021-05-15,KG,437.80421052631584
-Salt,2021-06-15,KG,449.31052631578945
-Salt,2021-07-15,KG,446.23263157894735
-Salt,2021-08-15,KG,423.6036363636364
-Salt,2021-09-15,KG,414.29318181818184
-Salt,2021-10-15,KG,422.5
-Salt,2021-11-15,KG,417.5395238095238
-Salt,2021-12-15,KG,450.8464285714286
-Salt,2022-01-15,KG,437.9331818181818
-Salt,2022-02-15,KG,455.81136363636364
-Salt,2022-03-15,KG,478.49105263157895
-Salt,2022-04-15,KG,446.3266666666667
-Salt,2022-05-15,KG,457.59772727272724
-Salt,2022-06-15,KG,439.73904761904765
-Salt,2022-07-15,KG,476.8052380952381
-Salt,2022-08-15,KG,556.1191304347826
-Salt,2022-09-15,KG,576.1865217391305
-Salt,2022-10-15,KG,613.8027272727272
-Salt,2022-11-15,KG,615.0465217391304
-Salt,2022-12-15,KG,600.4871428571429
-Salt,2023-01-15,KG,615.6090476190477
-Salt,2023-02-15,KG,657.9027272727272
-Salt,2023-03-15,KG,743.9553846153847
-Salt,2023-04-15,KG,759.2520833333333
-Salt,2023-05-15,KG,765.3904166666666
-Salt,2023-06-15,KG,820.4634782608696
-Salt,2023-07-15,KG,900.0692857142857
-Salt,2023-08-15,KG,812.9088888888889
-Salt,2023-09-15,KG,851.6352
-Salt,2023-10-15,KG,871.4416666666666
-Salt,2023-11-15,KG,927.7830434782608
-Salt,2023-12-15,KG,949.741
-Salt,2024-01-15,KG,985.5578947368421
-Salt,2024-02-15,KG,1111.565294117647
-Sesame,2007-01-15,3.5 KG,5.6
-Sesame,2007-02-15,3.5 KG,5.77
-Sesame,2007-06-15,3.5 KG,5.0
-Sesame,2007-07-15,3.5 KG,6.4
-Sesame,2007-08-15,3.5 KG,6.133333333333333
-Sesame,2007-09-15,3.5 KG,5.97
-Sesame,2007-10-15,3.5 KG,6.376666666666666
-Sesame,2007-11-15,3.5 KG,6.593333333333334
-Sesame,2007-12-15,3.5 KG,6.583333333333333
-Sesame,2008-01-15,3.5 KG,6.576666666666665
-Sesame,2008-02-15,3.5 KG,6.44
-Sesame,2008-03-15,3.5 KG,6.35
-Sesame,2008-04-15,3.5 KG,7.55
-Sesame,2008-05-15,3.5 KG,5.1
-Sesame,2008-06-15,3.5 KG,5.1
-Sesame,2008-07-15,3.5 KG,9.665
-Sesame,2008-08-15,3.5 KG,10.899999999999999
-Sesame,2008-09-15,3.5 KG,7.625
-Sesame,2008-10-15,3.5 KG,10.05
-Sesame,2008-11-15,3.5 KG,10.74
-Sesame,2008-12-15,3.5 KG,12.55
-Sesame,2009-01-15,3.5 KG,9.915000000000001
-Sesame,2009-02-15,3.5 KG,15.65
-Sesame,2009-03-15,3.5 KG,16.275
-Sesame,2009-04-15,3.5 KG,14.875
-Sesame,2009-05-15,3.5 KG,10.685
-Sesame,2009-06-15,3.5 KG,13.030000000000001
-Sesame,2009-07-15,3.5 KG,16.4
-Sesame,2009-08-15,3.5 KG,16.45
-Sesame,2009-09-15,3.5 KG,15.066666666666665
-Sesame,2009-10-15,3.5 KG,14.306666666666667
-Sesame,2009-11-15,3.5 KG,13.425
-Sesame,2009-12-15,3.5 KG,11.543333333333335
-Sesame,2010-01-15,3.5 KG,9.666666666666666
-Sesame,2010-02-15,3.5 KG,10.126666666666667
-Sesame,2010-03-15,3.5 KG,9.9375
-Sesame,2010-04-15,3.5 KG,10.775
-Sesame,2010-05-15,3.5 KG,11.8125
-Sesame,2010-06-15,3.5 KG,14.6875
-Sesame,2010-07-15,3.5 KG,15.2825
-Sesame,2010-08-15,3.5 KG,15.1675
-Sesame,2010-09-15,3.5 KG,13.916666666666666
-Sesame,2010-10-15,3.5 KG,12.793333333333335
-Sesame,2010-11-15,3.5 KG,11.872
-Sesame,2010-12-15,3.5 KG,14.266666666666666
-Sesame,2011-01-15,3.5 KG,17.55
-Sesame,2011-02-15,3.5 KG,16.824
-Sesame,2011-03-15,3.5 KG,14.35
-Sesame,2011-04-15,3.5 KG,16.25
-Sesame,2011-05-15,3.5 KG,13.2
-Sesame,2011-06-15,3.5 KG,18.23
-Sesame,2011-07-15,3.5 KG,19.6875
-Sesame,2011-08-15,3.5 KG,22.1875
-Sesame,2011-09-15,3.5 KG,23.9375
-Sesame,2011-10-15,3.5 KG,18.040000000000003
-Sesame,2011-11-15,3.5 KG,19.86
-Sesame,2011-12-15,3.5 KG,19.833333333333332
-Sesame,2012-01-15,3.5 KG,21.166666666666668
-Sesame,2012-02-15,3.5 KG,20.855
-Sesame,2012-03-15,3.5 KG,21.325
-Sesame,2012-04-15,3.5 KG,28.15
-Sesame,2012-05-15,3.5 KG,28.7
-Sesame,2012-07-15,3.5 KG,19.7
-Sesame,2012-08-15,3.5 KG,22.2
-Sesame,2012-09-15,3.5 KG,23.95
-Sesame,2012-10-15,3.5 KG,25.333333333333332
-Sesame,2012-11-15,3.5 KG,21.335
-Sesame,2012-12-15,3.5 KG,24.5625
-Sesame,2013-04-15,3.5 KG,22.65
-Sesame,2013-05-15,3.5 KG,24.3
-Sesame,2013-06-15,3.5 KG,24.04
-Sesame,2013-07-15,3.5 KG,25.939999999999998
-Sesame,2013-08-15,3.5 KG,24.5
-Sesame,2013-09-15,3.5 KG,20.55
-Sesame,2013-10-15,3.5 KG,21.4
-Sesame,2013-11-15,3.5 KG,20.79
-Sesame,2013-12-15,3.5 KG,19.2
-Sesame,2014-01-15,3.5 KG,21.666666666666668
-Sesame,2014-02-15,3.5 KG,22.333333333333332
-Sesame,2014-03-15,3.5 KG,22.333333333333332
-Sesame,2014-04-15,3.5 KG,22.0
-Sesame,2014-05-15,3.5 KG,21.666666666666668
-Sesame,2014-06-15,3.5 KG,21.0
-Sesame,2014-07-15,3.5 KG,22.666666666666668
-Sesame,2014-08-15,3.5 KG,25.15
-Sesame,2014-09-15,3.5 KG,23.6
-Sesame,2014-10-15,3.5 KG,22.55
-Sesame,2014-11-15,3.5 KG,24.666
-Sesame,2014-12-15,3.5 KG,18.825
-Sesame,2015-01-15,3.5 KG,27.55
-Sesame,2015-02-15,3.5 KG,19.5
-Sesame,2015-03-15,3.5 KG,20.4
-Sesame,2015-04-15,3.5 KG,36.96
-Sesame,2015-05-15,3.5 KG,37.825
-Sesame,2015-06-15,3.5 KG,40.5
-Sesame,2015-07-15,3.5 KG,37.525
-Sesame,2015-08-15,3.5 KG,47.974999999999994
-Sesame,2015-09-15,3.5 KG,41.575
-Sesame,2015-10-15,3.5 KG,43.225
-Sesame,2015-11-15,3.5 KG,46.63333333333333
-Sesame,2015-12-15,3.5 KG,56.25
-Sesame,2016-01-15,3.5 KG,78.0
-Sesame,2016-02-15,3.5 KG,79.875
-Sesame,2016-03-15,3.5 KG,98.41666666666667
-Sesame,2016-04-15,3.5 KG,123.65
-Sesame,2016-05-15,3.5 KG,114.75
-Sesame,2016-06-15,3.5 KG,135.0
-Sesame,2016-07-15,3.5 KG,174.16666666666666
-Sesame,2016-08-15,3.5 KG,322.5
-Sesame,2016-10-15,3.5 KG,168.55
-Sesame,2016-11-15,3.5 KG,163.375
-Sesame,2016-12-15,3.5 KG,228.25
-Sesame,2017-01-15,3.5 KG,308.6666666666667
-Sesame,2017-02-15,3.5 KG,366.5
-Sesame,2017-03-15,3.5 KG,401.0
-Sesame,2017-04-15,3.5 KG,427.0833333333333
-Sesame,2017-05-15,3.5 KG,525.4
-Sesame,2017-06-15,3.5 KG,500.57142857142856
-Sesame,2017-07-15,3.5 KG,570.0714285714286
-Sesame,2017-08-15,3.5 KG,611.6666666666666
-Sesame,2017-10-15,3.5 KG,481.1666666666667
-Sesame,2017-11-15,3.5 KG,345.0
-Sesame,2017-12-15,3.5 KG,391.5
-Sesame,2018-01-15,3.5 KG,496.2
-Sesame,2018-03-15,3.5 KG,498.7142857142857
-Sesame,2018-04-15,3.5 KG,777.45
-Sesame,2018-06-15,3.5 KG,762.5
-Sesame,2018-06-15,KG,781.5
-Sesame,2018-07-15,3.5 KG,862.6
-Sesame,2018-07-15,KG,800.0
-Sesame,2018-08-15,3.5 KG,727.1428571428571
-Sesame,2018-09-15,3.5 KG,760.625
-Sesame,2018-10-15,3.5 KG,611.0
-Sesame,2018-12-15,3.5 KG,474.3333333333333
-Sesame,2019-01-15,3.5 KG,657.2857142857143
-Sesame,2019-02-15,3.5 KG,628.1428571428571
-Sesame,2019-03-15,3.5 KG,749.375
-Sesame,2019-04-15,3.5 KG,839.6666666666666
-Sesame,2019-05-15,3.5 KG,987.6
-Sesame,2019-06-15,3.5 KG,927.6
-Sesame,2019-07-15,3.5 KG,1112.6
-Sesame,2019-08-15,3.5 KG,1214.8
-Sesame,2019-09-15,3.5 KG,1230.0
-Sesame,2019-10-15,3.5 KG,1172.6
-Sesame,2020-01-15,3.5 KG,818.5
-Sesame,2020-02-15,3.5 KG,810.0
-Sesame,2020-03-15,3.5 KG,1005.9
-Sesame,2020-04-15,3.5 KG,1035.6
-Sesame,2020-05-15,3.5 KG,1187.4029999999998
-Sesame,2020-06-15,3.5 KG,1186.3636363636363
-Sesame,2020-07-15,3.5 KG,1401.3054545454545
-Sesame,2020-08-15,3.5 KG,1589.6773333333333
-Sesame,2020-09-15,3.5 KG,1616.7130769230769
-Sesame,2020-10-15,3.5 KG,1357.5154545454545
-Sesame,2020-11-15,3.5 KG,1654.097857142857
-Sesame,2020-12-15,3.5 KG,1543.278
-Sesame,2021-01-15,3.5 KG,1748.333
-Sesame,2021-02-15,3.5 KG,2303.125
-Sesame,2021-03-15,3.5 KG,2134.269
-Sesame,2021-04-15,3.5 KG,2638.195
-Sesame,2021-05-15,3.5 KG,2349.8991666666666
-Sesame,2021-06-15,3.5 KG,2457.9583333333335
-Sesame,2021-07-15,3.5 KG,2470.107
-Sesame,2021-08-15,3.5 KG,2074.5730769230768
-Sesame,2021-09-15,3.5 KG,2054.453076923077
-Sesame,2021-10-15,3.5 KG,2115.9725
-Sesame,2021-11-15,3.5 KG,1921.37
-Sesame,2021-12-15,3.5 KG,1940.8439999999998
-Sesame,2022-01-15,3.5 KG,2012.1858333333332
-Sesame,2022-02-15,3.5 KG,2067.9166666666665
-Sesame,2022-03-15,3.5 KG,2450.7572727272727
-Sesame,2022-04-15,3.5 KG,2031.7350000000001
-Sesame,2022-05-15,3.5 KG,2196.3723529411764
-Sesame,2022-06-15,3.5 KG,2290.2076923076925
-Sesame,2022-07-15,3.5 KG,2547.3383333333336
-Sesame,2022-08-15,3.5 KG,2757.21125
-Sesame,2022-09-15,3.5 KG,2824.305625
-Sesame,2022-10-15,3.5 KG,3405.83375
-Sesame,2022-11-15,3.5 KG,3355.32375
-Sesame,2022-12-15,3.5 KG,3120.4080000000004
-Sesame,2023-01-15,3.5 KG,3558.915
-Sesame,2023-02-15,3.5 KG,3477.568125
-Sesame,2023-03-15,3.5 KG,3605.278
-Sesame,2023-04-15,3.5 KG,3529.7850000000003
-Sesame,2023-05-15,3.5 KG,4558.487777777777
-Sesame,2023-06-15,3.5 KG,3898.0333333333333
-Sesame,2023-07-15,3.5 KG,4360.0
-Sesame,2023-08-15,3.5 KG,4323.312142857143
-Sesame,2023-09-15,3.5 KG,4634.892000000001
-Sesame,2023-10-15,3.5 KG,4113.978
-Sesame,2023-12-15,3.5 KG,4952.777333333333
-Sesame,2024-01-15,3.5 KG,5048.646428571429
-Sesame,2024-02-15,3.5 KG,5619.272
 Sorghum (brown),2020-05-15,3.5 KG,529.375
 Sorghum (brown),2020-06-15,3.5 KG,704.395
 Sorghum (brown),2020-07-15,3.5 KG,789.84
 Sorghum (brown),2020-08-15,3.5 KG,824.0133333333334
-Sorghum (brown),2020-09-15,3.5 KG,917.4675000000001
-Sorghum (brown),2020-09-15,50 KG,11611.111111111111
+Sorghum (brown),2020-09-15,3.5 KG,917.4675
 Sorghum (brown),2020-10-15,3.5 KG,791.6666666666666
-Sorghum (brown),2020-10-15,50 KG,11250.0
-Sorghum (brown),2020-11-15,3.5 KG,913.1753846153847
-Sorghum (brown),2020-11-15,50 KG,11362.640000000001
+Sorghum (brown),2020-11-15,3.5 KG,913.1753846153848
 Sorghum (brown),2020-12-15,3.5 KG,889.8149999999999
-Sorghum (brown),2020-12-15,50 KG,9370.981428571427
-Sorghum (brown),2021-01-15,3.5 KG,963.0558333333333
-Sorghum (brown),2021-01-15,50 KG,12172.222222222223
+Sorghum (brown),2021-01-15,3.5 KG,963.0558333333332
 Sorghum (brown),2021-02-15,3.5 KG,1078.333
-Sorghum (brown),2021-02-15,50 KG,13145.833333333334
-Sorghum (brown),2021-03-15,3.5 KG,1023.5435714285715
-Sorghum (brown),2021-03-15,50 KG,12274.646666666667
+Sorghum (brown),2021-03-15,3.5 KG,1023.5435714285716
 Sorghum (brown),2021-04-15,3.5 KG,1083.5469230769231
-Sorghum (brown),2021-04-15,50 KG,14025.253636363637
 Sorghum (brown),2021-05-15,3.5 KG,1101.8473333333334
-Sorghum (brown),2021-05-15,50 KG,13490.81
 Sorghum (brown),2021-06-15,3.5 KG,1046.4666666666667
-Sorghum (brown),2021-06-15,50 KG,12560.145833333334
 Sorghum (brown),2021-07-15,3.5 KG,996.365
-Sorghum (brown),2021-07-15,50 KG,11696.0
 Sorghum (brown),2021-08-15,3.5 KG,785.146111111111
-Sorghum (brown),2021-08-15,50 KG,9727.485
 Sorghum (brown),2021-09-15,3.5 KG,751.2564705882353
-Sorghum (brown),2021-09-15,50 KG,9701.880000000001
 Sorghum (brown),2021-10-15,3.5 KG,707.551875
-Sorghum (brown),2021-10-15,50 KG,8755.208333333334
 Sorghum (brown),2021-11-15,3.5 KG,726.3464705882352
-Sorghum (brown),2021-11-15,50 KG,8698.68
 Sorghum (brown),2021-12-15,3.5 KG,753.8925
-Sorghum (brown),2021-12-15,50 KG,7196.665
 Sorghum (brown),2022-01-15,3.5 KG,888.2244444444445
-Sorghum (brown),2022-01-15,50 KG,10510.302857142857
 Sorghum (brown),2022-02-15,3.5 KG,875.6944444444445
-Sorghum (brown),2022-02-15,50 KG,10566.42857142857
-Sorghum (brown),2022-03-15,3.5 KG,904.5454545454545
-Sorghum (brown),2022-03-15,50 KG,11428.57142857143
+Sorghum (brown),2022-03-15,3.5 KG,904.5454545454544
 Sorghum (brown),2022-04-15,3.5 KG,927.7905555555556
-Sorghum (brown),2022-04-15,50 KG,11869.943076923078
 Sorghum (brown),2022-05-15,3.5 KG,1068.770588235294
-Sorghum (brown),2022-05-15,50 KG,13384.530769230769
-Sorghum (brown),2022-06-15,3.5 KG,1329.9693333333335
-Sorghum (brown),2022-06-15,50 KG,15728.74
+Sorghum (brown),2022-06-15,3.5 KG,1329.9693333333337
 Sorghum (brown),2022-07-15,3.5 KG,1648.8346666666666
-Sorghum (brown),2022-07-15,50 KG,22091.56583333333
-Sorghum (brown),2022-08-15,3.5 KG,2114.5049999999997
-Sorghum (brown),2022-08-15,50 KG,28248.083846153848
+Sorghum (brown),2022-08-15,3.5 KG,2114.505
 Sorghum (brown),2022-09-15,3.5 KG,2178.363888888889
-Sorghum (brown),2022-09-15,50 KG,26456.94461538462
 Sorghum (brown),2022-10-15,3.5 KG,2048.235294117647
-Sorghum (brown),2022-10-15,50 KG,25112.2225
 Sorghum (brown),2022-11-15,3.5 KG,1955.2211111111112
-Sorghum (brown),2022-11-15,50 KG,23251.542307692307
-Sorghum (brown),2022-12-15,3.5 KG,1967.3794117647058
-Sorghum (brown),2022-12-15,50 KG,23678.936666666665
-Sorghum (brown),2023-01-15,3.5 KG,2008.6223529411766
-Sorghum (brown),2023-01-15,50 KG,25397.594545454544
+Sorghum (brown),2022-12-15,3.5 KG,1967.3794117647055
+Sorghum (brown),2023-01-15,3.5 KG,2008.6223529411768
 Sorghum (brown),2023-02-15,3.5 KG,2091.256315789474
-Sorghum (brown),2023-02-15,50 KG,31901.315
 Sorghum (brown),2023-03-15,3.5 KG,1990.5733333333333
 Sorghum (brown),2023-04-15,3.5 KG,2238.0905263157897
 Sorghum (brown),2023-05-15,3.5 KG,2922.4034782608696
-Sorghum (brown),2023-06-15,3.5 KG,2839.5029999999997
-Sorghum (brown),2023-07-15,3.5 KG,2973.1549999999997
+Sorghum (brown),2023-06-15,3.5 KG,2839.503
+Sorghum (brown),2023-07-15,3.5 KG,2973.155
 Sorghum (brown),2023-08-15,3.5 KG,3052.475652173913
 Sorghum (brown),2023-09-15,3.5 KG,3144.902272727273
 Sorghum (brown),2023-10-15,3.5 KG,2818.441
 Sorghum (brown),2023-11-15,3.5 KG,2862.8778947368423
 Sorghum (brown),2023-12-15,3.5 KG,2801.085
 Sorghum (brown),2024-01-15,3.5 KG,2836.145
-Sorghum (brown),2024-02-15,3.5 KG,3180.5185714285717
-Sorghum (food aid),2020-03-15,3.5 KG,466.8181818181818
-Sorghum (food aid),2020-04-15,3.5 KG,493.71000000000004
-Sorghum (food aid),2020-05-15,3.5 KG,562.096
-Sorghum (food aid),2020-06-15,3.5 KG,614.445
-Sorghum (food aid),2020-07-15,3.5 KG,667.016
-Sorghum (food aid),2020-08-15,3.5 KG,768.2181818181817
-Sorghum (food aid),2020-09-15,3.5 KG,788.9654545454546
-Sorghum (food aid),2020-10-15,3.5 KG,703.7819999999999
-Sorghum (food aid),2020-11-15,3.5 KG,746.113
-Sorghum (food aid),2020-12-15,3.5 KG,795.73
-Sorghum (food aid),2021-01-15,3.5 KG,885.4175
-Sorghum (food aid),2021-02-15,3.5 KG,982.6383333333333
-Sorghum (food aid),2021-03-15,3.5 KG,904.6233333333334
-Sorghum (food aid),2021-04-15,3.5 KG,1054.86125
-Sorghum (food aid),2021-05-15,3.5 KG,872.2211111111111
-Sorghum (food aid),2021-06-15,3.5 KG,835.8033333333333
-Sorghum (food aid),2021-07-15,3.5 KG,872.4444444444445
-Sorghum (food aid),2021-08-15,3.5 KG,821.4176923076923
-Sorghum (food aid),2021-09-15,3.5 KG,730.8941666666666
-Sorghum (food aid),2021-10-15,3.5 KG,638.75
-Sorghum (food aid),2021-11-15,3.5 KG,642.8727272727273
-Sorghum (food aid),2021-12-15,3.5 KG,651.20125
-Sorghum (food aid),2022-01-15,3.5 KG,715.8681818181818
-Sorghum (food aid),2022-02-15,3.5 KG,731.9409090909091
-Sorghum (food aid),2022-03-15,3.5 KG,806.25
-Sorghum (food aid),2022-04-15,3.5 KG,837.1119999999999
-Sorghum (food aid),2022-05-15,3.5 KG,897.917
-Sorghum (food aid),2022-06-15,3.5 KG,974.519
-Sorghum (food aid),2022-07-15,3.5 KG,1541.38125
-Sorghum (food aid),2022-08-15,3.5 KG,1847.0425
-Sorghum (food aid),2022-09-15,3.5 KG,2103.5
-Sorghum (food aid),2022-10-15,3.5 KG,2897.221666666667
-Sorghum (food aid),2022-11-15,3.5 KG,1990.105
-Sorghum (food aid),2022-12-15,3.5 KG,1723.2977777777778
-Sorghum (food aid),2023-01-15,3.5 KG,2015.0
-Sorghum (local),2018-04-15,3.5 KG,254.375
-Sorghum (local),2018-06-15,3.5 KG,433.875
-Sorghum (local),2018-07-15,3.5 KG,435.4375
-Sorghum (local),2018-08-15,3.5 KG,410.75
-Sorghum (local),2018-09-15,3.5 KG,401.14285714285717
-Sorghum (local),2018-10-15,3.5 KG,377.1666666666667
-Sorghum (local),2018-12-15,3.5 KG,350.5
-Sorghum (local),2019-01-15,3.5 KG,360.1111111111111
-Sorghum (local),2019-02-15,3.5 KG,363.22222222222223
-Sorghum (local),2019-03-15,3.5 KG,1075.0
-Sorghum (local),2019-03-15,50 KG,4340.0
-Sorghum (local),2019-04-15,3.5 KG,326.0
-Sorghum (local),2019-04-15,50 KG,5123.4
-Sorghum (local),2019-05-15,3.5 KG,488.75
-Sorghum (local),2019-05-15,50 KG,4848.0
-Sorghum (local),2019-06-15,3.5 KG,508.2857142857143
-Sorghum (local),2019-06-15,50 KG,5375.0
-Sorghum (local),2019-07-15,3.5 KG,603.2857142857143
-Sorghum (local),2019-07-15,50 KG,4291.666666666667
-Sorghum (local),2019-08-15,3.5 KG,606.5555555555555
-Sorghum (local),2019-09-15,3.5 KG,533.5
-Sorghum (local),2019-09-15,50 KG,4500.0
-Sorghum (local),2019-10-15,3.5 KG,453.1
-Sorghum (local),2020-01-15,3.5 KG,509.3
-Sorghum (local),2020-02-15,3.5 KG,510.875
-Sorghum (local),2020-02-15,50 KG,4069.0
-Sorghum (local),2020-03-15,3.5 KG,436.25
-Sorghum (local),2023-08-15,50 KG,39000.0
-"Sorghum (red, local)",2020-03-15,3.5 KG,519.7142857142857
-"Sorghum (red, local)",2020-03-15,50 KG,6009.9
-"Sorghum (red, local)",2020-04-15,3.5 KG,525.5314285714286
-"Sorghum (red, local)",2020-04-15,50 KG,6296.517
-"Sorghum (red, local)",2020-05-15,3.5 KG,606.7325
-"Sorghum (red, local)",2020-05-15,50 KG,7872.822
-"Sorghum (red, local)",2020-06-15,3.5 KG,654.5833333333334
-"Sorghum (red, local)",2020-06-15,50 KG,8106.25
-"Sorghum (red, local)",2020-07-15,3.5 KG,760.1218181818182
-"Sorghum (red, local)",2020-07-15,50 KG,10099.089
-"Sorghum (red, local)",2020-08-15,3.5 KG,805.6349999999999
-"Sorghum (red, local)",2020-08-15,50 KG,10445.18
-"Sorghum (red, local)",2020-09-15,3.5 KG,937.5044444444445
-"Sorghum (red, local)",2020-09-15,50 KG,11713.96111111111
-"Sorghum (red, local)",2020-10-15,3.5 KG,746.9877777777779
-"Sorghum (red, local)",2020-10-15,50 KG,9929.63
-"Sorghum (red, local)",2020-11-15,3.5 KG,804.316
-"Sorghum (red, local)",2020-11-15,50 KG,10747.201
-"Sorghum (red, local)",2020-12-15,3.5 KG,865.5455555555556
-"Sorghum (red, local)",2020-12-15,50 KG,10785.95
-"Sorghum (red, local)",2021-01-15,3.5 KG,931.4811111111111
-"Sorghum (red, local)",2021-01-15,50 KG,11416.666666666666
-"Sorghum (red, local)",2021-02-15,3.5 KG,1001.667
-"Sorghum (red, local)",2021-02-15,50 KG,11989.352222222222
-"Sorghum (red, local)",2021-03-15,3.5 KG,1010.7491666666666
-"Sorghum (red, local)",2021-03-15,50 KG,11151.828
-"Sorghum (red, local)",2021-04-15,3.5 KG,1075.8546153846155
-"Sorghum (red, local)",2021-04-15,50 KG,13447.532222222222
-"Sorghum (red, local)",2021-05-15,3.5 KG,1090.12
-"Sorghum (red, local)",2021-05-15,50 KG,12714.217
-"Sorghum (red, local)",2021-06-15,3.5 KG,1019.1392307692307
-"Sorghum (red, local)",2021-06-15,50 KG,12083.904
-"Sorghum (red, local)",2021-07-15,3.5 KG,945.5958333333333
-"Sorghum (red, local)",2021-07-15,50 KG,11505.13111111111
-"Sorghum (red, local)",2021-08-15,3.5 KG,779.2157142857143
-"Sorghum (red, local)",2021-08-15,50 KG,9210.646923076923
-"Sorghum (red, local)",2021-09-15,3.5 KG,719.2553846153846
-"Sorghum (red, local)",2021-09-15,50 KG,8551.551666666666
-"Sorghum (red, local)",2021-10-15,3.5 KG,681.1106666666667
-"Sorghum (red, local)",2021-10-15,50 KG,8439.583571428571
-"Sorghum (red, local)",2021-11-15,3.5 KG,729.996
-"Sorghum (red, local)",2021-11-15,50 KG,8784.328461538462
-"Sorghum (red, local)",2021-12-15,3.5 KG,707.79
-"Sorghum (red, local)",2021-12-15,50 KG,7324.29
-"Sorghum (red, local)",2022-01-15,3.5 KG,807.1946666666666
-"Sorghum (red, local)",2022-01-15,50 KG,9371.776363636365
-"Sorghum (red, local)",2022-02-15,3.5 KG,842.775
-"Sorghum (red, local)",2022-02-15,50 KG,9061.17090909091
-"Sorghum (red, local)",2022-03-15,3.5 KG,921.2527272727274
-"Sorghum (red, local)",2022-03-15,50 KG,10686.4
-"Sorghum (red, local)",2022-04-15,3.5 KG,948.75
-"Sorghum (red, local)",2022-04-15,50 KG,11351.944166666668
-"Sorghum (red, local)",2022-05-15,3.5 KG,1221.8786666666667
-"Sorghum (red, local)",2022-05-15,50 KG,13426.567
-"Sorghum (red, local)",2022-06-15,3.5 KG,1319.952142857143
-"Sorghum (red, local)",2022-06-15,50 KG,15592.244
-"Sorghum (red, local)",2022-07-15,3.5 KG,1644.4391666666668
-"Sorghum (red, local)",2022-07-15,50 KG,23079.748888888887
-"Sorghum (red, local)",2022-08-15,3.5 KG,2087.836363636364
-"Sorghum (red, local)",2022-08-15,50 KG,27818.842222222225
-"Sorghum (red, local)",2022-09-15,3.5 KG,2095.6254545454544
-"Sorghum (red, local)",2022-09-15,50 KG,26174.222222222223
-"Sorghum (red, local)",2022-10-15,3.5 KG,1749.3936363636365
-"Sorghum (red, local)",2022-10-15,50 KG,23007.037777777776
-"Sorghum (red, local)",2022-11-15,3.5 KG,1671.0090909090907
-"Sorghum (red, local)",2022-11-15,50 KG,23638.944
-"Sorghum (red, local)",2022-12-15,3.5 KG,1758.1509090909092
-"Sorghum (red, local)",2022-12-15,50 KG,22257.16888888889
-"Sorghum (red, local)",2023-01-15,3.5 KG,1803.040909090909
-"Sorghum (red, local)",2023-01-15,50 KG,23736.275
-"Sorghum (red, local)",2023-02-15,3.5 KG,2003.3582352941175
-"Sorghum (red, local)",2023-02-15,50 KG,23393.75
-"Sorghum (red, local)",2023-03-15,3.5 KG,2089.9444444444443
-"Sorghum (red, local)",2023-03-15,50 KG,27750.0
-"Sorghum (red, local)",2023-04-15,3.5 KG,2284.5125
-"Sorghum (red, local)",2023-04-15,50 KG,32509.375
-"Sorghum (red, local)",2023-05-15,3.5 KG,2838.5973684210526
-"Sorghum (red, local)",2023-05-15,50 KG,34916.666000000005
-"Sorghum (red, local)",2023-06-15,3.5 KG,2770.668947368421
-"Sorghum (red, local)",2023-07-15,3.5 KG,2821.795384615384
-"Sorghum (red, local)",2023-08-15,3.5 KG,2855.695294117647
-"Sorghum (red, local)",2023-08-15,50 KG,34644.15571428571
-"Sorghum (red, local)",2023-09-15,3.5 KG,3093.1175
-"Sorghum (red, local)",2023-09-15,50 KG,33645.435
-"Sorghum (red, local)",2023-10-15,3.5 KG,2904.1066666666666
-"Sorghum (red, local)",2023-10-15,50 KG,33401.876000000004
-"Sorghum (red, local)",2023-11-15,3.5 KG,2820.2025
-"Sorghum (red, local)",2023-11-15,50 KG,32829.73857142857
-"Sorghum (red, local)",2023-12-15,3.5 KG,2861.755625
-"Sorghum (red, local)",2023-12-15,50 KG,38971.875
-"Sorghum (red, local)",2024-01-15,3.5 KG,2556.146
-"Sorghum (red, local)",2024-01-15,50 KG,31768.925
-"Sorghum (red, local)",2024-02-15,3.5 KG,2663.2566666666667
-"Sorghum (red, local)",2024-02-15,50 KG,31917.765714285717
-"Sorghum (white, imported)",2006-01-15,3.5 KG,3.85
-"Sorghum (white, imported)",2006-02-15,3.5 KG,3.65
-"Sorghum (white, imported)",2006-03-15,3.5 KG,3.725
-"Sorghum (white, imported)",2006-04-15,3.5 KG,3.625
-"Sorghum (white, imported)",2006-05-15,3.5 KG,3.54
-"Sorghum (white, imported)",2006-06-15,3.5 KG,3.75
-"Sorghum (white, imported)",2006-07-15,3.5 KG,3.51
-"Sorghum (white, imported)",2006-08-15,3.5 KG,3.56
-"Sorghum (white, imported)",2006-09-15,3.5 KG,3.62
-"Sorghum (white, imported)",2006-10-15,3.5 KG,3.46
-"Sorghum (white, imported)",2006-11-15,3.5 KG,3.475
-"Sorghum (white, imported)",2006-12-15,3.5 KG,4.09
-"Sorghum (white, imported)",2007-01-15,3.5 KG,3.5066666666666664
-"Sorghum (white, imported)",2007-02-15,3.5 KG,3.283333333333333
-"Sorghum (white, imported)",2007-03-15,3.5 KG,3.1666666666666665
-"Sorghum (white, imported)",2007-04-15,3.5 KG,3.25
-"Sorghum (white, imported)",2007-06-15,3.5 KG,3.285
-"Sorghum (white, imported)",2007-07-15,3.5 KG,3.1166666666666667
-"Sorghum (white, imported)",2007-08-15,3.5 KG,3.11
-"Sorghum (white, imported)",2007-09-15,3.5 KG,3.0324999999999998
-"Sorghum (white, imported)",2007-10-15,3.5 KG,2.955
-"Sorghum (white, imported)",2007-11-15,3.5 KG,2.8125
-"Sorghum (white, imported)",2007-12-15,3.5 KG,3.1675
-"Sorghum (white, imported)",2008-01-15,3.5 KG,3.2575000000000003
-"Sorghum (white, imported)",2008-02-15,3.5 KG,3.4325
-"Sorghum (white, imported)",2008-03-15,3.5 KG,3.7800000000000002
-"Sorghum (white, imported)",2008-04-15,3.5 KG,3.7075
-"Sorghum (white, imported)",2008-05-15,3.5 KG,3.8939999999999997
-"Sorghum (white, imported)",2008-06-15,3.5 KG,3.974
-"Sorghum (white, imported)",2008-07-15,3.5 KG,4.075
-"Sorghum (white, imported)",2008-08-15,3.5 KG,4.13
-"Sorghum (white, imported)",2008-09-15,3.5 KG,4.142
-"Sorghum (white, imported)",2008-10-15,3.5 KG,3.8939999999999997
-"Sorghum (white, imported)",2008-11-15,3.5 KG,3.9299999999999997
-"Sorghum (white, imported)",2008-12-15,3.5 KG,3.6
-"Sorghum (white, imported)",2009-01-15,3.5 KG,3.8340000000000005
-"Sorghum (white, imported)",2009-02-15,3.5 KG,3.88
-"Sorghum (white, imported)",2009-03-15,3.5 KG,4.154
-"Sorghum (white, imported)",2009-04-15,3.5 KG,4.9719999999999995
-"Sorghum (white, imported)",2009-05-15,3.5 KG,5.970000000000001
-"Sorghum (white, imported)",2009-06-15,3.5 KG,5.896
-"Sorghum (white, imported)",2009-07-15,3.5 KG,6.469999999999999
-"Sorghum (white, imported)",2009-08-15,3.5 KG,6.386
-"Sorghum (white, imported)",2009-09-15,3.5 KG,6.1240000000000006
-"Sorghum (white, imported)",2009-10-15,3.5 KG,6.461666666666667
-"Sorghum (white, imported)",2009-11-15,3.5 KG,6.498333333333334
-"Sorghum (white, imported)",2009-12-15,3.5 KG,7.039999999999999
-"Sorghum (white, imported)",2010-01-15,3.5 KG,6.575
-"Sorghum (white, imported)",2010-02-15,3.5 KG,6.605
-"Sorghum (white, imported)",2010-03-15,3.5 KG,6.741666666666667
-"Sorghum (white, imported)",2010-04-15,3.5 KG,7.621666666666667
-"Sorghum (white, imported)",2010-05-15,3.5 KG,6.8
-"Sorghum (white, imported)",2010-06-15,3.5 KG,8.305
-"Sorghum (white, imported)",2010-07-15,3.5 KG,8.4
-"Sorghum (white, imported)",2010-08-15,3.5 KG,6.6
-"Sorghum (white, imported)",2010-09-15,3.5 KG,8.375714285714285
-"Sorghum (white, imported)",2010-10-15,3.5 KG,8.021666666666667
-"Sorghum (white, imported)",2010-11-15,3.5 KG,9.16
-"Sorghum (white, imported)",2010-12-15,3.5 KG,9.608333333333333
-"Sorghum (white, imported)",2011-01-15,3.5 KG,9.702857142857143
-"Sorghum (white, imported)",2011-02-15,3.5 KG,8.618571428571428
-"Sorghum (white, imported)",2011-03-15,3.5 KG,8.607142857142858
-"Sorghum (white, imported)",2011-04-15,3.5 KG,9.695714285714287
-"Sorghum (white, imported)",2011-05-15,3.5 KG,9.21875
-"Sorghum (white, imported)",2011-06-15,3.5 KG,11.385
-"Sorghum (white, imported)",2011-07-15,3.5 KG,12.375
-"Sorghum (white, imported)",2011-08-15,3.5 KG,14.34375
-"Sorghum (white, imported)",2011-09-15,3.5 KG,16.84375
-"Sorghum (white, imported)",2011-10-15,3.5 KG,14.195714285714287
-"Sorghum (white, imported)",2011-11-15,3.5 KG,13.842857142857143
-"Sorghum (white, imported)",2011-12-15,3.5 KG,14.221666666666666
-"Sorghum (white, imported)",2012-01-15,3.5 KG,15.475
-"Sorghum (white, imported)",2012-02-15,3.5 KG,15.196666666666667
-"Sorghum (white, imported)",2012-03-15,3.5 KG,15.636666666666665
-"Sorghum (white, imported)",2012-04-15,3.5 KG,17.071428571428573
-"Sorghum (white, imported)",2012-05-15,3.5 KG,22.92142857142857
-"Sorghum (white, imported)",2012-06-15,3.5 KG,16.25
-"Sorghum (white, imported)",2012-07-15,3.5 KG,12.375
-"Sorghum (white, imported)",2012-08-15,3.5 KG,14.35
-"Sorghum (white, imported)",2012-09-15,3.5 KG,16.8375
-"Sorghum (white, imported)",2012-10-15,3.5 KG,18.45375
-"Sorghum (white, imported)",2012-11-15,3.5 KG,17.125
-"Sorghum (white, imported)",2012-12-15,3.5 KG,17.035714285714285
-"Sorghum (white, imported)",2013-01-15,3.5 KG,15.625
-"Sorghum (white, imported)",2013-02-15,3.5 KG,17.6875
-"Sorghum (white, imported)",2013-03-15,3.5 KG,15.1125
-"Sorghum (white, imported)",2013-04-15,3.5 KG,16.45714285714286
-"Sorghum (white, imported)",2013-05-15,3.5 KG,17.314285714285713
-"Sorghum (white, imported)",2013-06-15,3.5 KG,18.0875
-"Sorghum (white, imported)",2013-07-15,3.5 KG,17.425
-"Sorghum (white, imported)",2013-08-15,3.5 KG,17.46875
-"Sorghum (white, imported)",2013-09-15,3.5 KG,17.0625
-"Sorghum (white, imported)",2013-10-15,3.5 KG,15.5
-"Sorghum (white, imported)",2013-11-15,3.5 KG,15.848749999999999
-"Sorghum (white, imported)",2013-12-15,3.5 KG,15.215
-"Sorghum (white, imported)",2014-01-15,3.5 KG,17.333333333333332
-"Sorghum (white, imported)",2014-02-15,3.5 KG,15.333333333333334
-"Sorghum (white, imported)",2014-03-15,3.5 KG,14.0
-"Sorghum (white, imported)",2014-04-15,3.5 KG,12.666666666666666
-"Sorghum (white, imported)",2014-05-15,3.5 KG,12.666666666666666
-"Sorghum (white, imported)",2014-06-15,3.5 KG,12.666666666666666
-"Sorghum (white, imported)",2014-07-15,3.5 KG,13.0
-"Sorghum (white, imported)",2014-08-15,3.5 KG,15.875
-"Sorghum (white, imported)",2014-09-15,3.5 KG,15.41875
-"Sorghum (white, imported)",2014-10-15,3.5 KG,16.8275
-"Sorghum (white, imported)",2014-11-15,3.5 KG,18.341666666666665
-"Sorghum (white, imported)",2014-12-15,3.5 KG,16.9875
-"Sorghum (white, imported)",2015-01-15,3.5 KG,17.5
-"Sorghum (white, imported)",2015-02-15,3.5 KG,16.2625
-"Sorghum (white, imported)",2015-03-15,3.5 KG,17.285714285714285
-"Sorghum (white, imported)",2015-04-15,3.5 KG,22.38888888888889
-"Sorghum (white, imported)",2015-05-15,3.5 KG,28.555
-"Sorghum (white, imported)",2015-06-15,3.5 KG,28.994444444444444
-"Sorghum (white, imported)",2015-07-15,3.5 KG,30.9
-"Sorghum (white, imported)",2015-08-15,3.5 KG,31.895
-"Sorghum (white, imported)",2015-09-15,3.5 KG,28.865
-"Sorghum (white, imported)",2015-10-15,3.5 KG,31.644444444444446
-"Sorghum (white, imported)",2015-11-15,3.5 KG,32.57333333333334
-"Sorghum (white, imported)",2015-12-15,3.5 KG,36.361111111111114
-"Sorghum (white, imported)",2016-01-15,3.5 KG,42.154545454545456
-"Sorghum (white, imported)",2016-02-15,3.5 KG,41.79
-"Sorghum (white, imported)",2016-03-15,3.5 KG,66.91875
-"Sorghum (white, imported)",2016-04-15,3.5 KG,69.755
-"Sorghum (white, imported)",2016-05-15,3.5 KG,73.025
-"Sorghum (white, imported)",2016-06-15,3.5 KG,68.79299999999999
-"Sorghum (white, imported)",2016-07-15,3.5 KG,102.125
-"Sorghum (white, imported)",2016-08-15,3.5 KG,146.1625
-"Sorghum (white, imported)",2016-09-15,3.5 KG,134.19444444444446
-"Sorghum (white, imported)",2016-10-15,3.5 KG,155.21
-"Sorghum (white, imported)",2016-11-15,3.5 KG,161.40625
-"Sorghum (white, imported)",2016-12-15,3.5 KG,199.9
-"Sorghum (white, imported)",2017-01-15,3.5 KG,165.75625
-"Sorghum (white, imported)",2017-02-15,3.5 KG,186.1875
-"Sorghum (white, imported)",2017-03-15,3.5 KG,228.875
-"Sorghum (white, imported)",2017-04-15,3.5 KG,270.46666666666664
-"Sorghum (white, imported)",2017-05-15,3.5 KG,267.14285714285717
-"Sorghum (white, imported)",2017-06-15,3.5 KG,304.6363636363636
-"Sorghum (white, imported)",2017-07-15,3.5 KG,312.3
-"Sorghum (white, imported)",2017-08-15,3.5 KG,310.875
-"Sorghum (white, imported)",2017-09-15,3.5 KG,346.0
-"Sorghum (white, imported)",2017-10-15,3.5 KG,271.77777777777777
-"Sorghum (white, imported)",2017-11-15,3.5 KG,255.33333333333334
-"Sorghum (white, imported)",2017-12-15,3.5 KG,233.11111111111111
-"Sorghum (white, imported)",2018-01-15,3.5 KG,251.11111111111111
-"Sorghum (white, imported)",2018-03-15,3.5 KG,318.6363636363636
-"Sorghum (white, imported)",2018-04-15,3.5 KG,368.25
-"Sorghum (white, imported)",2018-05-15,3.5 KG,442.0
-"Sorghum (white, imported)",2018-06-15,3.5 KG,458.3333333333333
-"Sorghum (white, imported)",2018-07-15,3.5 KG,490.42857142857144
-"Sorghum (white, imported)",2018-08-15,3.5 KG,448.0
-"Sorghum (white, imported)",2018-09-15,3.5 KG,461.25
-"Sorghum (white, imported)",2018-10-15,3.5 KG,363.0833333333333
-"Sorghum (white, imported)",2018-11-15,3.5 KG,500.0
-"Sorghum (white, imported)",2018-12-15,3.5 KG,407.875
-"Sorghum (white, imported)",2019-01-15,3.5 KG,362.54545454545456
-"Sorghum (white, imported)",2019-02-15,3.5 KG,188.0
-"Sorghum (white, imported)",2019-02-15,50 KG,5180.444444444444
-"Sorghum (white, imported)",2019-03-15,50 KG,5248.0
-"Sorghum (white, imported)",2019-04-15,50 KG,5562.4
-"Sorghum (white, imported)",2019-05-15,3.5 KG,672.0
-"Sorghum (white, imported)",2019-05-15,50 KG,5961.875
-"Sorghum (white, imported)",2019-06-15,3.5 KG,775.0
-"Sorghum (white, imported)",2019-06-15,50 KG,6789.666666666667
-"Sorghum (white, imported)",2019-07-15,3.5 KG,537.5
-"Sorghum (white, imported)",2019-07-15,50 KG,7768.833333333333
-"Sorghum (white, imported)",2019-08-15,3.5 KG,468.3333333333333
-"Sorghum (white, imported)",2019-08-15,50 KG,8233.333333333334
-"Sorghum (white, imported)",2019-09-15,3.5 KG,676.375
-"Sorghum (white, imported)",2019-09-15,50 KG,7962.6
-"Sorghum (white, imported)",2019-10-15,3.5 KG,490.75
-"Sorghum (white, imported)",2019-10-15,50 KG,6510.0
-"Sorghum (white, imported)",2019-11-15,3.5 KG,466.3333333333333
-"Sorghum (white, imported)",2019-12-15,3.5 KG,557.0
-"Sorghum (white, imported)",2020-01-15,3.5 KG,459.96000000000004
-"Sorghum (white, imported)",2020-01-15,50 KG,6190.428571428572
-"Sorghum (white, imported)",2020-02-15,3.5 KG,342.5
-"Sorghum (white, imported)",2020-02-15,50 KG,6362.5
-"Sorghum (white, imported)",2020-03-15,3.5 KG,494.75
-"Sorghum (white, imported)",2020-03-15,50 KG,6367.541666666667
-"Sorghum (white, imported)",2020-04-15,3.5 KG,554.641875
-"Sorghum (white, imported)",2020-04-15,50 KG,7139.204999999999
-"Sorghum (white, imported)",2020-05-15,3.5 KG,596.9886666666666
-"Sorghum (white, imported)",2020-05-15,50 KG,7605.139999999999
-"Sorghum (white, imported)",2020-06-15,3.5 KG,673.0
-"Sorghum (white, imported)",2020-06-15,50 KG,8073.357142857143
-"Sorghum (white, imported)",2020-07-15,3.5 KG,789.8676923076923
-"Sorghum (white, imported)",2020-07-15,50 KG,10075.421538461538
-"Sorghum (white, imported)",2020-08-15,3.5 KG,772.15
-"Sorghum (white, imported)",2020-08-15,50 KG,10245.935
-"Sorghum (white, imported)",2020-09-15,3.5 KG,856.8199999999999
-"Sorghum (white, imported)",2020-09-15,50 KG,11039.307272727274
-"Sorghum (white, imported)",2020-10-15,3.5 KG,677.2446153846154
-"Sorghum (white, imported)",2020-10-15,50 KG,9700.0
-"Sorghum (white, imported)",2020-11-15,3.5 KG,787.836923076923
-"Sorghum (white, imported)",2020-11-15,50 KG,9910.112727272726
-"Sorghum (white, imported)",2020-12-15,3.5 KG,825.9990909090909
-"Sorghum (white, imported)",2020-12-15,50 KG,9654.09888888889
-"Sorghum (white, imported)",2021-01-15,3.5 KG,931.1108333333333
-"Sorghum (white, imported)",2021-01-15,50 KG,12640.0
-"Sorghum (white, imported)",2021-02-15,3.5 KG,1027.4308333333333
-"Sorghum (white, imported)",2021-02-15,50 KG,12808.75
-"Sorghum (white, imported)",2021-03-15,3.5 KG,1067.0942857142857
-"Sorghum (white, imported)",2021-03-15,50 KG,11987.343333333332
-"Sorghum (white, imported)",2021-04-15,3.5 KG,1075.4276923076923
-"Sorghum (white, imported)",2021-04-15,50 KG,14088.384545454546
-"Sorghum (white, imported)",2021-05-15,3.5 KG,1037.8166666666666
-"Sorghum (white, imported)",2021-05-15,50 KG,15098.676363636363
-"Sorghum (white, imported)",2021-06-15,3.5 KG,1018.8833333333333
-"Sorghum (white, imported)",2021-06-15,50 KG,12705.163333333332
-"Sorghum (white, imported)",2021-07-15,3.5 KG,966.8593333333333
-"Sorghum (white, imported)",2021-07-15,50 KG,11520.752307692308
-"Sorghum (white, imported)",2021-08-15,3.5 KG,787.9188235294118
-"Sorghum (white, imported)",2021-08-15,50 KG,9979.6875
-"Sorghum (white, imported)",2021-09-15,3.5 KG,726.5394117647058
-"Sorghum (white, imported)",2021-09-15,50 KG,9829.788666666665
-"Sorghum (white, imported)",2021-10-15,3.5 KG,716.145625
-"Sorghum (white, imported)",2021-10-15,50 KG,9704.166666666666
-"Sorghum (white, imported)",2021-11-15,3.5 KG,737.5794117647059
-"Sorghum (white, imported)",2021-11-15,50 KG,9360.213125
-"Sorghum (white, imported)",2021-12-15,3.5 KG,731.6733333333333
-"Sorghum (white, imported)",2021-12-15,50 KG,8227.101818181818
-"Sorghum (white, imported)",2022-01-15,3.5 KG,847.2170588235294
-"Sorghum (white, imported)",2022-01-15,50 KG,10090.0075
-"Sorghum (white, imported)",2022-02-15,3.5 KG,870.8482352941177
-"Sorghum (white, imported)",2022-02-15,50 KG,10021.7425
-"Sorghum (white, imported)",2022-03-15,3.5 KG,873.6507142857143
-"Sorghum (white, imported)",2022-03-15,50 KG,10195.692307692309
-"Sorghum (white, imported)",2022-04-15,3.5 KG,887.74125
-"Sorghum (white, imported)",2022-04-15,50 KG,11471.94
-"Sorghum (white, imported)",2022-05-15,3.5 KG,1189.443888888889
-"Sorghum (white, imported)",2022-05-15,50 KG,14027.259285714286
-"Sorghum (white, imported)",2022-06-15,3.5 KG,1337.324375
-"Sorghum (white, imported)",2022-06-15,50 KG,17188.20923076923
-"Sorghum (white, imported)",2022-07-15,3.5 KG,1667.49
-"Sorghum (white, imported)",2022-07-15,50 KG,22889.993076923074
-"Sorghum (white, imported)",2022-08-15,3.5 KG,2066.0384999999997
-"Sorghum (white, imported)",2022-08-15,50 KG,28212.89294117647
-"Sorghum (white, imported)",2022-09-15,3.5 KG,2202.531
-"Sorghum (white, imported)",2022-09-15,50 KG,29044.248235294115
-"Sorghum (white, imported)",2022-10-15,3.5 KG,2158.157894736842
-"Sorghum (white, imported)",2022-10-15,50 KG,28290.9375
-"Sorghum (white, imported)",2022-11-15,3.5 KG,2124.097894736842
-"Sorghum (white, imported)",2022-11-15,50 KG,24953.74125
-"Sorghum (white, imported)",2022-12-15,3.5 KG,2112.80125
-"Sorghum (white, imported)",2022-12-15,50 KG,24563.786428571428
-"Sorghum (white, imported)",2023-01-15,3.5 KG,2131.979375
-"Sorghum (white, imported)",2023-01-15,50 KG,25890.784615384615
-"Sorghum (white, imported)",2023-02-15,3.5 KG,2029.1952631578947
-"Sorghum (white, imported)",2023-02-15,50 KG,30609.647142857142
-"Sorghum (white, imported)",2023-03-15,3.5 KG,2180.7937500000003
-"Sorghum (white, imported)",2023-03-15,50 KG,25416.666666666668
-"Sorghum (white, imported)",2023-04-15,3.5 KG,2341.2072727272725
-"Sorghum (white, imported)",2023-04-15,50 KG,31723.655
-"Sorghum (white, imported)",2023-05-15,3.5 KG,2763.095238095238
-"Sorghum (white, imported)",2023-05-15,50 KG,37376.041666666664
-"Sorghum (white, imported)",2023-06-15,3.5 KG,2773.0961111111114
-"Sorghum (white, imported)",2023-06-15,50 KG,37718.807272727274
-"Sorghum (white, imported)",2023-07-15,3.5 KG,2992.0282608695647
-"Sorghum (white, imported)",2023-07-15,50 KG,41373.606
-"Sorghum (white, imported)",2023-08-15,3.5 KG,3169.3432000000003
-"Sorghum (white, imported)",2023-08-15,50 KG,39949.602
-"Sorghum (white, imported)",2023-09-15,3.5 KG,3240.6966666666667
-"Sorghum (white, imported)",2023-09-15,50 KG,41405.18764705882
-"Sorghum (white, imported)",2023-10-15,3.5 KG,3059.022272727273
-"Sorghum (white, imported)",2023-10-15,50 KG,36361.166666666664
-"Sorghum (white, imported)",2023-11-15,3.5 KG,3177.0455
-"Sorghum (white, imported)",2023-11-15,50 KG,39962.81615384615
-"Sorghum (white, imported)",2023-12-15,3.5 KG,2893.4694444444444
-"Sorghum (white, imported)",2023-12-15,50 KG,38938.129
-"Sorghum (white, imported)",2024-01-15,3.5 KG,3058.616666666667
-"Sorghum (white, imported)",2024-01-15,50 KG,39397.445
-"Sorghum (white, imported)",2024-02-15,3.5 KG,3255.943076923077
-"Sorghum (white, imported)",2024-02-15,50 KG,34691.485555555555
-Sorghum flour,2020-03-15,KG,317.77777777777777
-Sorghum flour,2020-04-15,KG,316.14222222222224
-Sorghum flour,2020-05-15,KG,337.05625
-Sorghum flour,2020-06-15,KG,346.0188888888889
-Sorghum flour,2020-07-15,KG,420.2825
-Sorghum flour,2020-08-15,KG,454.828
-Sorghum flour,2020-09-15,KG,544.73
-Sorghum flour,2020-10-15,KG,380.7685714285714
-Sorghum flour,2020-11-15,KG,474.9422222222222
-Sorghum flour,2020-12-15,KG,495.8333333333333
-Sorghum flour,2021-01-15,KG,516.0
-Sorghum flour,2021-02-15,KG,497.0
-Sorghum flour,2021-03-15,KG,461.29200000000003
-Sorghum flour,2021-04-15,KG,420.74
-Sorghum flour,2021-05-15,KG,542.701111111111
-Sorghum flour,2021-06-15,KG,512.985
-Sorghum flour,2021-07-15,KG,523.6
-Sorghum flour,2021-08-15,KG,636.3636363636364
-Sorghum flour,2021-09-15,KG,494.474
-Sorghum flour,2021-10-15,KG,484.09090909090907
-Sorghum flour,2021-11-15,KG,495.16700000000003
-Sorghum flour,2021-12-15,KG,472.70500000000004
-Sorghum flour,2022-01-15,KG,496.466
-Sorghum flour,2022-02-15,KG,517.6
-Sorghum flour,2022-03-15,KG,526.79
-Sorghum flour,2022-04-15,KG,631.7600000000001
-Sorghum flour,2022-05-15,KG,667.8781818181818
-Sorghum flour,2022-06-15,KG,616.4466666666666
-Sorghum flour,2022-07-15,KG,777.79
-Sorghum flour,2022-08-15,KG,799.7909999999999
-Sorghum flour,2022-09-15,KG,882.5450000000001
-Sorghum flour,2022-10-15,KG,999.63
-Sorghum flour,2022-11-15,KG,976.083
-Sorghum flour,2022-12-15,KG,962.274
-Sorghum flour,2023-01-15,KG,1081.931111111111
-Sorghum flour,2023-02-15,KG,1072.3684615384616
-Sorghum flour,2023-03-15,KG,944.1581818181818
-Sorghum flour,2023-04-15,KG,1136.7063636363637
-Sorghum flour,2023-05-15,KG,1539.111
-Sorghum flour,2023-06-15,KG,1719.812
-Sorghum flour,2023-07-15,KG,1705.404
-Sorghum flour,2023-08-15,KG,1835.9286666666667
-Sorghum flour,2023-09-15,KG,1953.6960000000001
-Sorghum flour,2023-10-15,KG,1725.922
-Sorghum flour,2023-11-15,KG,1573.8220000000001
-Sorghum flour,2023-12-15,KG,1686.5313333333334
-Sorghum flour,2024-01-15,KG,1688.1458333333333
-Sorghum flour,2024-02-15,KG,1920.5639999999999
+Sorghum (brown),2024-02-15,3.5 KG,3180.518571428572
 "Sugar (brown, imported)",2018-03-15,KG,300.0
 "Sugar (brown, imported)",2018-04-15,KG,298.4
 "Sugar (brown, imported)",2018-06-15,KG,336.8125
@@ -3496,13 +958,13 @@ Sorghum flour,2024-02-15,KG,1920.5639999999999
 "Sugar (brown, imported)",2019-09-15,KG,339.1363636363636
 "Sugar (brown, imported)",2019-10-15,KG,342.72727272727275
 "Sugar (brown, imported)",2019-11-15,KG,308.0
-"Sugar (brown, imported)",2019-12-15,KG,328.14285714285717
+"Sugar (brown, imported)",2019-12-15,KG,328.1428571428572
 "Sugar (brown, imported)",2020-01-15,KG,344.8333333333333
 "Sugar (brown, imported)",2020-02-15,KG,342.8333333333333
-"Sugar (brown, imported)",2020-03-15,KG,371.94736842105266
-"Sugar (brown, imported)",2020-04-15,KG,387.64526315789476
+"Sugar (brown, imported)",2020-03-15,KG,371.9473684210527
+"Sugar (brown, imported)",2020-04-15,KG,387.6452631578948
 "Sugar (brown, imported)",2020-05-15,KG,427.6941176470588
-"Sugar (brown, imported)",2020-06-15,KG,403.44736842105266
+"Sugar (brown, imported)",2020-06-15,KG,403.4473684210527
 "Sugar (brown, imported)",2020-07-15,KG,425.66
 "Sugar (brown, imported)",2020-08-15,KG,449.1857894736842
 "Sugar (brown, imported)",2020-09-15,KG,549.0470588235294
@@ -3528,7 +990,7 @@ Sorghum flour,2024-02-15,KG,1920.5639999999999
 "Sugar (brown, imported)",2022-05-15,KG,747.287619047619
 "Sugar (brown, imported)",2022-06-15,KG,717.1845000000001
 "Sugar (brown, imported)",2022-07-15,KG,828.0145
-"Sugar (brown, imported)",2022-08-15,KG,1079.6295454545455
+"Sugar (brown, imported)",2022-08-15,KG,1079.6295454545457
 "Sugar (brown, imported)",2022-09-15,KG,1143.445
 "Sugar (brown, imported)",2022-10-15,KG,1326.9361904761904
 "Sugar (brown, imported)",2022-11-15,KG,1252.368695652174
@@ -3538,314 +1000,12 @@ Sorghum flour,2024-02-15,KG,1920.5639999999999
 "Sugar (brown, imported)",2023-03-15,KG,1280.6916
 "Sugar (brown, imported)",2023-04-15,KG,1354.48
 "Sugar (brown, imported)",2023-05-15,KG,1619.7065217391305
-"Sugar (brown, imported)",2023-06-15,KG,1806.7208695652175
+"Sugar (brown, imported)",2023-06-15,KG,1806.7208695652173
 "Sugar (brown, imported)",2023-07-15,KG,1930.2832142857144
-"Sugar (brown, imported)",2023-08-15,KG,2017.8785185185186
+"Sugar (brown, imported)",2023-08-15,KG,2017.8785185185184
 "Sugar (brown, imported)",2023-09-15,KG,1893.3508
 "Sugar (brown, imported)",2023-10-15,KG,1792.7904166666667
 "Sugar (brown, imported)",2023-11-15,KG,1882.612608695652
-"Sugar (brown, imported)",2023-12-15,KG,1903.6444999999999
+"Sugar (brown, imported)",2023-12-15,KG,1903.6445
 "Sugar (brown, imported)",2024-01-15,KG,2045.735789473684
-"Sugar (brown, imported)",2024-02-15,KG,2051.0052941176473
-Sugar (food aid),2021-08-15,KG,500.0
-Sugar (food aid),2021-09-15,KG,500.0
-"Wage (non-qualified labour, agricultural)",2020-03-15,Day,1251.25
-"Wage (non-qualified labour, agricultural)",2020-04-15,Day,1260.1675
-"Wage (non-qualified labour, agricultural)",2020-05-15,Day,1312.9025000000001
-"Wage (non-qualified labour, agricultural)",2020-06-15,Day,1614.5825
-"Wage (non-qualified labour, agricultural)",2020-07-15,Day,1852.6877777777777
-"Wage (non-qualified labour, agricultural)",2020-08-15,Day,1669.3141666666668
-"Wage (non-qualified labour, agricultural)",2020-09-15,Day,1606.667
-"Wage (non-qualified labour, agricultural)",2020-10-15,Day,2007.5755555555556
-"Wage (non-qualified labour, agricultural)",2020-11-15,Day,1850.0
-"Wage (non-qualified labour, agricultural)",2020-12-15,Day,1418.75
-"Wage (non-qualified labour, agricultural)",2021-01-15,Day,1965.0
-"Wage (non-qualified labour, agricultural)",2021-02-15,Day,1445.0
-"Wage (non-qualified labour, agricultural)",2021-03-15,Day,2105.187272727273
-"Wage (non-qualified labour, agricultural)",2021-04-15,Day,2086.3636363636365
-"Wage (non-qualified labour, agricultural)",2021-05-15,Day,2358.334166666667
-"Wage (non-qualified labour, agricultural)",2021-06-15,Day,2235.655714285714
-"Wage (non-qualified labour, agricultural)",2021-07-15,Day,2176.4285714285716
-"Wage (non-qualified labour, agricultural)",2021-08-15,Day,2313.386842105263
-"Wage (non-qualified labour, agricultural)",2021-09-15,Day,2329.5478947368424
-"Wage (non-qualified labour, agricultural)",2021-10-15,Day,2138.1944444444443
-"Wage (non-qualified labour, agricultural)",2021-11-15,Day,2128.5084210526315
-"Wage (non-qualified labour, agricultural)",2021-12-15,Day,1856.3276923076921
-"Wage (non-qualified labour, agricultural)",2022-01-15,Day,2115.374117647059
-"Wage (non-qualified labour, agricultural)",2022-02-15,Day,2025.4411764705883
-"Wage (non-qualified labour, agricultural)",2022-03-15,Day,2123.3333333333335
-"Wage (non-qualified labour, agricultural)",2022-04-15,Day,2193.531176470588
-"Wage (non-qualified labour, agricultural)",2022-05-15,Day,2345.602222222222
-"Wage (non-qualified labour, agricultural)",2022-06-15,Day,2216.6233333333334
-"Wage (non-qualified labour, agricultural)",2022-07-15,Day,2319.047857142857
-"Wage (non-qualified labour, agricultural)",2022-08-15,Day,2637.5
-"Wage (non-qualified labour, agricultural)",2022-09-15,Day,2670.555625
-"Wage (non-qualified labour, agricultural)",2022-10-15,Day,2804.4440000000004
-"Wage (non-qualified labour, agricultural)",2022-11-15,Day,2712.036875
-"Wage (non-qualified labour, agricultural)",2022-12-15,Day,2632.9033333333336
-"Wage (non-qualified labour, agricultural)",2023-01-15,Day,2579.55875
-"Wage (non-qualified labour, agricultural)",2023-02-15,Day,2651.496842105263
-"Wage (non-qualified labour, agricultural)",2023-03-15,Day,3159.6245454545456
-"Wage (non-qualified labour, agricultural)",2023-04-15,Day,3338.9838095238097
-"Wage (non-qualified labour, agricultural)",2023-05-15,Day,3953.1949999999997
-"Wage (non-qualified labour, agricultural)",2023-06-15,Day,3984.0955000000004
-"Wage (non-qualified labour, agricultural)",2023-07-15,Day,4921.577916666666
-"Wage (non-qualified labour, agricultural)",2023-08-15,Day,4706.543636363636
-"Wage (non-qualified labour, agricultural)",2023-09-15,Day,4516.242631578947
-"Wage (non-qualified labour, agricultural)",2023-10-15,Day,4198.544761904762
-"Wage (non-qualified labour, agricultural)",2023-11-15,Day,4878.925294117646
-"Wage (non-qualified labour, agricultural)",2023-12-15,Day,4218.641333333334
-"Wage (non-qualified labour, agricultural)",2024-01-15,Day,4639.384666666667
-"Wage (non-qualified labour, agricultural)",2024-02-15,Day,4634.589285714285
-"Wage (non-qualified labour, non-agricultural)",2018-03-15,Day,373.1818181818182
-"Wage (non-qualified labour, non-agricultural)",2018-04-15,Day,414.5
-"Wage (non-qualified labour, non-agricultural)",2018-06-15,3.5 KG,575.0
-"Wage (non-qualified labour, non-agricultural)",2018-06-15,Day,483.3333333333333
-"Wage (non-qualified labour, non-agricultural)",2018-06-15,KG,1150.0
-"Wage (non-qualified labour, non-agricultural)",2018-07-15,Day,456.57142857142856
-"Wage (non-qualified labour, non-agricultural)",2018-07-15,KG,1150.0
-"Wage (non-qualified labour, non-agricultural)",2018-08-15,Day,750.0
-"Wage (non-qualified labour, non-agricultural)",2018-09-15,Day,850.0
-"Wage (non-qualified labour, non-agricultural)",2018-10-15,Day,673.0
-"Wage (non-qualified labour, non-agricultural)",2018-12-15,Day,547.2222222222222
-"Wage (non-qualified labour, non-agricultural)",2019-01-15,Day,772.2222222222222
-"Wage (non-qualified labour, non-agricultural)",2019-02-15,Day,747.2222222222222
-"Wage (non-qualified labour, non-agricultural)",2019-03-15,Day,757.125
-"Wage (non-qualified labour, non-agricultural)",2019-04-15,Day,781.4166666666666
-"Wage (non-qualified labour, non-agricultural)",2019-05-15,Day,865.4545454545455
-"Wage (non-qualified labour, non-agricultural)",2019-06-15,Day,914.8181818181819
-"Wage (non-qualified labour, non-agricultural)",2019-07-15,Day,990.0
-"Wage (non-qualified labour, non-agricultural)",2019-08-15,Day,2127.5
-"Wage (non-qualified labour, non-agricultural)",2019-09-15,Day,916.3
-"Wage (non-qualified labour, non-agricultural)",2019-10-15,Day,887.5
-"Wage (non-qualified labour, non-agricultural)",2019-11-15,Day,942.1428571428571
-"Wage (non-qualified labour, non-agricultural)",2019-12-15,Day,995.8333333333334
-"Wage (non-qualified labour, non-agricultural)",2020-01-15,Day,1003.4545454545455
-"Wage (non-qualified labour, non-agricultural)",2020-02-15,Day,1089.3636363636363
-"Wage (non-qualified labour, non-agricultural)",2020-03-15,Day,1016.8421052631579
-"Wage (non-qualified labour, non-agricultural)",2020-04-15,Day,1031.9215789473683
-"Wage (non-qualified labour, non-agricultural)",2020-05-15,Day,1112.2040000000002
-"Wage (non-qualified labour, non-agricultural)",2020-06-15,Day,1149.4117647058824
-"Wage (non-qualified labour, non-agricultural)",2020-07-15,Day,1235.2941176470588
-"Wage (non-qualified labour, non-agricultural)",2020-08-15,Day,1432.0221052631578
-"Wage (non-qualified labour, non-agricultural)",2020-09-15,Day,1446.77125
-"Wage (non-qualified labour, non-agricultural)",2020-10-15,Day,1647.5107142857144
-"Wage (non-qualified labour, non-agricultural)",2020-11-15,Day,1578.600588235294
-"Wage (non-qualified labour, non-agricultural)",2020-12-15,Day,1229.4642857142858
-"Wage (non-qualified labour, non-agricultural)",2021-01-15,Day,1800.980588235294
-"Wage (non-qualified labour, non-agricultural)",2021-02-15,Day,1560.7142857142858
-"Wage (non-qualified labour, non-agricultural)",2021-03-15,Day,1937.0735294117646
-"Wage (non-qualified labour, non-agricultural)",2021-04-15,Day,1971.180625
-"Wage (non-qualified labour, non-agricultural)",2021-05-15,Day,2103.108888888889
-"Wage (non-qualified labour, non-agricultural)",2021-06-15,Day,2035.4316666666668
-"Wage (non-qualified labour, non-agricultural)",2021-07-15,Day,1992.7777777777778
-"Wage (non-qualified labour, non-agricultural)",2021-08-15,Day,2006.643684210526
-"Wage (non-qualified labour, non-agricultural)",2021-09-15,Day,1968.421052631579
-"Wage (non-qualified labour, non-agricultural)",2021-10-15,Day,2056.712777777778
-"Wage (non-qualified labour, non-agricultural)",2021-11-15,Day,2069.2978947368424
-"Wage (non-qualified labour, non-agricultural)",2021-12-15,Day,1841.0874999999999
-"Wage (non-qualified labour, non-agricultural)",2022-01-15,Day,2065.758333333333
-"Wage (non-qualified labour, non-agricultural)",2022-02-15,Day,1905.5555555555557
-"Wage (non-qualified labour, non-agricultural)",2022-03-15,Day,1899.6729411764704
-"Wage (non-qualified labour, non-agricultural)",2022-04-15,Day,1572.072105263158
-"Wage (non-qualified labour, non-agricultural)",2022-05-15,Day,1765.3815
-"Wage (non-qualified labour, non-agricultural)",2022-06-15,Day,1774.4195238095238
-"Wage (non-qualified labour, non-agricultural)",2022-07-15,Day,2027.4671428571428
-"Wage (non-qualified labour, non-agricultural)",2022-08-15,Day,2366.258260869565
-"Wage (non-qualified labour, non-agricultural)",2022-09-15,Day,2497.7391304347825
-"Wage (non-qualified labour, non-agricultural)",2022-10-15,Day,2609.091363636364
-"Wage (non-qualified labour, non-agricultural)",2022-11-15,Day,2651.368695652174
-"Wage (non-qualified labour, non-agricultural)",2022-12-15,Day,2505.837142857143
-"Wage (non-qualified labour, non-agricultural)",2023-01-15,Day,2376.762380952381
-"Wage (non-qualified labour, non-agricultural)",2023-02-15,Day,2604.3886363636366
-"Wage (non-qualified labour, non-agricultural)",2023-03-15,Day,3083.6474999999996
-"Wage (non-qualified labour, non-agricultural)",2023-04-15,Day,3364.5334782608697
-"Wage (non-qualified labour, non-agricultural)",2023-05-15,Day,3696.4640909090913
-"Wage (non-qualified labour, non-agricultural)",2023-06-15,Day,4148.771304347826
-"Wage (non-qualified labour, non-agricultural)",2023-07-15,Day,4303.768518518518
-"Wage (non-qualified labour, non-agricultural)",2023-08-15,Day,4199.7844000000005
-"Wage (non-qualified labour, non-agricultural)",2023-09-15,Day,4230.414545454545
-"Wage (non-qualified labour, non-agricultural)",2023-10-15,Day,3951.2666666666664
-"Wage (non-qualified labour, non-agricultural)",2023-11-15,Day,4493.032857142857
-"Wage (non-qualified labour, non-agricultural)",2023-12-15,Day,4596.869000000001
-"Wage (non-qualified labour, non-agricultural)",2024-01-15,Day,3584.0989473684212
-"Wage (non-qualified labour, non-agricultural)",2024-02-15,Day,4007.159375
-Wheat flour,2009-01-15,KG,4.0
-Wheat flour,2009-02-15,KG,3.5
-Wheat flour,2009-03-15,KG,2.5
-Wheat flour,2009-04-15,KG,2.5
-Wheat flour,2009-05-15,KG,3.2840000000000003
-Wheat flour,2009-06-15,KG,2.9259999999999997
-Wheat flour,2009-07-15,KG,3.5980000000000003
-Wheat flour,2009-08-15,KG,4.0
-Wheat flour,2009-09-15,KG,3.6079999999999997
-Wheat flour,2009-10-15,KG,4.25
-Wheat flour,2009-11-15,KG,4.166666666666667
-Wheat flour,2009-12-15,KG,4.748333333333334
-Wheat flour,2010-01-15,KG,5.0
-Wheat flour,2010-02-15,KG,5.166666666666667
-Wheat flour,2010-03-15,KG,3.9659999999999997
-Wheat flour,2010-04-15,KG,5.1883333333333335
-Wheat flour,2010-05-15,KG,3.842
-Wheat flour,2010-06-15,KG,4.583333333333333
-Wheat flour,2010-07-15,KG,4.841666666666667
-Wheat flour,2010-08-15,KG,3.4
-Wheat flour,2010-09-15,KG,5.582857142857143
-Wheat flour,2010-10-15,KG,3.875
-Wheat flour,2010-11-15,KG,4.625714285714286
-Wheat flour,2010-12-15,KG,4.991666666666666
-Wheat flour,2011-01-15,KG,5.723333333333334
-Wheat flour,2011-02-15,KG,4.874285714285714
-Wheat flour,2011-03-15,KG,4.492857142857143
-Wheat flour,2011-04-15,KG,4.25
-Wheat flour,2011-05-15,KG,5.03125
-Wheat flour,2011-06-15,KG,6.52
-Wheat flour,2011-07-15,KG,6.4375
-Wheat flour,2011-08-15,KG,7.34375
-Wheat flour,2011-09-15,KG,7.561666666666667
-Wheat flour,2011-10-15,KG,8.114285714285714
-Wheat flour,2011-11-15,KG,8.82
-Wheat flour,2011-12-15,KG,8.466
-Wheat flour,2012-01-15,KG,8.333333333333334
-Wheat flour,2012-02-15,KG,7.675714285714286
-Wheat flour,2012-03-15,KG,7.655
-Wheat flour,2012-04-15,KG,8.53125
-Wheat flour,2012-05-15,KG,11.4525
-Wheat flour,2012-07-15,KG,6.4375
-Wheat flour,2012-08-15,KG,7.3375
-Wheat flour,2012-09-15,KG,7.566666666666666
-Wheat flour,2012-10-15,KG,10.60875
-Wheat flour,2012-11-15,KG,10.4125
-Wheat flour,2012-12-15,KG,11.6875
-Wheat flour,2013-01-15,KG,9.75
-Wheat flour,2013-02-15,KG,8.90625
-Wheat flour,2013-03-15,KG,9.5
-Wheat flour,2014-01-15,KG,8.0
-Wheat flour,2014-02-15,KG,6.0
-Wheat flour,2014-03-15,KG,5.666666666666667
-Wheat flour,2014-04-15,KG,5.666666666666667
-Wheat flour,2014-05-15,KG,5.333333333333333
-Wheat flour,2014-06-15,KG,5.666666666666667
-Wheat flour,2014-07-15,KG,5.666666666666667
-Wheat flour,2015-05-15,KG,15.857142857142858
-Wheat flour,2015-06-15,KG,18.52857142857143
-Wheat flour,2015-07-15,KG,19.314285714285713
-Wheat flour,2015-08-15,KG,17.95714285714286
-Wheat flour,2015-09-15,KG,17.95714285714286
-Wheat flour,2015-10-15,KG,19.8
-Wheat flour,2015-11-15,KG,24.52
-Wheat flour,2015-12-15,KG,27.866666666666664
-Wheat flour,2016-01-15,KG,28.857142857142858
-Wheat flour,2016-02-15,KG,34.464285714285715
-Wheat flour,2016-03-15,KG,42.083333333333336
-Wheat flour,2016-04-15,KG,41.785714285714285
-Wheat flour,2016-05-15,KG,41.471428571428575
-Wheat flour,2016-06-15,KG,46.745000000000005
-Wheat flour,2016-07-15,KG,61.791666666666664
-Wheat flour,2016-08-15,KG,93.05
-Wheat flour,2016-09-15,KG,94.25
-Wheat flour,2016-10-15,KG,90.74166666666667
-Wheat flour,2016-11-15,KG,108.59166666666665
-Wheat flour,2016-12-15,KG,121.04166666666667
-Wheat flour,2017-01-15,KG,122.2
-Wheat flour,2017-02-15,KG,119.64285714285714
-Wheat flour,2017-03-15,KG,121.2
-Wheat flour,2017-04-15,KG,158.85714285714286
-Wheat flour,2017-05-15,KG,169.66666666666666
-Wheat flour,2017-06-15,KG,188.33333333333334
-Wheat flour,2017-07-15,KG,187.22222222222223
-Wheat flour,2017-08-15,KG,174.85714285714286
-Wheat flour,2017-10-15,KG,214.5
-Wheat flour,2017-11-15,KG,142.2
-Wheat flour,2017-12-15,KG,199.85714285714286
-Wheat flour,2018-01-15,KG,204.5
-Wheat flour,2018-03-15,KG,257.09090909090907
-Wheat flour,2018-04-15,KG,247.6
-Wheat flour,2018-06-15,KG,304.64285714285717
-Wheat flour,2018-07-15,KG,301.0857142857143
-Wheat flour,2018-08-15,KG,268.0
-Wheat flour,2018-09-15,KG,290.85714285714283
-Wheat flour,2018-10-15,KG,280.2
-Wheat flour,2018-12-15,KG,289.42857142857144
-Wheat flour,2019-01-15,KG,275.3
-Wheat flour,2019-02-15,KG,266.0
-Wheat flour,2019-03-15,KG,280.125
-Wheat flour,2019-04-15,KG,280.6666666666667
-Wheat flour,2019-05-15,KG,279.2
-Wheat flour,2019-06-15,KG,296.6
-Wheat flour,2019-07-15,KG,331.09090909090907
-Wheat flour,2019-08-15,KG,339.1818181818182
-Wheat flour,2019-09-15,KG,326.5
-Wheat flour,2019-10-15,KG,326.5
-Wheat flour,2019-11-15,KG,314.7142857142857
-Wheat flour,2019-12-15,KG,335.4
-Wheat flour,2020-01-15,KG,362.6818181818182
-Wheat flour,2020-02-15,KG,357.5
-Wheat flour,2020-03-15,KG,397.1470588235294
-Wheat flour,2020-04-15,KG,396.198125
-Wheat flour,2020-05-15,KG,419.95
-Wheat flour,2020-06-15,KG,401.875
-Wheat flour,2020-07-15,KG,419.5853333333333
-Wheat flour,2020-08-15,KG,463.94176470588235
-Wheat flour,2020-09-15,KG,671.600588235294
-Wheat flour,2020-10-15,KG,712.1621428571428
-Wheat flour,2020-11-15,KG,637.8225
-Wheat flour,2020-12-15,KG,602.1835714285714
-Wheat flour,2021-01-15,KG,694.4705882352941
-Wheat flour,2021-02-15,KG,679.5113333333334
-Wheat flour,2021-03-15,KG,712.7794117647059
-Wheat flour,2021-04-15,KG,714.7258823529412
-Wheat flour,2021-05-15,KG,670.4963157894737
-Wheat flour,2021-06-15,KG,639.1336842105263
-Wheat flour,2021-07-15,KG,672.1531578947369
-Wheat flour,2021-08-15,KG,644.5995454545455
-Wheat flour,2021-09-15,KG,636.5218181818182
-Wheat flour,2021-10-15,KG,606.0415
-Wheat flour,2021-11-15,KG,707.3804761904762
-Wheat flour,2021-12-15,KG,641.7092857142858
-Wheat flour,2022-01-15,KG,714.2768181818182
-Wheat flour,2022-02-15,KG,662.9627272727273
-Wheat flour,2022-03-15,KG,689.4152631578947
-Wheat flour,2022-04-15,KG,704.9571428571429
-Wheat flour,2022-05-15,50 KG,25055.56
-Wheat flour,2022-05-15,KG,713.5345454545454
-Wheat flour,2022-06-15,50 KG,27000.0
-Wheat flour,2022-06-15,KG,760.8971428571429
-Wheat flour,2022-07-15,50 KG,33250.0
-Wheat flour,2022-07-15,KG,862.9466666666667
-Wheat flour,2022-08-15,50 KG,41125.0
-Wheat flour,2022-08-15,KG,1073.4808695652175
-Wheat flour,2022-09-15,KG,1165.7278260869566
-Wheat flour,2022-10-15,50 KG,38766.665
-Wheat flour,2022-10-15,KG,1145.7045454545455
-Wheat flour,2022-11-15,50 KG,36796.295
-Wheat flour,2022-11-15,KG,1149.051304347826
-Wheat flour,2022-12-15,KG,1107.5519047619048
-Wheat flour,2023-01-15,50 KG,42500.0
-Wheat flour,2023-01-15,KG,1093.1133333333335
-Wheat flour,2023-02-15,50 KG,38788.06125
-Wheat flour,2023-02-15,KG,1152.6095454545455
-Wheat flour,2023-03-15,50 KG,48020.875
-Wheat flour,2023-03-15,KG,1390.9256
-Wheat flour,2023-04-15,50 KG,46357.05705882353
-Wheat flour,2023-04-15,KG,1425.135652173913
-Wheat flour,2023-05-15,50 KG,51036.11866666667
-Wheat flour,2023-05-15,KG,1583.7226086956523
-Wheat flour,2023-06-15,50 KG,63691.45266666667
-Wheat flour,2023-06-15,KG,1775.2745454545454
-Wheat flour,2023-07-15,50 KG,69282.285
-Wheat flour,2023-07-15,KG,1910.8628571428574
-Wheat flour,2023-08-15,50 KG,63585.54176470588
-Wheat flour,2023-08-15,KG,1898.684074074074
-Wheat flour,2023-09-15,50 KG,61975.78842105263
-Wheat flour,2023-09-15,KG,1774.0772
-Wheat flour,2023-10-15,50 KG,57121.532352941176
-Wheat flour,2023-10-15,KG,1705.0133333333333
-Wheat flour,2023-11-15,50 KG,55285.28666666667
-Wheat flour,2023-11-15,KG,1718.0782608695654
-Wheat flour,2023-12-15,50 KG,53639.82571428572
-Wheat flour,2023-12-15,KG,1828.523
-Wheat flour,2024-01-15,50 KG,57459.557692307695
-Wheat flour,2024-01-15,KG,1859.9015789473683
-Wheat flour,2024-02-15,50 KG,61321.72
-Wheat flour,2024-02-15,KG,1848.57625
+"Sugar (brown, imported)",2024-02-15,KG,2051.0052941176477
