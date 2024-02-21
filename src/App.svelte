@@ -5,6 +5,7 @@
   import HRPCharts from './pages/HRPCharts.svelte';
   import OCHACharts from './pages/OCHACharts.svelte';
   import ROWCACharts from './pages/ROWCACharts.svelte';
+  import WFPCharts from './pages/WFPCharts.svelte';
 </script>
 
 
@@ -19,6 +20,8 @@
   <HDXCharts />
   <hr>
   <HDXCharts2 />
+  <hr>
+  <WFPCharts />
   <hr>
   <HDXHRPCharts />
   <hr>
