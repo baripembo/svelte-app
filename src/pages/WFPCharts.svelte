@@ -20,7 +20,7 @@
     y: d => d['Average Price']
   };
 
-  const wfpData = '/aggregated_wfp_food_prices_ssd.csv';
+  const wfpData = './aggregated_wfp_food_prices_ssd.csv';
 
   onMount(async () => {
     //small multiples data by PIN
