@@ -39,7 +39,7 @@
 </script>
 
 
-<h3>South Sudan Food Prices (2006 – 2024)</h3>
+<h3>South Sudan Food Prices</h3>
 <div class='group-chart-container'>
   {#each commodities as commodity}
   <div class='multiples-chart-container'>
