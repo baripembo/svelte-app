@@ -21,9 +21,9 @@
   <hr>
   <HDXCharts2 />
   <hr>
-  <WFPCharts />
-  <hr>
   <HDXHRPCharts />
+  <hr>
+  <WFPCharts />
   <hr>
   <HRPCharts />
   <hr>
