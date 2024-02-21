@@ -88,7 +88,4 @@
   .multiples-chart-container {
     width: 20%;
   }
-  line.baseline {
-    stroke: #CCC !important;
-  }
 </style>

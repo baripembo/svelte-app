@@ -76,7 +76,7 @@
 
 	.tick .tick-mark,
 	.baseline {
-		stroke: #888;
+		stroke: #CCC;
 		stroke-dasharray: 0;
 	}
 
