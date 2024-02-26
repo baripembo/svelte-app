@@ -129,7 +129,7 @@
   {/each}
 </select>
 
-<h3>Unique Users on HDX (2014 – 2024)</h3>
+<h3>Unique Users on HDX <span>2014 – 2024</span></h3>
 <div class='chart-container'>
   <LayerCake
     padding={{ top: 8, right: 0, bottom: 20, left: 25 }}

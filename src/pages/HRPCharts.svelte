@@ -77,7 +77,7 @@
 </script>
 
 
-<h3>HDX User Growth in HRP Countries (2016 – 2023)</h3>
+<h3>HDX User Growth in HRP Countries <span>2016 – 2023</span></h3>
 <div class='group-chart-container' style='width:{simple ? "50%" : "100%"}'>
   {#each countryData as country}
     <div class='multiples-chart-container' style='width:{width}'>
