@@ -8,6 +8,9 @@
   import AxisY from '$components/charts/AxisY.svelte';
   import Line from '$components/charts/Line.svelte';  
 
+  export let limit = 0;
+  export let width = 20;
+
   let hrpData = [];
   let countryData = [];
   let perComplete = [];
@@ -66,6 +69,8 @@
       return b[2] - a[2];
     });
 
+    //if a max is set, slice the array
+    if (limit>0) countryData = countryData.slice(0, limit);
   });
 </script>
 

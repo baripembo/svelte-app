@@ -27,6 +27,10 @@
   <hr>
   <HRPCharts />
   <hr>
+  <HRPCharts limit={4} width={25} />
+  <hr>
+  <HRPCharts limit={6} width={33} />
+  <hr>
   <OCHACharts />
   <hr>
   <ROWCACharts />
