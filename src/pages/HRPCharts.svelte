@@ -10,6 +10,8 @@
 
   export let limit = 0;
   export let width = 20;
+  export let simple = false;
+  export let stroke = '#1EBFB3';
 
   let hrpData = [];
   let countryData = [];
@@ -75,10 +77,10 @@
 </script>
 
 
-<h3>HDX User Growth in HRP Countries (2016 – 2022)</h3>
-<div class='group-chart-container'>
+<h3>HDX User Growth in HRP Countries (2016 – 2023)</h3>
+<div class='group-chart-container' style='width:{simple ? "50%" : "100%"}'>
   {#each countryData as country}
-    <div class='multiples-chart-container'>
+    <div class='multiples-chart-container' style='width:{width}'>
       <LayerCake
         padding={{ top: 30, right: 20, bottom: 0, left: 20 }}
         data={ country[1] }
@@ -89,10 +91,14 @@
       >
         <Html>
           <div class='chart-header'>
-            <img class='icon-flag' src='./images/flags/{country[1][0]["#country+code"]}.png' />
+            {#if !simple}
+              <img class='icon-flag' src='./images/flags/{country[1][0]["#country+code"]}.png' />
+            {/if}
             <div class='chart-title'>
               <h5>{country[0]}</h5>
-              <p><b>{format('.0%')(country[3])}</b> Data Complete</p>
+              {#if !simple}
+                <p><b>{format('.0%')(country[3])}</b> Data Complete</p>
+              {/if}
             </div>
           </div>
         </Html>
@@ -108,7 +114,7 @@
             formatTick={format('.2s')}
             ticks={fullExtents.y}
           />
-          <Line stroke='#1EBFB3' curve={curveBasis} />
+          <Line stroke={stroke} curve={curveBasis} />
         </Svg>
       </LayerCake>
     </div>

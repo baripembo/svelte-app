@@ -39,7 +39,7 @@
 </script>
 
 
-<h3>South Sudan Food Prices</h3>
+<h3>South Sudan Food Prices (2007 – 2024)</h3>
 <div class='group-chart-container'>
   {#each commodities as commodity}
   <div class='multiples-chart-container'>
@@ -71,7 +71,7 @@
             formatTick={format('.2s')}
             ticks={fullExtents.y}
           /> -->
-          <Line stroke='#1EBFB3' curve={curveBasis} />
+          <Line stroke='#007CE0' curve={curveBasis} />
         </Svg>
       </LayerCake>
     </div>

@@ -129,7 +129,7 @@
   {/each}
 </select>
 
-<h3>Unique Users on HDX</h3>
+<h3>Unique Users on HDX (2014 – 2024)</h3>
 <div class='chart-container'>
   <LayerCake
     padding={{ top: 8, right: 0, bottom: 20, left: 25 }}
@@ -150,7 +150,7 @@
       <AxisY
         formatTick={format('.2s')}
       />
-      <Line stroke='#1EBFB3' curve={curveBasis} />
+      <Line stroke='#007CE0' curve={curveBasis} />
       {#if (covidDate.getTime() > new Date(fromDateValue).getTime() && covidDate.getTime() < new Date(toDateValue).getTime()) }
         <AnnotationLine text={'COVID-19 Pandemic'} myX={covidDate} height={300} stroke='#F2645A' labelPosition='left' allowWrapping={true} />
       {/if}
@@ -158,7 +158,7 @@
         <AnnotationLine text={'Ukraine War'} myX={ukraineDate} height={300} stroke='#F2645A' labelPosition='left' allowWrapping={true} />
       {/if}
       {#if (gazaDate.getTime() > new Date(fromDateValue).getTime() && gazaDate.getTime() < new Date(toDateValue).getTime()) }
-        <AnnotationLine text={'Hostilities in the Gaza Strip and Israel'} myX={gazaDate} height={300} stroke='#F2645A' labelPosition='left' allowWrapping={true} />
+        <AnnotationLine text={'Gaza Hostilities'} myX={gazaDate} height={300} stroke='#F2645A' labelPosition='left' allowWrapping={true} />
       {/if}
     </Svg>
   </LayerCake>
@@ -170,4 +170,7 @@
 </div>
 
 <style>
+  .chart-container {
+    width: 70%;
+  }
 </style>

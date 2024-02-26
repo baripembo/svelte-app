@@ -27,9 +27,9 @@
   <hr>
   <HRPCharts />
   <hr>
-  <HRPCharts limit={4} width={25} />
+  <HRPCharts simple={true} stroke={'#007CE0'} limit={4} width={'50%'} />
   <hr>
-  <HRPCharts limit={6} width={33} />
+  <HRPCharts simple={true} stroke={'#007CE0'} limit={6} width={'33%'} />
   <hr>
   <OCHACharts />
   <hr>
