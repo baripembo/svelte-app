@@ -3,6 +3,7 @@
   import HDXCharts2 from './pages/HDXCharts2.svelte';
   import HDXHRPCharts from './pages/HDXHRPCharts.svelte';
   import HRPCharts from './pages/HRPCharts.svelte';
+  import HRPChartsNoEmbeds from './pages/HRPChartsNoEmbeds.svelte';
   import OCHACharts from './pages/OCHACharts.svelte';
   import ROWCACharts from './pages/ROWCACharts.svelte';
   import WFPCharts from './pages/WFPCharts.svelte';
@@ -26,6 +27,8 @@
   <WFPCharts />
   <hr>
   <HRPCharts />
+  <hr>
+  <HRPChartsNoEmbeds />
   <hr>
   <HRPCharts simple={true} stroke={'#007CE0'} limit={4} width={'50%'} />
   <hr>
