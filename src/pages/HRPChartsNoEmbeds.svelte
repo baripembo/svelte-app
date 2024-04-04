@@ -64,6 +64,14 @@
     countryData = [...group(hrpData, d => d['#country+name'])];
     // console.log(countryData)
     
+
+    countryData.forEach(function(country) {
+      let c = perComplete.get(country[0]);
+      let per = (c !== undefined) ? c[0]['#pct+complete'] : 0;
+      country.push(max(country[1], d => d['#users+unique']));
+      country.push(+per);
+    });
+
     // //fill in empty dates
     // countryData.forEach(function(country) {
     //   const countryMap = new Map(country[1].map(c => [c.date, c]));
