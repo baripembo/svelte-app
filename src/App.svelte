@@ -29,10 +29,10 @@
   <HRPCharts />
   <hr>
   <HRPChartsNoEmbeds />
-  <hr>
+<!--   <hr>
   <HRPCharts simple={true} stroke={'#007CE0'} limit={4} width={'50%'} />
   <hr>
-  <HRPCharts simple={true} stroke={'#007CE0'} limit={6} width={'33%'} />
+  <HRPCharts simple={true} stroke={'#007CE0'} limit={6} width={'33%'} /> -->
   <hr>
   <OCHACharts />
   <hr>
