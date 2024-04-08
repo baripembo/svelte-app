@@ -23,8 +23,8 @@
   <HDXCharts2 />
   <hr>
   <HDXHRPCharts />
-  <hr>
-  <WFPCharts />
+<!--   <hr>
+  <WFPCharts /> -->
   <hr>
   <HRPCharts />
   <hr>
