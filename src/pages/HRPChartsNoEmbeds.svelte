@@ -38,6 +38,7 @@
     hrpData = await csv(userData, function(data) {
       if (data['#country+name']==='Palestine') data['#country+name'] = 'State of Palestine';
       if (data['#country+name']==='Congo') data['#country+name'] = 'Democratic Republic of the Congo';
+      if (data['#country+name']==='Syria') data['#country+name'] = 'Syrian Arab Republic';
       data['#users+unique'] = +data['#users+unique'];
       data['#date'] = new Date(data['#date']);
 
@@ -101,7 +102,7 @@
 </script>
 
 
-<h3>HDX User Growth in HRP Countries (no embeds) <span>2016 – 2024</span></h3>
+<h3>HDX User Growth in HRP Countries <span>2016 – 2024</span></h3>
 <div class='group-chart-container' style='width:{simple ? "50%" : "100%"}'>
   {#each countryData as country}
     <div class='multiples-chart-container' style='width:{width}'>
