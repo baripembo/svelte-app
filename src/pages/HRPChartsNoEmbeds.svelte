@@ -36,16 +36,18 @@
     let lastDate = new Date();
     //small multiples data by PIN
     hrpData = await csv(userData, function(data) {
-      if (data['#country+name']==='Palestine') data['#country+name'] = 'State of Palestine';
-      if (data['#country+name']==='Congo') data['#country+name'] = 'Democratic Republic of the Congo';
-      if (data['#country+name']==='Syria') data['#country+name'] = 'Syrian Arab Republic';
-      data['#users+unique'] = +data['#users+unique'];
-      data['#date'] = new Date(data['#date']);
+      if (data['#country+name']!=='Burundi') {
+        if (data['#country+name']==='Palestine') data['#country+name'] = 'State of Palestine';
+        if (data['#country+name']==='Congo') data['#country+name'] = 'Democratic Republic of the Congo';
+        if (data['#country+name']==='Syria') data['#country+name'] = 'Syrian Arab Republic';
+        data['#users+unique'] = +data['#users+unique'];
+        data['#date'] = new Date(data['#date']);
 
-      //keep copy of unique dates
-      if (data['#date'].getTime() != lastDate.getTime()) dates.push(data['#date']); 
-      lastDate = data['#date'];
-      return data;
+        //keep copy of unique dates
+        if (data['#date'].getTime() != lastDate.getTime()) dates.push(data['#date']); 
+        lastDate = data['#date'];
+        return data;
+      }
     }).then((data) => {
       return data;
     });
