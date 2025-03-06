@@ -99,8 +99,12 @@
       .data(data)
       .join("circle")
         .attr("fill", d => d.value >= 0 ? "#B7E1CD" : "#FF9902")
-        .attr("cx", d => x(d.value))
+        .attr("cx", x(0)) // start at x(0)
         .attr("cy", (d, i) => y(i) + y.bandwidth() / 2)
+        .attr("r", 0)  // start with radius 0
+      .transition()
+        .duration(1000)
+        .attr("cx", d => x(d.value))
         .attr("r", 6);
 
     // Add the text labels
@@ -111,10 +115,15 @@
       .data(data)
       .join("text")
         .attr("text-anchor", d => d.value < 0 ? "end" : "start")
-        .attr("x", d => (d.value == 0) ? x(d.value) + 8 : x(d.value) + Math.sign(d.value) * 8)
+        .attr("x", d => x(0) + Math.sign(d.value) * 8) // start at x(0)
         .attr("y", (d, i) => y(i) + y.bandwidth() / 2)
         .attr("dy", "0.35em")
-        .text(d => format(d.value));
+        .style("opacity", 0)
+        .text(d => format(d.value))
+      .transition()
+        .duration(1000)
+        .attr("x", d => (d.value === 0) ? x(d.value) + 8 : x(d.value) + Math.sign(d.value) * 8)
+        .style("opacity", 1);
 
     // Append the generated SVG to the specified div.
     const container = document.getElementById(containerId);

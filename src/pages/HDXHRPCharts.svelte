@@ -16,7 +16,7 @@
   const userData = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSW4ZPCEPDOMjYc6usomqMI7uzW_LVb3WsBmzTB-qiAt0ZhCtzEWYaPCY8BLD4gAmB6BnmeJ33Fwo3K/pub?gid=427848475&single=true&output=csv';
   
   const tweenOptions = {
-    duration: 500,
+    duration: 0,
     easing: eases.cubicInOut
   };
   const xDomain = tweened(undefined, tweenOptions);
