@@ -17,7 +17,7 @@
   let margin = {top: 30, right: 60, bottom: 10, left: 100};
   let barHeight = 25;
   let computedHeight = Math.ceil((data.length + 0.1) * barHeight) + margin.top + margin.bottom;
-  let format = d3.format(".0%"); // Format percentage
+  let format = d3.format("+.0%"); // Format percentage
   let tickFormat = format;
 
   // Update scales to use the computedHeight
