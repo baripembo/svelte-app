@@ -3,20 +3,9 @@
   import * as d3 from 'd3';
 
   let data = [
-    {name: "Poverty Rate", value: -0.65},
     {name: "Food Prices", value: -0.28},
-    {name: "Administrative Divsion", value: -0.27},
     {name: "Food Security", value: -0.25},
-    {name: "Returnees", value: -0.24},
     {name: "Internally-Displaced Persons", value: -0.19},
-    {name: "Operational Presence", value: -0.15},
-    {name: "Humanitarian Needs", value: -0.11},
-    {name: "Baseline Population", value: -0.10},
-    {name: "Humanitarian Access", value: -0.03},
-    {name: "Conflict Events", value: 0},
-    {name: "Funding", value: 0},
-    {name: "Refugees & Persons of Concern", value: 0.04},
-    {name: "Acute Malnutrition", value: 0.12},
     {name: "Impact", value: 0.16},
     {name: "Populated Places", value: 0.26},
     {name: "Roads", value: 0.43},
@@ -62,7 +51,7 @@
   onMount(() => {
     // Create and append the chart using the computed height
     createChart({
-      containerId: "sod-chart-container",
+      containerId: "sod2-chart-container",
       width: width,
       height: computedHeight,
       data: data,
@@ -149,8 +138,8 @@
 </script>
 
 
-<h3>Percent change in Available and Up-to-date data by subcategory (2023–2024)</h3>
-<div id="sod-chart-container"></div>
+<h3>Percent change in Complete vs Available and Up-to-date by subcategory (2023–2024)</h3>
+<div id="sod2-chart-container"></div>
 
 
 <style>

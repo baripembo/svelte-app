@@ -148,7 +148,9 @@ select {
 }
 
 #sod-chart-container .tick text,
-#sod-chart-container g text
+#sod-chart-container g text,
+#sod2-chart-container .tick text,
+#sod2-chart-container g text
  {
   font-size: 12px;
 }

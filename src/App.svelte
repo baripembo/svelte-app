@@ -7,6 +7,7 @@
   import OCHACharts from './pages/OCHACharts.svelte';
   import ROWCACharts from './pages/ROWCACharts.svelte';
   import SODCharts from './pages/SODCharts.svelte';
+  import SOD2Charts from './pages/SOD2Charts.svelte';
   import WFPCharts from './pages/WFPCharts.svelte';
 </script>
 
@@ -20,6 +21,8 @@
   </div>
 
   <SODCharts />
+  <hr>
+  <SOD2Charts />
   <hr>
   <HDXCharts />
   <hr>
