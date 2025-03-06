@@ -21,11 +21,11 @@
     </a>
   </div>
 
-<!--   <SODTable />
-  <hr> -->
   <SODCharts />
   <hr>
   <SOD2Charts />
+  <hr>
+  <SODTable />
   <hr>
   <HDXCharts />
   <hr>
