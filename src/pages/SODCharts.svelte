@@ -138,7 +138,7 @@
 </script>
 
 
-<h3>Percent change in Available and Up-to-date data by sub-category (2023-2024)</h3>
+<h3>Percent change in Available and Up-to-date data by subcategory (2023–2024)</h3>
 <div id="sod-chart-container"></div>
 
 
