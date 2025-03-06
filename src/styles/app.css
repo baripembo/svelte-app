@@ -147,6 +147,12 @@ select {
   width: 25px;
 }
 
+#sod-chart-container .tick text,
+#sod-chart-container g text
+ {
+  font-size: 12px;
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {
