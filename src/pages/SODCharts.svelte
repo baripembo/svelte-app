@@ -78,9 +78,12 @@
       .data(data)
       .join("line")
         .attr("x1", x(0))
-        .attr("x2", d => x(d.value))
+        .attr("x2", x(0)) // start at x(0)
         .attr("y1", (d, i) => y(i) + y.bandwidth() / 2)
-        .attr("y2", (d, i) => y(i) + y.bandwidth() / 2);
+        .attr("y2", (d, i) => y(i) + y.bandwidth() / 2)
+      .transition()
+        .duration(1000)
+        .attr("x2", d => x(d.value));
 
     // Add the x-axis
     svg.append("g")
@@ -131,4 +134,7 @@
 
 
 <style>
+  h3 {
+    margin-bottom: 10px;
+  }
 </style>
