@@ -6,8 +6,8 @@
   import HRPChartsNoEmbeds from './pages/HRPChartsNoEmbeds.svelte';
   import OCHACharts from './pages/OCHACharts.svelte';
   import ROWCACharts from './pages/ROWCACharts.svelte';
+  import Sankey from './pages/Sankey.svelte';
   import SODCharts from './pages/SODCharts.svelte';
-  import SOD2Charts from './pages/SOD2Charts.svelte';
   import SODTable from './pages/SODTable.svelte';
   import WFPCharts from './pages/WFPCharts.svelte';
 </script>
@@ -21,9 +21,9 @@
     </a>
   </div>
 
-  <SODCharts />
+  <Sankey />
   <hr>
-  <SOD2Charts />
+  <SODCharts />
   <hr>
   <SODTable />
   <hr>
